@@ -1,58 +1,121 @@
-
 <!DOCTYPE html>
 <html lang="it">
 <head>
-  <meta charset="UTF-8">
-  <title>Accesso Bull Face B</title>
-  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>🔐 Bull Face B – Accesso Sicuro</title>
+  <!-- Google Font -->
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600&display=swap" rel="stylesheet">
+
   <style>
-    body { font-family: Arial; text-align: center; padding: 40px; background: #f9f9f9; }
-    h1 { font-size: 28px; margin-bottom: 20px; }
-    input { padding: 10px; font-size: 18px; width: 200px; }
-    button { padding: 10px 20px; font-size: 18px; margin-top: 10px; cursor: pointer; }
-    .hidden { display: none; }
-    .result { font-size: 18px; margin-top: 20px; font-weight: bold; }
-    .error { color: red; }
+    :root {
+      --bg: #f0f2f5;
+      --card: #ffffff;
+      --primary: #4c6ef5;
+      --text: #333333;
+      --error: #e03131;
+      --success: #2f9e44;
+      --shadow: rgba(0, 0, 0, 0.1);
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: 'Inter', sans-serif;
+      background: var(--bg);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      height: 100vh;
+      padding: 20px;
+    }
+    .card {
+      background: var(--card);
+      padding: 40px;
+      border-radius: 12px;
+      box-shadow: 0 8px 24px var(--shadow);
+      max-width: 360px;
+      width: 100%;
+      text-align: center;
+    }
+    .card h1 {
+      font-size: 1.6rem;
+      margin-bottom: 0.5rem;
+      color: var(--text);
+    }
+    .card p {
+      margin-bottom: 2rem;
+      color: var(--text);
+      font-size: 0.95rem;
+    }
+    .card input {
+      width: 100%;
+      padding: 12px;
+      font-size: 1rem;
+      border: 2px solid #ddd;
+      border-radius: 6px;
+      margin-bottom: 1rem;
+      transition: border-color .2s;
+    }
+    .card input:focus {
+      outline: none;
+      border-color: var(--primary);
+    }
+    .card button {
+      width: 100%;
+      padding: 12px;
+      font-size: 1rem;
+      background: var(--primary);
+      color: #fff;
+      border: none;
+      border-radius: 6px;
+      cursor: pointer;
+      transition: background .2s;
+    }
+    .card button:hover {
+      background: #3b5bdb;
+    }
+    .message {
+      font-size: 0.95rem;
+      margin-top: 1rem;
+      display: none;
+    }
+    .message.visible { display: block; }
+    .message.error { color: var(--error); }
+    .message.success { color: var(--success); }
   </style>
 </head>
 <body>
 
-  <h1>🔐 Bull Face B – Accesso Sicuro</h1>
-  <p>Inserisci il tuo PIN personale per sbloccare l'accesso:</p>
-
-  <input type="password" id="pin" placeholder="PIN" />
-  <br>
-  <button onclick="checkPIN()">Sblocca</button>
-
-  <div id="output" class="result hidden"></div>
-  <div id="error" class="result error hidden"></div>
+  <div class="card">
+    <h1>🔐 Bull Face B</h1>
+    <p>Inserisci il tuo PIN personale per sbloccare l’accesso</p>
+    <input type="password" id="pin" placeholder="✔︎ PIN a 4 cifre" autofocus />
+    <button onclick="checkPIN()">Sblocca</button>
+    <div id="msg" class="message"></div>
+  </div>
 
   <script>
-    const id = window.location.pathname.replace("/", "").trim();
-
+    const id = location.pathname.replace('/', '').trim();
     async function checkPIN() {
-      const pinInput = document.getElementById("pin").value;
-      const output = document.getElementById("output");
-      const error = document.getElementById("error");
+      const pin = document.getElementById('pin').value.trim();
+      const msg = document.getElementById('msg');
+      msg.className = 'message';
+      msg.textContent = '';
 
-      const res = await fetch("dati.json");
-      const data = await res.json();
-
-      if (!data[id]) {
-        error.textContent = "ID orologio non valido.";
-        error.classList.remove("hidden");
-        output.classList.add("hidden");
-        return;
-      }
-
-      if (pinInput === data[id].pin) {
-        output.textContent = "✅ Password: " + data[id].password;
-        output.classList.remove("hidden");
-        error.classList.add("hidden");
-      } else {
-        error.textContent = "❌ PIN errato.";
-        error.classList.remove("hidden");
-        output.classList.add("hidden");
+      try {
+        const data = await (await fetch('dati.json')).json();
+        if (!data[id]) {
+          msg.textContent = '🔍 ID orologio non valido.';
+          msg.classList.add('visible','error');
+        } else if (pin === data[id].pin) {
+          msg.textContent = '✅ Password: ' + data[id].password;
+          msg.classList.add('visible','success');
+        } else {
+          msg.textContent = '❌ PIN errato.';
+          msg.classList.add('visible','error');
+        }
+      } catch (e) {
+        msg.textContent = '⚠️ Errore di rete. Riprova.';
+        msg.classList.add('visible','error');
       }
     }
   </script>
