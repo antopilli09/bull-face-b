@@ -1,0 +1,6 @@
+{
+  "rewrites": [
+    { "source": "/dati.json", "destination": "/dati.json" },
+    { "source": "/(.*)",       "destination": "/index.html" }
+  ]
+}
