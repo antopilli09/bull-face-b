@@ -1,0 +1,10 @@
+{
+  "orologio001": {
+    "pin": "4321",
+    "password": "abcDEF123!"
+  },
+  "orologio002": {
+    "pin": "9999",
+    "password": "qweRTY789@"
+  }
+}

@@ -1,0 +1,61 @@
+
+<!DOCTYPE html>
+<html lang="it">
+<head>
+  <meta charset="UTF-8">
+  <title>Accesso Bull Face B</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <style>
+    body { font-family: Arial; text-align: center; padding: 40px; background: #f9f9f9; }
+    h1 { font-size: 28px; margin-bottom: 20px; }
+    input { padding: 10px; font-size: 18px; width: 200px; }
+    button { padding: 10px 20px; font-size: 18px; margin-top: 10px; cursor: pointer; }
+    .hidden { display: none; }
+    .result { font-size: 18px; margin-top: 20px; font-weight: bold; }
+    .error { color: red; }
+  </style>
+</head>
+<body>
+
+  <h1>🔐 Bull Face B – Accesso Sicuro</h1>
+  <p>Inserisci il tuo PIN personale per sbloccare l'accesso:</p>
+
+  <input type="password" id="pin" placeholder="PIN" />
+  <br>
+  <button onclick="checkPIN()">Sblocca</button>
+
+  <div id="output" class="result hidden"></div>
+  <div id="error" class="result error hidden"></div>
+
+  <script>
+    const id = window.location.pathname.replace("/", "").trim();
+
+    async function checkPIN() {
+      const pinInput = document.getElementById("pin").value;
+      const output = document.getElementById("output");
+      const error = document.getElementById("error");
+
+      const res = await fetch("dati.json");
+      const data = await res.json();
+
+      if (!data[id]) {
+        error.textContent = "ID orologio non valido.";
+        error.classList.remove("hidden");
+        output.classList.add("hidden");
+        return;
+      }
+
+      if (pinInput === data[id].pin) {
+        output.textContent = "✅ Password: " + data[id].password;
+        output.classList.remove("hidden");
+        error.classList.add("hidden");
+      } else {
+        error.textContent = "❌ PIN errato.";
+        error.classList.remove("hidden");
+        output.classList.add("hidden");
+      }
+    }
+  </script>
+
+</body>
+</html>
