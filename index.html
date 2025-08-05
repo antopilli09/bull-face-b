@@ -9,13 +9,13 @@
 
   <style>
     :root {
-      --bg: #f0f2f5;
-      --card: #ffffff;
-      --primary: #4c6ef5;
-      --text: #333333;
+      --bg: #121212;
+      --card: #1e1e1e;
+      --primary: #f5c542; /* Colore giallo lucchetto */
+      --text: #e0e0e0;
       --error: #e03131;
       --success: #2f9e44;
-      --shadow: rgba(0, 0, 0, 0.1);
+      --shadow: rgba(0, 0, 0, 0.5);
     }
     * { box-sizing: border-box; margin: 0; padding: 0; }
     body {
@@ -50,10 +50,15 @@
       width: 100%;
       padding: 12px;
       font-size: 1rem;
-      border: 2px solid #ddd;
+      border: 2px solid #333;
       border-radius: 6px;
       margin-bottom: 1rem;
+      background: #2a2a2a;
+      color: var(--text);
       transition: border-color .2s;
+    }
+    .card input::placeholder {
+      color: #999;
     }
     .card input:focus {
       outline: none;
@@ -64,14 +69,14 @@
       padding: 12px;
       font-size: 1rem;
       background: var(--primary);
-      color: #fff;
+      color: #121212;
       border: none;
       border-radius: 6px;
       cursor: pointer;
       transition: background .2s;
     }
     .card button:hover {
-      background: #3b5bdb;
+      background: #ddb341;
     }
     .message {
       font-size: 0.95rem;
