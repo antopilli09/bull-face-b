@@ -58,9 +58,7 @@
       color: var(--text);
       transition: border-color .2s;
     }
-    .card input::placeholder {
-      color: #999;
-    }
+    .card input::placeholder { color: #999; }
     .card input:focus {
       outline: none;
       border-color: var(--primary);
@@ -76,9 +74,7 @@
       cursor: pointer;
       transition: background .2s;
     }
-    .card button:hover {
-      background: #ddb341;
-    }
+    .card button:hover { background: #ddb341; }
     .message {
       font-size: 0.95rem;
       margin-top: 1rem;
@@ -93,22 +89,23 @@
 
   <div class="card">
     <h1>🔐 Bull Face B</h1>
-    <p>Inserisci il tuo PIN personale per sbloccare l’accesso</p>
+    <p>Inserisci il tuo PIN personale per sbloccare l’accesso:</p>
     <input type="password" id="pin" placeholder="✔︎ PIN a 4 cifre" autofocus />
     <button onclick="checkPIN()">Sblocca</button>
     <div id="msg" class="message"></div>
   </div>
 
   <script>
-    const id = location.pathname.replace('/', '').trim();
+    const id = location.pathname.replace(/^\//, '').trim();
     async function checkPIN() {
       const pin = document.getElementById('pin').value.trim();
       const msg = document.getElementById('msg');
       msg.className = 'message';
       msg.textContent = '';
-
       try {
-        const data = await (await fetch('dati.json')).json();
+        const res = await fetch('/dati.json');
+        if (!res.ok) throw new Error('File dati non trovato');
+        const data = await res.json();
         if (!data[id]) {
           msg.textContent = '🔍 ID orologio non valido.';
           msg.classList.add('visible','error');
@@ -120,8 +117,9 @@
           msg.classList.add('visible','error');
         }
       } catch (e) {
-        msg.textContent = '⚠️ Errore di rete. Riprova.';
+        msg.textContent = '⚠️ Errore di rete o file non trovato.';
         msg.classList.add('visible','error');
+        console.error(e);
       }
     }
   </script>
