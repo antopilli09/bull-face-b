@@ -1,7 +1,6 @@
 {
   "rewrites": [
     { "source": "/api/(.*)", "destination": "/api/$1" },
-    { "source": "/dati.json", "destination": "/dati.json" },
     { "source": "/(.*)", "destination": "/index.html" }
   ],
   "headers": [
