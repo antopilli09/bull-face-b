@@ -96,33 +96,44 @@
   </div>
 
   <script>
-    const id = location.pathname.replace(/^\//, '').trim();
+    const id = location.pathname.replace(/^\/+/, '').trim();
+
     async function checkPIN() {
       const pin = document.getElementById('pin').value.trim();
       const msg = document.getElementById('msg');
       msg.className = 'message';
       msg.textContent = '';
+
       try {
-        const res = await fetch('/dati.json');
-        if (!res.ok) throw new Error('File dati non trovato');
+        const res = await fetch('/api/unlock', {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify({ id, pin })
+        });
+
         const data = await res.json();
-        if (!data[id]) {
-          msg.textContent = '🔍 ID orologio non valido.';
+
+        if (!res.ok) {
+          if (res.status === 404) {
+            msg.textContent = '🔍 ID orologio non valido.';
+          } else if (res.status === 401) {
+            msg.textContent = '❌ PIN errato.';
+          } else {
+            msg.textContent = '⚠️ Errore di rete o server.';
+          }
           msg.classList.add('visible','error');
-        } else if (pin === data[id].pin) {
-          msg.textContent = '✅ Password: ' + data[id].password;
-          msg.classList.add('visible','success');
-        } else {
-          msg.textContent = '❌ PIN errato.';
-          msg.classList.add('visible','error');
+          return;
         }
+
+        msg.textContent = '✅ Codice di sblocco: ' + data.secret;
+        msg.classList.add('visible','success');
+
       } catch (e) {
-        msg.textContent = '⚠️ Errore di rete o file non trovato.';
-        msg.classList.add('visible','error');
         console.error(e);
+        msg.textContent = '⚠️ Errore di rete.';
+        msg.classList.add('visible','error');
       }
     }
   </script>
-
 </body>
 </html>
