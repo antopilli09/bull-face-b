@@ -89,48 +89,63 @@
 
   <div class="card">
     <h1>🔐 Bull Face B</h1>
-    <p>Inserisci il tuo PIN personale per sbloccare l’accesso:</p>
-    <input type="password" id="pin" placeholder="✔︎ PIN a 4 cifre" autofocus />
-    <button onclick="checkPIN()">Sblocca</button>
+    <p>Inserisci ID orologio e PIN per sbloccare l’accesso:</p>
+
+    <input id="id" placeholder="es. orologio001" />
+    <input type="password" id="pin" placeholder="✔︎ PIN a 4 cifre" inputmode="numeric" autofocus />
+    <button onclick="sblocca()">Sblocca</button>
+
     <div id="msg" class="message"></div>
   </div>
 
   <script>
-    const id = location.pathname.replace(/^\/+/, '').trim();
+    // Precompila ID se è presente nell'URL (/orologio001 o ?id=orologio001)
+    (function preloadIdFromUrl() {
+      const params = new URLSearchParams(location.search);
+      const qid = params.get('id');
+      const pathSeg = location.pathname.replace(/^\/+/, '').trim(); // es. "orologio001"
+      const idInput = document.getElementById('id');
+      if (qid) idInput.value = qid;
+      else if (pathSeg && !pathSeg.includes('.')) idInput.value = pathSeg; // evita index.html
+    })();
 
-    async function checkPIN() {
+    async function sblocca() {
+      const id = document.getElementById('id').value.trim();
       const pin = document.getElementById('pin').value.trim();
       const msg = document.getElementById('msg');
+
       msg.className = 'message';
       msg.textContent = '';
+
+      if (!id || !pin) {
+        msg.textContent = 'Inserisci sia ID che PIN.';
+        msg.classList.add('visible','error');
+        return;
+      }
 
       try {
         const res = await fetch('/api/unlock', {
           method: 'POST',
           headers: { 'Content-Type': 'application/json' },
+          cache: 'no-store',
           body: JSON.stringify({ id, pin })
         });
 
         const data = await res.json();
 
-        if (!res.ok) {
-          if (res.status === 404) {
-            msg.textContent = '🔍 ID orologio non valido.';
-          } else if (res.status === 401) {
-            msg.textContent = '❌ PIN errato.';
-          } else {
-            msg.textContent = '⚠️ Errore di rete o server.';
-          }
+        if (!res.ok || !data.ok) {
+          msg.textContent = '❌ ID/PIN non validi.';
           msg.classList.add('visible','error');
           return;
         }
 
-        msg.textContent = '✅ Codice di sblocco: ' + data.secret;
+        // ✅ Successo: la tua API manda { ok:true, password: ... }
+        msg.textContent = '✅ Codice di sblocco: ' + data.password;
         msg.classList.add('visible','success');
 
       } catch (e) {
         console.error(e);
-        msg.textContent = '⚠️ Errore di rete.';
+        msg.textContent = '⚠️ Errore di rete o server.';
         msg.classList.add('visible','error');
       }
     }
