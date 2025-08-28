@@ -1,2402 +1,2402 @@
 {
   "orologio001": {
-    "pin": "1662",
-    "password": "M$%mtS22ssRJ7f"
+    "password": "M$%mtS22ssRJ7f",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$eX24DyaD14tz7hdSkyC4qg==$FMBhhEada8eWdde0nnX5DcKOf3nYZWSmyjj7ehYdWh0="
   },
   "orologio002": {
-    "pin": "0688",
-    "password": "f:ieu0yVQ5LC+8"
+    "password": "f:ieu0yVQ5LC+8",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$DHa8YoRx/cXdoBn21qzpYA==$NFcfsVdbAU+LHz5BoWzNIqQ7qy2M1UcXIt4QZPTwWng="
   },
   "orologio003": {
-    "pin": "4688",
-    "password": "y&zbo*1FHNz9K8"
+    "password": "y&zbo*1FHNz9K8",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$pFbDyx4c+/BHLX4v4Gy/Mg==$Vqg/y0QRIHqfF5kwnrkdZGUkUq+G6ZpfiY4R6n/RnN0="
   },
   "orologio004": {
-    "pin": "8744",
-    "password": "evM*(Q604OsCqz"
+    "password": "evM*(Q604OsCqz",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$nYlsD1yCQ+XaR78TRwsq3Q==$DR6Cxz1fhTIlTKzd9VTPQIYUsWSLeTRHNsaoSzZIwt0="
   },
   "orologio005": {
-    "pin": "9633",
-    "password": ":pZoX32uKq&A3t"
+    "password": ":pZoX32uKq&A3t",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$Nhixv3miqA9qER++UyBejg==$N49kx8wuk/x7Nypfn9be6hcMNCSFdnw+XAPvhkeWz1s="
   },
   "orologio006": {
-    "pin": "4853",
-    "password": "ClSrc1$93uZ^Gh"
+    "password": "ClSrc1$93uZ^Gh",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$gP+2FLnH6r3iE8vOtr+iHQ==$ENvKc9/1Zs/PpB2qoOvfHWG7iR9ZZHUHorjtVh9fLCk="
   },
   "orologio007": {
-    "pin": "9542",
-    "password": "@oT9SH4w?b5vKf"
+    "password": "@oT9SH4w?b5vKf",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$+kb+IYEetEi55gp/VT3KMQ==$wKqElddFQZ589OfPqRdM7fKHu622cKoen/g+6x3lBP8="
   },
   "orologio008": {
-    "pin": "1314",
-    "password": "SQsL4ehK4{k+z3"
+    "password": "SQsL4ehK4{k+z3",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$Jw8N8z5pG1ppgQO9ZE3v2g==$sTxkcZAeI50l29lmb/weKELsK1/FaMDbnWCItenwgRU="
   },
   "orologio009": {
-    "pin": "6470",
-    "password": "94u,GSrv0o_LdT"
+    "password": "94u,GSrv0o_LdT",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$3EY5gdic6pJh13noYfMJ3A==$/o1XXQ5YdCLOIbspTaVU2p7xoflN1qafpbwHwPVxjSs="
   },
   "orologio010": {
-    "pin": "6741",
-    "password": "gdFu;M0$ZEo4h1"
+    "password": "gdFu;M0$ZEo4h1",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$kY9O8vvAvxYBfHcUUNYzyw==$D6kekET7L+IbNY83Q2IVJZvwsgcoVjRwjufx1+bOsKo="
   },
   "orologio011": {
-    "pin": "8841",
-    "password": "8YkzPZ{6pc0#eJ"
+    "password": "8YkzPZ{6pc0#eJ",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$pR/zI8a6USj30YsCkDfxEQ==$0pYtCnVmMy/C9JKdB6OgEqZup1vNM56SuO6ina37lVM="
   },
   "orologio012": {
-    "pin": "7103",
-    "password": "bK9(x#7ioYAK1y"
+    "password": "bK9(x#7ioYAK1y",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$8Sls7tKIouCOuzAe+s6oMw==$U+7cAfPRW5YJxYD2QYAWXM07pftqVUWQQRMObLqDciA="
   },
   "orologio013": {
-    "pin": "0639",
-    "password": "?3WvMoupYkT84&"
+    "password": "?3WvMoupYkT84&",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$b95awh0wFR+8Qr/LBVYXdQ==$VrrOZKuiUh8A9GMU5pxlMTFIUHI4Y++jfza7ILFBLjo="
   },
   "orologio014": {
-    "pin": "7020",
-    "password": "673EB%psbZe,qJ"
+    "password": "673EB%psbZe,qJ",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$0I8pl3JDe7g3Zx+DZ0UUJA==$yN6r9iB451Jg0ttWh10BzOsOZ5drwgKIgWTodYJ364k="
   },
   "orologio015": {
-    "pin": "2529",
-    "password": "4xBNBw{3o5qHk,"
+    "password": "4xBNBw{3o5qHk,",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$Bu/KlC1eGkQiNHO0ehqlGw==$5EqwDEB053Z8TOsbrTj7ncXCMHIM2+JkWrfLjPcred8="
   },
   "orologio016": {
-    "pin": "5556",
-    "password": "rHc1x]@Vp4Ii5L"
+    "password": "rHc1x]@Vp4Ii5L",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$3iquDNDxXiaBbWARdu/yUg==$TKJSo0xsdGOiRT2YGuBFrLT6ahvKUcq3W9UXbS4MhBE="
   },
   "orologio017": {
-    "pin": "4292",
-    "password": "!9fLLhJlD4n,y9"
+    "password": "!9fLLhJlD4n,y9",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$sri7lATN8eh2YeC312mnKA==$kg16CE/ybZkcjIU0ygTLSQ8qTqhHGdU9TF+EbKu0w1U="
   },
   "orologio018": {
-    "pin": "1645",
-    "password": "u5m7]e5TjKCi-R"
+    "password": "u5m7]e5TjKCi-R",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$ZdNbw4jCnfpfVZiDe0uP9A==$HcOalJdgXXoJby31CPeYnxs53hdM1uPav2PqIpDB7Bg="
   },
   "orologio019": {
-    "pin": "8304",
-    "password": "faxZ26Kz2D$Ki$"
+    "password": "faxZ26Kz2D$Ki$",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$dYf+QcmgNjayzZVVoE1tdg==$fsFnY7Bmra6VV0mDEDXPMykVNPsnpPpyv5/GIQijT2s="
   },
   "orologio020": {
-    "pin": "2651",
-    "password": "6zO3+(5pJfFqSl"
+    "password": "6zO3+(5pJfFqSl",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$rHrQMP8Gh/PElM41dyylFQ==$sjWFcaNl0Aox704oF6fBXo+i78YdlsxxLORX/q+j1j8="
   },
   "orologio021": {
-    "pin": "6484",
-    "password": "98bes3YCbV=J;m"
+    "password": "98bes3YCbV=J;m",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$3dbqC8kYVtPHLz1i5p1k4w==$XO/6O70J5DgVq4DxnTBOoeBMfbYy+QYCl5KGrAJhXxg="
   },
   "orologio022": {
-    "pin": "5918",
-    "password": ")q3b{s5A7QXgzU"
+    "password": ")q3b{s5A7QXgzU",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$b9lkZxaEq/BzdRUkzOhDyA==$kQEoeCj8LWfO1NaQ3tVWsJQMmqn8N68s8jlTxfNSEZg="
   },
   "orologio023": {
-    "pin": "8080",
-    "password": "Nh7sQCp6@@qO3u"
+    "password": "Nh7sQCp6@@qO3u",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$WMoHeNibVKiJ/zwOOK/qvQ==$wbzQYxsVxXS3u/fXO1UxEHhQpm63AM3CCDfMdU/gYhY="
   },
   "orologio024": {
-    "pin": "8360",
-    "password": "M6pRyehA27iU_*"
+    "password": "M6pRyehA27iU_*",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$U/uSo3nYGkhlWMJtowxXeg==$k4gu7Is31HNk6o1MkDKtKLSB/A1FL+E789u7Vvz+MKU="
   },
   "orologio025": {
-    "pin": "3159",
-    "password": "b09fCKfD:*jS8m"
+    "password": "b09fCKfD:*jS8m",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$Hi1IyoaWyLUktxCFyG85mQ==$oMGdva2YUTd24INEbbHEQHoQNVMu46OdLWQLKrVtnUk="
   },
   "orologio026": {
-    "pin": "0459",
-    "password": "kX6x!q1SirZY7]"
+    "password": "kX6x!q1SirZY7]",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$x81r3nXfk0GL8u8f2K8ERQ==$tE1XD2VfZr77xyLCD1pGUBipOzvAIrEi7Kub4qCd7g0="
   },
   "orologio027": {
-    "pin": "9358",
-    "password": "DuKm2_ku0SY5s;"
+    "password": "DuKm2_ku0SY5s;",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$0ooZ7OCbSx6ls3/sOJRlTA==$HJSk+vXZ783wPvjdFbRWXyGXJpQDMMxZjdjFQ7lNCsc="
   },
   "orologio028": {
-    "pin": "7208",
-    "password": "GNIj:hs740o{Rr"
+    "password": "GNIj:hs740o{Rr",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$mtYW+emWkYPmVZqCIGlTaQ==$jR588MdFGXoXelppdCEvkgsMdjD1rXWcL4ZbiYRBj9s="
   },
   "orologio029": {
-    "pin": "2950",
-    "password": "1WfH89w-J!Awji"
+    "password": "1WfH89w-J!Awji",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$3uABDffjOYQokI7XH0BBPA==$ekudYq3y0yLtHy+6/CZElY7EcVUyb5D46xTelPrct5U="
   },
   "orologio030": {
-    "pin": "8264",
-    "password": "O9riQ0DVkwb2{*"
+    "password": "O9riQ0DVkwb2{*",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$tkdDjH6polsd0uLqCs6BFw==$doXmX4D9GPC7RLQ6xldyluaAx83+Zv9GFD6vSBTJtcc="
   },
   "orologio031": {
-    "pin": "1759",
-    "password": "Twx}v5f7BK=F4n"
+    "password": "Twx}v5f7BK=F4n",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$N+RxfNWzu0vOtyUE1dpSwg==$pKQPR1r1u6V1FKkXMnlNO6ORXcM9dpfqMxZb+VY/qfg="
   },
   "orologio032": {
-    "pin": "7349",
-    "password": "N@8fYA7$dugKp1"
+    "password": "N@8fYA7$dugKp1",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$xreQxkpipdwHH6OHy/neKw==$f3XtNVhTvo3YjTAv8NU3Stn7ZAxWDOibsXiikHwvzn4="
   },
   "orologio033": {
-    "pin": "4016",
-    "password": "2-3hMv!Zlk2bES"
+    "password": "2-3hMv!Zlk2bES",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$sAdqMaJF4nIZ5RUUMy4eMA==$F+AVA5a2hCgBwApS1pRFBclRClnaH3wuqVQ4KwAQSOg="
   },
   "orologio034": {
-    "pin": "3068",
-    "password": "6xyA.R7-gWwBo5"
+    "password": "6xyA.R7-gWwBo5",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$OasvOyOUUx2+ubqOJxu9Jg==$I1YD99NW3MLWaKcfg5y8y0d5FAjNvsjE68rASCkXPiI="
   },
   "orologio035": {
-    "pin": "1512",
-    "password": "z[bk]3Wto69PFQ"
+    "password": "z[bk]3Wto69PFQ",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$Ec2Z92mZAcDLnI0usPHmGg==$TKU9lbQxqVRsHv+hUlnNviEQQYiZ0KXH9+O2CqCLU4I="
   },
   "orologio036": {
-    "pin": "5125",
-    "password": "*VX32&8yFpGmyx"
+    "password": "*VX32&8yFpGmyx",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$qRqEgpP6hL6pCVgVYDc2TA==$vuQcfUo35PL2L9JqhPAV004eqGuwOiyLxvyn6QAqd+o="
   },
   "orologio037": {
-    "pin": "7884",
-    "password": "-RpflP3M7=bE0f"
+    "password": "-RpflP3M7=bE0f",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$Ph3nQpTXZFjNFx0UzWu1WA==$yc+MbfZbe49m+g7DsS6BKl19p20Dm2+vlPzdi8ZeoaE="
   },
   "orologio038": {
-    "pin": "0778",
-    "password": "&VC2xXMtj1r7s("
+    "password": "&VC2xXMtj1r7s(",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$FQp/hqICai4MLd54dQl9BQ==$Y/idAzttDeECRi1MHVo5LDruoSzh2UdROi8LJ/NLN1c="
   },
   "orologio039": {
-    "pin": "4417",
-    "password": "8Bnuv2qvK0C&L["
+    "password": "8Bnuv2qvK0C&L[",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$9z6lurHC6PrRdrPpB3TlzQ==$bn417/tL+HjwBkBRRd0Iia9Xv+eRyQsRA8hhMYnZUCA="
   },
   "orologio040": {
-    "pin": "1303",
-    "password": "9FDkku&:4qR0Vp"
+    "password": "9FDkku&:4qR0Vp",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$D/+YPTxo2h8ZOpmaZ3pDxw==$d+EAHgBRGiSc0Bz0zPWivubrqHT++ONMox0DkGVE57k="
   },
   "orologio041": {
-    "pin": "8329",
-    "password": "x@lI3oP8{yE9kM"
+    "password": "x@lI3oP8{yE9kM",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$F+RHoxZhnXRQkD6ePi04HA==$r5eJGta6Vz6usnbQUkkj+9fkn6+wvnypr8NS2ySxXFM="
   },
   "orologio042": {
-    "pin": "7612",
-    "password": "p-Rxn^It81x4DB"
+    "password": "p-Rxn^It81x4DB",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$dYH/W7rz04ChrdyFK2F1Tg==$7iena7I9nNWH8lEyhp7I0Zt0Ew4N9zhaC2EQ4imVLSg="
   },
   "orologio043": {
-    "pin": "6447",
-    "password": "c3b(SOd{5jSNn9"
+    "password": "c3b(SOd{5jSNn9",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$J0pjp7qkt8vHpuLNPffH8A==$0xaRZhUGTK+2dqWZ20Bo7a6fTTYFBpQngKu/k2BROZg="
   },
   "orologio044": {
-    "pin": "2099",
-    "password": "@6CwnWvM65Ude-"
+    "password": "@6CwnWvM65Ude-",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$tPpqsFLKxYizAUIN93pCKA==$m9T6BiqlknPUrmOzLXyRkY8ysGhvoqjVEUi+OmNWoXE="
   },
   "orologio045": {
-    "pin": "4162",
-    "password": "T^BsCuB_6ra5e2"
+    "password": "T^BsCuB_6ra5e2",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$qQnwB9cDJjT/Qyyeyx/iQA==$YrpWIWrqQfMT8tLxYHu98EdnWsmqQlZICHycsNyRz3k="
   },
   "orologio046": {
-    "pin": "4639",
-    "password": "NP23Vg}-5uvBug"
+    "password": "NP23Vg}-5uvBug",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$8lK0AEy42wz+XUGfEp4lGQ==$aqOj6vJZ1nvLWWRzddntkki4KH7b5WsznSTTW2MWRQ8="
   },
   "orologio047": {
-    "pin": "5990",
-    "password": "2XtjQ5js%kD6}K"
+    "password": "2XtjQ5js%kD6}K",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$+bIBOCzIHgh6f9O6nxg+bg==$TyIV8lIEfaSNAWbnQWq5LZWWz3vJWS1yOhOL3Cp1s3U="
   },
   "orologio048": {
-    "pin": "4150",
-    "password": "IfD49]qJl9tv@T"
+    "password": "IfD49]qJl9tv@T",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$E1Q4BTA2mEXtAYkR2JyT1g==$q/w+UWTT9eEFs4xkDY5ASVERN8q6b0UB1Etz03lpMA0="
   },
   "orologio049": {
-    "pin": "2523",
-    "password": "s5Hj9F:@OQ6iwf"
+    "password": "s5Hj9F:@OQ6iwf",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$AuxVJJYBk40csclgB2iTnw==$dDDVUC8H8fyNwpp4XCv5uKIKUX56coez56QLmYuqpBo="
   },
   "orologio050": {
-    "pin": "5851",
-    "password": "RjFha&:7oc1RD8"
+    "password": "RjFha&:7oc1RD8",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$jY8WHa87UX9NsgRDNagnXw==$DOK+4GAd5lIGT1apyu6pdBgQWD9QrSUy62lzNwdpbtQ="
   },
   "orologio051": {
-    "pin": "4971",
-    "password": "W#1Q0d*dPnXe9g"
+    "password": "W#1Q0d*dPnXe9g",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$fpfbDuY0Wi30yrZLaVsDwQ==$he2e+B/UXXKckLZ0sqPNpmiqN59m7wWelywinVDBFl4="
   },
   "orologio052": {
-    "pin": "8350",
-    "password": "1GxHx(3dbO.tA8"
+    "password": "1GxHx(3dbO.tA8",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$AHGmPuv8nmN3cUHCHfbc+A==$qYqdBsN93eoVKO46m+4/e7R8TtVZ+O/7p+yS3KtZ2Ww="
   },
   "orologio053": {
-    "pin": "1998",
-    "password": "w5gw-_NRRxL8o1"
+    "password": "w5gw-_NRRxL8o1",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$Kw74Cd8odo4Zv9j6wwE6+A==$CF4+wf9jobeOdFJQTHW/p6bYQeAOTi4zTSBn+MLywY8="
   },
   "orologio054": {
-    "pin": "3591",
-    "password": "ih}MHW0Lg63t-z"
+    "password": "ih}MHW0Lg63t-z",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$5lVGOu0wMAVk9GKQGuwm9g==$zF3wemFZvkj3AUNipVUUkDUBN3NidUzu5RxlO7Pu3SQ="
   },
   "orologio055": {
-    "pin": "6329",
-    "password": "r7OiGv4^5uvYK#"
+    "password": "r7OiGv4^5uvYK#",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$p/xSyuOOdaZ2GK71dwaQKw==$p817AGuK3CbnaiuUGXyjcH0t5HOJEm8F2eNh/fdj/ks="
   },
   "orologio056": {
-    "pin": "4398",
-    "password": "-UInUVk7p7ew_7"
+    "password": "-UInUVk7p7ew_7",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$Y0s0yS6SXP8hrORStuBdeg==$zmw7dQdrbc7BUMXmLtyMoFH4DwPKjn6WBO4cn7FLUbw="
   },
   "orologio057": {
-    "pin": "3391",
-    "password": "9CLuJlgu.o}O65"
+    "password": "9CLuJlgu.o}O65",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$ldfNmqlnXFWc5DZcPFwGRQ==$YTTPBe0BRouGL49pYFEAuxCUwPBOM0qxs0NYDUxz6CE="
   },
   "orologio058": {
-    "pin": "6014",
-    "password": "rNmDO19e}h5S&g"
+    "password": "rNmDO19e}h5S&g",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$/PxAMpZOeqn38y25PPc/Bg==$GG+bz23yReOUeOg/SwyAXi/EgTj+ivQ2aEC9CdunlQM="
   },
   "orologio059": {
-    "pin": "2486",
-    "password": "M9fb21;^wBKzLt"
+    "password": "M9fb21;^wBKzLt",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$BqWYU82VF++99/xgJkF6lA==$dvu5Ps4TjH3ZhhhtRgtMGt7DV8dkFhJmY1EdY+QB7Tw="
   },
   "orologio060": {
-    "pin": "2757",
-    "password": "rj9_cmE1G5Z_Bq"
+    "password": "rj9_cmE1G5Z_Bq",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$7noslYMvODhjmC/3d0QMyA==$BFQgrVIhh7rPOePgnM6xs4J2k50BE5NmjmHqyp/q8KY="
   },
   "orologio061": {
-    "pin": "1850",
-    "password": "zue5K{0mYi]A7Z"
+    "password": "zue5K{0mYi]A7Z",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$rO48k8S6nIi3tl4yuNNaOg==$mPDwbbS4YdXbU6DbGHcYGlKG/Ke0eaVN9a7AZap9C6Y="
   },
   "orologio062": {
-    "pin": "6552",
-    "password": "hDNanK6C*w27[e"
+    "password": "hDNanK6C*w27[e",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$EMLPGeS+YkmmMpuUEYrEEA==$yaGrvtkYJN4KZ3MvrHg/dS87Igm1WvQAtixuSbO0w/s="
   },
   "orologio063": {
-    "pin": "5190",
-    "password": "0_7oGhrQRGrs1["
+    "password": "0_7oGhrQRGrs1[",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$5EONkGsu0TCSupA9+pSurA==$vh9AvgbQs107Jn7s1GDmAcoyn5iGydafnDkCOT86xQM="
   },
   "orologio064": {
-    "pin": "9717",
-    "password": "1_ZQs%nqW77yaQ"
+    "password": "1_ZQs%nqW77yaQ",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$gNRkcBoxPBr/W2Xt6EEHmA==$3yZVHFsbDk+nUDIvi5aKm8ulLl5qqREiTaz+rbbGDfA="
   },
   "orologio065": {
-    "pin": "9238",
-    "password": "Z9Xy00zB(jR#wu"
+    "password": "Z9Xy00zB(jR#wu",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$jwJITmz+f+xq2ckpTegsag==$anVQwzCw75TOGCC9fqud2BmcfbVmq+/7Da00u+jVRZA="
   },
   "orologio066": {
-    "pin": "2301",
-    "password": "b13P?vPon-Sa3C"
+    "password": "b13P?vPon-Sa3C",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$2iFwmAjIgEFtnQE3ZgOO1Q==$1gxxIanPNorIjJCsa7kSMdo0YdjkYSJ6wz76qA6mB8E="
   },
   "orologio067": {
-    "pin": "4453",
-    "password": "^vTv7wI3i3kY:O"
+    "password": "^vTv7wI3i3kY:O",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$5YMn+OaZr9A1NJOlJE9j1Q==$tn39VUqvIa0wwU3gW8dBszA0yt4yeruz8pdOoVWor7g="
   },
   "orologio068": {
-    "pin": "5045",
-    "password": "zm59q?pxZ0UH&N"
+    "password": "zm59q?pxZ0UH&N",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$5qlukoVxceyMpJk32L1igw==$nVysy8aWMZA+nIat7gXgzqFjCmAbtMz7cmAIIkY7Krk="
   },
   "orologio069": {
-    "pin": "8900",
-    "password": "F.4KsxG72mL$yn"
+    "password": "F.4KsxG72mL$yn",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$FRx7jq3/zOWCNmCC7B0oiQ==$1RahrnyyCD0WBuUnVu2fgQWbKRrQHx3be/HEgejGxoM="
   },
   "orologio070": {
-    "pin": "7431",
-    "password": "7Wb]e(zm3lYUY1"
+    "password": "7Wb]e(zm3lYUY1",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$04LCTmBgb0WpJ7Cz4C4O4w==$bndcfSCRZwIGleIyTXnZrw2TNI4wc9SSqjckOZtWsH0="
   },
   "orologio071": {
-    "pin": "6200",
-    "password": "^1V.u1KjdjT2dZ"
+    "password": "^1V.u1KjdjT2dZ",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$tQZR9JqXh45Jp+gEuuq8wA==$mQXgsh5KxYFIG1HPMSW/gwBuKDKAV+jGIZesImBKEyA="
   },
   "orologio072": {
-    "pin": "5439",
-    "password": "2Xq1aSwd0GVa}%"
+    "password": "2Xq1aSwd0GVa}%",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$OWMmXdneDa6z4CuGHmLszw==$K/MilOeW6yh14ogQ9iw1DjYa7zuBq/J9lkzjCaW56Os="
   },
   "orologio073": {
-    "pin": "9730",
-    "password": "chKRI9ez!w8%4P"
+    "password": "chKRI9ez!w8%4P",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$JgjIiQ5MBqqOVBnYQ+afng==$LpPA4u4yekH3dUlq24RkfqusKv+w8TMBOt+KQhjRO74="
   },
   "orologio074": {
-    "pin": "4145",
-    "password": "wu%Mu97yAQq@V4"
+    "password": "wu%Mu97yAQq@V4",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$Q3l5g8yhUxLWsp+iVBau8Q==$WLHlyY0jJ/Xod2kOD/GVTjthDRXW2gA1NS/FKyL0Nyg="
   },
   "orologio075": {
-    "pin": "7855",
-    "password": "*yrZJ63kI}lRg6"
+    "password": "*yrZJ63kI}lRg6",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$N8q/cN9j/Suic2YGP57CnQ==$WJwTWv9F3RRVn/mv2IJzZKqMPuFG7n96ZB+3P8Gg12M="
   },
   "orologio076": {
-    "pin": "6603",
-    "password": "e8Y{Q&n7O3Dumq"
+    "password": "e8Y{Q&n7O3Dumq",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$cBXNgCGYiSpBuZjAFenrYw==$Xoo0bBK7BWPGa1M2GSb33FZ4JSQSxErS5rOROq1Y5Dk="
   },
   "orologio077": {
-    "pin": "9799",
-    "password": "9S6oUK,6hslzM["
+    "password": "9S6oUK,6hslzM[",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$FneG4VsG3N/hQSFGLDVHlg==$we+HOiTRNQ7X3wZCfDPWj+l2VCIadsEmIkT+IDuyNBA="
   },
   "orologio078": {
-    "pin": "3272",
-    "password": "%6a62RDfHCns]n"
+    "password": "%6a62RDfHCns]n",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$HC+y572j1m0RMYKf3w993A==$M6SGH/gHe7/ENSmx5gN1RLyQg8QlR49ofAnOSRb0T8E="
   },
   "orologio079": {
-    "pin": "1171",
-    "password": "6-w1FE7^aaRmCp"
+    "password": "6-w1FE7^aaRmCp",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$ZFb7KeTJFt8YOtntz3CFFw==$XpqXckdkcgkBbY7VsaRed54WmHoK60POaHPp9C9XJlE="
   },
   "orologio080": {
-    "pin": "8865",
-    "password": "3U9JY:0zyOye#e"
+    "password": "3U9JY:0zyOye#e",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$H6Huiwz8tcUK28ptEds8uw==$ijRZiim85QJHXnI9t2kt3vCNkWgwIb6eu6oKIywntWg="
   },
   "orologio081": {
-    "pin": "2339",
-    "password": "Tz&iR3T1vMu]e6"
+    "password": "Tz&iR3T1vMu]e6",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$7Js/q+uwBWC9n+QDYBOTFw==$0z2PyiyINiR7QRtFz+BWxTkhLJ+oCSDpCXu1H0gtQXU="
   },
   "orologio082": {
-    "pin": "1514",
-    "password": "6Yt.J&ioXx8c7S"
+    "password": "6Yt.J&ioXx8c7S",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$PAYKRlHp6+cOa8ydkhB14Q==$xdvb+5Ory3mLZ+5IkB61Kf8wVjzb34CfTbfVhAXc8a0="
   },
   "orologio083": {
-    "pin": "3106",
-    "password": "e7HlcB08uc[W+L"
+    "password": "e7HlcB08uc[W+L",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$QzS9kIhndKlJHPaUCfKzOA==$LuqGZY9fMNq6TSnCcHj0TnqFDfPhFHtsXdu3eODlslM="
   },
   "orologio084": {
-    "pin": "3943",
-    "password": "a?6Oqp?u5F6nAR"
+    "password": "a?6Oqp?u5F6nAR",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$O711U1zo2rTm8rFwUMdrFA==$632F4ZWqZ3Mzl286TxpXwoGctwHjNVnVfPcS9vgFmb8="
   },
   "orologio085": {
-    "pin": "1537",
-    "password": "ULvbTl45_c2=tF"
+    "password": "ULvbTl45_c2=tF",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$3tzuWMA05Yw1zUzJ4zkBUg==$73j0zGqw3LATwgFw1rTKs2NRv9q9Qn45VxNzl0p5T3M="
   },
   "orologio086": {
-    "pin": "7096",
-    "password": "Q9ZX.oa1g0=Btl"
+    "password": "Q9ZX.oa1g0=Btl",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$iYPNi5kiakuVxnwbbhcNXQ==$eoHi9nrgLYyfbOSi1/MzupxRUaUXFRJ70FrvJWLkd5Q="
   },
   "orologio087": {
-    "pin": "0684",
-    "password": "gbCW8=72iRp:Rt"
+    "password": "gbCW8=72iRp:Rt",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$0+QxJpRRKEOAnLGZoYWT5g==$9dElMpY2fjkzJ6QstQzRiMHcM5lINKC6HeoXqbF0tZk="
   },
   "orologio088": {
-    "pin": "5863",
-    "password": "u7Q7VAnoP7-ss]"
+    "password": "u7Q7VAnoP7-ss]",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$jLA+BxCpb3BnA7G72ku5+g==$liEbSJnoB4+irFJ6npxSNYzvpjg9UlkP1jN1iXgCORk="
   },
   "orologio089": {
-    "pin": "3038",
-    "password": "5@ztYbPj#QR5p8"
+    "password": "5@ztYbPj#QR5p8",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$kpBLkEFkO10zPq/ddpNwzQ==$T7YJ9PaxAB4rJntftJAtbG/8bNR80JNob0T1jtnjmjc="
   },
   "orologio090": {
-    "pin": "5051",
-    "password": "Y2xP+_9Dcb2Veo"
+    "password": "Y2xP+_9Dcb2Veo",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$Br2h5Y82hw9XedWm3z1yRg==$7j9q/cJJdkEiTuDjZfh0hxrv8hgqGR3GM4PFgWhvqZw="
   },
   "orologio091": {
-    "pin": "2327",
-    "password": "n8To2tMR,$pyY1"
+    "password": "n8To2tMR,$pyY1",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$+Z6QnQrW5mlnRi8QhjxEHg==$G57VvY9LylOeW4/Gpfs3W3y9wY6/0zAouweH9BwWhSs="
   },
   "orologio092": {
-    "pin": "7811",
-    "password": "g9HzL*4MX1usl}"
+    "password": "g9HzL*4MX1usl}",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$LPZ3nnzu56UNu2QM8AsE2g==$8Qxizv5L6yz2evyE4ph79ZWWlWMRooKbw2We+1UrRnQ="
   },
   "orologio093": {
-    "pin": "7761",
-    "password": "nDa)d@f7T11hWE"
+    "password": "nDa)d@f7T11hWE",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$xzfIsIIUstpZlPe5yOqBXQ==$D/xA0DVt0APGE19EGfUH1gTEoZyNF0/0SztEpA0pO38="
   },
   "orologio094": {
-    "pin": "2378",
-    "password": "!Vd?Vrkp5S3sB2"
+    "password": "!Vd?Vrkp5S3sB2",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$f8MljspqOJbGtLIpmcOnkg==$hwMlcXvhAHwddqXVv1WtMmpnaXMKUE9EHUuHKn4CKI4="
   },
   "orologio095": {
-    "pin": "0568",
-    "password": "rZ7&EKmTv.q53w"
+    "password": "rZ7&EKmTv.q53w",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$pBccIw6cRu+Th4tQNE7U3w==$JAXrhZ4S77AGj9l8YnCHlWWt4Zn4BfHwxaYvNAJthYw="
   },
   "orologio096": {
-    "pin": "6268",
-    "password": "25#2LSzq]buISr"
+    "password": "25#2LSzq]buISr",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$tOL7geNxUqj9Q8y7OKHyCQ==$P0S291DUbDIlLmLsvXFVIP/ran0ysUYnALWa13dxR9U="
   },
   "orologio097": {
-    "pin": "0305",
-    "password": "1W2o)Hw]c2MnqW"
+    "password": "1W2o)Hw]c2MnqW",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$6+R7yKTGgQ2cLPz0OsWYiA==$CXGER76A8wocis3KcZ6UPqPrrMko+hY8Qs9gBbSJ8Fs="
   },
   "orologio098": {
-    "pin": "7976",
-    "password": ",]KxCB2pF8fwj9"
+    "password": ",]KxCB2pF8fwj9",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$gbwpr39++KlXdXLb7PUeBg==$03aDshawcI1hn52DOYCOw++K8btHW8BOdzKtQrQfpJw="
   },
   "orologio099": {
-    "pin": "2498",
-    "password": "sM_Inh3kEd2H2{"
+    "password": "sM_Inh3kEd2H2{",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$tRaWPc8kMziqo1VUBwJQMA==$FmLEuX/3SxvKxCBIIq0BMSRWPNIOsNT6wMlagp/s4jk="
   },
   "orologio100": {
-    "pin": "5938",
-    "password": "8TN#Hd3e@nkU2l"
+    "password": "8TN#Hd3e@nkU2l",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$J2KAirw9VQluWKY3uSrUhw==$zxseLIZrzBAab9Ydi0o9OlGlavDqefB55E3lcD7Au9o="
   },
   "orologio101": {
-    "pin": "5158",
-    "password": "4j3GFqmx4[C%xI"
+    "password": "4j3GFqmx4[C%xI",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$R59KtQR3fPmfR0A8Qc8BZA==$uC8hn58TT5SVYwnHjs0okQ87rb4dPXJgFqRUn3iF/mc="
   },
   "orologio102": {
-    "pin": "4949",
-    "password": ":a+3zJTyO83pKr"
+    "password": ":a+3zJTyO83pKr",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$tYhdtrdlMFU9mh2MSVk90g==$8VWSXpgtIGgk7P+fdrCH3odRzst1C0dejFVuYZfO22U="
   },
   "orologio103": {
-    "pin": "1328",
-    "password": ",yc6lfBWO{61iC"
+    "password": ",yc6lfBWO{61iC",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$FfB3lVJB5yfHCi0A9KG/AQ==$9zLGQIh7OFs5Nt4+abc6POsc5QyYerBYzk/rDIRsWL4="
   },
   "orologio104": {
-    "pin": "4498",
-    "password": "ADx[v7v#3DOpm6"
+    "password": "ADx[v7v#3DOpm6",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$Ys0zPvDJXFbS8LAT25+/qw==$UHt3mE0Zzt81EeMUneBXb7hkmwMox34d+Pm83CGp6uE="
   },
   "orologio105": {
-    "pin": "2878",
-    "password": "Nu0O+K7geCs$5z"
+    "password": "Nu0O+K7geCs$5z",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$u0nftt4TnTGY5q89Cu8wFw==$6wNaiBw/nf6JarniRK9E6YgtaZ0bRE9QqF5qxhbgDU8="
   },
   "orologio106": {
-    "pin": "2755",
-    "password": "hx*2YM0Ul@p8uZ"
+    "password": "hx*2YM0Ul@p8uZ",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$iZ/BEyy2bOMXuEPVRMu2Jg==$DJgg362lNlq5vHRxK8XWq35YxAB9TxMkkMdljlAqNVQ="
   },
   "orologio107": {
-    "pin": "2491",
-    "password": "dlRFe0H+s(1l0M"
+    "password": "dlRFe0H+s(1l0M",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$qHg10ClJCwLsfuB44ud3YQ==$lhk7K3mb9H5LccwEISDjoCerecIfSIJy3qeM8960eZ8="
   },
   "orologio108": {
-    "pin": "9155",
-    "password": "Bx3Sf_#XOas6c7"
+    "password": "Bx3Sf_#XOas6c7",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$Xwfyvij1X5VNUD9bkUc/pA==$2xsjm9y0mPo2dgSR1ze8P/ssKOm9Heh9l3yBQhvVFXQ="
   },
   "orologio109": {
-    "pin": "5810",
-    "password": "hct7k[4HbDI8-F"
+    "password": "hct7k[4HbDI8-F",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$FHoZcWb2gWunhEq4JRWwOA==$5NubB5vxVi0h5+a8123IlfHc/buW/ej3Ig+MgAlUSww="
   },
   "orologio110": {
-    "pin": "6793",
-    "password": "mIVf}je4X8_iH6"
+    "password": "mIVf}je4X8_iH6",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$q+N89xr355RJgs8Q+YAayw==$VEKhJ/asBiWKxFyk6khJZoW0pHWtXEtl6LOkiV1+aNg="
   },
   "orologio111": {
-    "pin": "3202",
-    "password": "Cf:2p[Ex8rRdY5"
+    "password": "Cf:2p[Ex8rRdY5",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$67i0tOb20Aq6U4SFPKPaQQ==$WvpE3x6cxfmmDTl6Qkx4Ge8oMCcKnCAK9NEgUi2wcyo="
   },
   "orologio112": {
-    "pin": "7134",
-    "password": "0GQbDtp:xjN68*"
+    "password": "0GQbDtp:xjN68*",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$bnK+ijpeiF8FM4nc7LapQA==$6kL+Jx9pwb0N4ehvXDRo8PdBTzmdvHn3K9J+gMvA5Kk="
   },
   "orologio113": {
-    "pin": "0751",
-    "password": "}G9s)FV3jRqz5f"
+    "password": "}G9s)FV3jRqz5f",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$wSf5KTaEfReu3zoBtuawDw==$J1dJEqnBJCYy3SJfRrmhRdQcpzXS5xegx84HVs4KjIM="
   },
   "orologio114": {
-    "pin": "1788",
-    "password": "K5-l1^k5iUFOyr"
+    "password": "K5-l1^k5iUFOyr",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$Cqja3Awcl4c7TtGeJCF/9w==$HIR7YjSLUmsFsS0Wr2LJk4j60kiTn7K9yRhC9s8drcg="
   },
   "orologio115": {
-    "pin": "0155",
-    "password": "6m9cJlNGme+9N;"
+    "password": "6m9cJlNGme+9N;",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$/VkOiDq2NLc2YKdICjSskQ==$PDpY8lS0Ir6OZwkOmSPoPZ9JG3V3v14mVjVcgvjJa/0="
   },
   "orologio116": {
-    "pin": "5904",
-    "password": "$)YeG3MnuY0nu8"
+    "password": "$)YeG3MnuY0nu8",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$AOU9As9fBDVPn1KY0BVaBw==$4gLJAH5RLCoy3exTn41HXgtK6WyufkWdHUDuzYrZZe0="
   },
   "orologio117": {
-    "pin": "9287",
-    "password": "IP5I5farf+x8U)"
+    "password": "IP5I5farf+x8U)",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$c2qr7cliwmgHBd/Ptu3ubQ==$ezN97GWJCEW9dGWe4mZh6RJs8Se6fYFbkENfr9k6QLM="
   },
   "orologio118": {
-    "pin": "2346",
-    "password": "g3(SQI}hrg1q4J"
+    "password": "g3(SQI}hrg1q4J",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$IQTACGQVLWXVxaqMY3zKVA==$ZkjPrjO1Wr7ZN14/pLL9ZvWXCDSt30jI3RwDGDo34y8="
   },
   "orologio119": {
-    "pin": "9204",
-    "password": "71RChst9(vZ!vL"
+    "password": "71RChst9(vZ!vL",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$6ZsGi2mPeEulYLC3qnxWQg==$ggo600CPIRxg0tJbpfnRQ3IG+zc22tY21STFFiVMOBE="
   },
   "orologio120": {
-    "pin": "8812",
-    "password": "np3pbnBY1E6;Z}"
+    "password": "np3pbnBY1E6;Z}",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$7DClZrdlY2rS/+1GKWtGWQ==$qDr3T15eVFoUW7i+G2WSAQaByjcmshnoUbN56vcIfRY="
   },
   "orologio121": {
-    "pin": "2078",
-    "password": "6Lrat6+;0stDBT"
+    "password": "6Lrat6+;0stDBT",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$p5iQJQbabWTLiTBilR0yBQ==$EC/7SFncQ/Kjmtq31qXV/+H7QufJV6sOxSanrvhBgDs="
   },
   "orologio122": {
-    "pin": "1333",
-    "password": "c8-(g5VBpR6Ema"
+    "password": "c8-(g5VBpR6Ema",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$kcEl9NRnIB9yysrQ8sTCjg==$KsmM5IrD2FDqYgmujkaFjWZq4CE6I4314YG2ISBwirE="
   },
   "orologio123": {
-    "pin": "0542",
-    "password": "y8xCQxb3PvK[4;"
+    "password": "y8xCQxb3PvK[4;",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$FNdk7RBGSfjARMEwID5gSQ==$v6Uzwao1DAqaGzE9sQVSSoYZyZ+7//WYMoi7323v5yY="
   },
   "orologio124": {
-    "pin": "9380",
-    "password": "P5dI+MrH3s)r1w"
+    "password": "P5dI+MrH3s)r1w",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$8BM/nFwFVSttKEQUmgvoGQ==$4401JbCFdwzc6+MOYCVbZqvOefSn+0uVi6icbYCedjM="
   },
   "orologio125": {
-    "pin": "9154",
-    "password": "4_5G0b%GbpbNcX"
+    "password": "4_5G0b%GbpbNcX",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$Y913crDrRd3O5OSlVoitew==$3tbAYHN7aYr6A5OXdFUc8tEllsMQZ/gU1AhzUZ1jAWE="
   },
   "orologio126": {
-    "pin": "6647",
-    "password": "3Tb=F93IYp?dqi"
+    "password": "3Tb=F93IYp?dqi",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$ic7GYEI0PPtyVlVL9JGXyQ==$pqe7OavsAgNByip+Iouo9wPjCwwdkm+OOfvxi6a5qU0="
   },
   "orologio127": {
-    "pin": "9870",
-    "password": "jk10VZ,lLcH3-i"
+    "password": "jk10VZ,lLcH3-i",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$a6L79d0kj0cImvAOWEv8+w==$LC21OpBWmqYlolJ51IgPmw9Af/6DULX8B8tqy5DehfY="
   },
   "orologio128": {
-    "pin": "4215",
-    "password": "ZXHq{.g0g7aeW2"
+    "password": "ZXHq{.g0g7aeW2",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$z7boGpuShcTG5fRIrYxOng==$sjlCHhmORp+q5DpVy5HGZdojOdEJg90bU3XbMZoRyZk="
   },
   "orologio129": {
-    "pin": "0805",
-    "password": "H?vGne42Jd_Z4r"
+    "password": "H?vGne42Jd_Z4r",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$cx275NCwQ/lG4YhB5BAUPQ==$BgWMD6WpJ54JFWzBpkgT//OcpMWbUGynS3E4o0sns1Y="
   },
   "orologio130": {
-    "pin": "7455",
-    "password": "*)p8Wz7zF8ZyzT"
+    "password": "*)p8Wz7zF8ZyzT",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$0zYeQTqHwoK7QrxX74bnxA==$+2u6JEd6qN1KBUn9BieTHgEBT19sZJkipRkqrtmgYLk="
   },
   "orologio131": {
-    "pin": "8864",
-    "password": "y03PTPW2$kirt^"
+    "password": "y03PTPW2$kirt^",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$3GCLnZaPvPeZZTqeiUzDEQ==$Mf5NNig29URs1hUEpgoKlS1a/h4kXiIMvXJODus65aM="
   },
   "orologio132": {
-    "pin": "5444",
-    "password": "Ml8P9?jXX5t#kk"
+    "password": "Ml8P9?jXX5t#kk",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$2hgCbH2oKUTC4VDfFpvopw==$2/FvJ2/jtmihsUrTpF6uyeFhgdQSdSerj+0xHAs6h6s="
   },
   "orologio133": {
-    "pin": "1931",
-    "password": "uo*h5%1LpEUe4P"
+    "password": "uo*h5%1LpEUe4P",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$kvEBJBRaWHhFwMz8vU1OiA==$RRZX0+imOkwpejAvXT0Tvesns8o8E7kMHIpM1o3JbbI="
   },
   "orologio134": {
-    "pin": "5275",
-    "password": "a3C+jBNkZ#x48k"
+    "password": "a3C+jBNkZ#x48k",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$qtQT2tov4k4//EVveqjaGg==$negFVxwWk/496NoRF29hKvAno1c8PqA7NwEk6bBtuP8="
   },
   "orologio135": {
-    "pin": "4138",
-    "password": "5=C8lB]eHiRx8a"
+    "password": "5=C8lB]eHiRx8a",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$rGPX8LWUTU3updzl1s6PgA==$+WSwbta+97Y+r61/wO43rdAJKbOA2gr1ERx/az/9WoI="
   },
   "orologio136": {
-    "pin": "3336",
-    "password": "8A#EG=np6Xc3ej"
+    "password": "8A#EG=np6Xc3ej",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$sf3uWJPQp+GCEQKDpFryDw==$Ly4HqpUhg4hV8sPsycMBF4OCWGAuioXW25ba1L4qZIw="
   },
   "orologio137": {
-    "pin": "0324",
-    "password": "sE)n2&rv3jG6GU"
+    "password": "sE)n2&rv3jG6GU",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$C8AB6Ee4ecbVqX552ld0Dg==$xhgDV+IHZZ80Ua/FhIRxLgLaCglbDbnaurn5Zdw315g="
   },
   "orologio138": {
-    "pin": "0103",
-    "password": "73M:eib}0WLduG"
+    "password": "73M:eib}0WLduG",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$mxNo4uj60sqqSw+YJE1zvg==$EsyDYTr7UcLYij6ZG0fmtb1yYhR14dAn3J+8N4coijQ="
   },
   "orologio139": {
-    "pin": "6804",
-    "password": "qj6HuvP2}s}1PX"
+    "password": "qj6HuvP2}s}1PX",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$nTygE0uKGj4K0alSqKjAXw==$hVjMSiP+rpCw1mmzVrXHxf0687VChA6bwbb3ue0UFBc="
   },
   "orologio140": {
-    "pin": "5237",
-    "password": "+7lX&6HwKuB6uy"
+    "password": "+7lX&6HwKuB6uy",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$YZpLDLgUdKQTJtbjY6k8bg==$MkL4RCWF+1LoTPMOFeXhmKur42poc6wHtxC/HmDa9zQ="
   },
   "orologio141": {
-    "pin": "6110",
-    "password": "{sDstK5yW6O.3l"
+    "password": "{sDstK5yW6O.3l",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$jsNdssxDmTAkyT9GR39FTA==$GCDdk63pQvgdrn3etTW8xsHzC0hseflELNz6CXzIF1Y="
   },
   "orologio142": {
-    "pin": "8185",
-    "password": "vC{P2bmi10VOb["
+    "password": "vC{P2bmi10VOb[",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$0ZOdh2LLzWrrp9Nxn0tnNw==$6a48WE1j3Pbv3zydx/QkOHb5qKA+uHJTbGxBvm02j3A="
   },
   "orologio143": {
-    "pin": "7564",
-    "password": "d5AjThs66:{DcI"
+    "password": "d5AjThs66:{DcI",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$lkIxKt5nJg/4f87oiwsMsQ==$jNkG2iodC7JKeBrH2skEGMkF8b67IvofSGqEE0MrkB0="
   },
   "orologio144": {
-    "pin": "1005",
-    "password": "%;Y71gfLEpkm6J"
+    "password": "%;Y71gfLEpkm6J",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$ufGWyDtCUlNYn3Nl6gYeyQ==$att36RkDfBWZtjHQ1Hq8aA2PgUsjt9FUh4IG+WInVQo="
   },
   "orologio145": {
-    "pin": "3303",
-    "password": "z$Jy7NWw9g2{yH"
+    "password": "z$Jy7NWw9g2{yH",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$hp+n5wgbMa5Yg6gv7tcqLw==$wpPRJ22vkk8lU/kJ1hspWpPW+xdYZ1Jlclfr5wUEt0o="
   },
   "orologio146": {
-    "pin": "0897",
-    "password": "TqQbsR00h5bO=}"
+    "password": "TqQbsR00h5bO=}",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$qtnWKg2ngsEUTAepk2NQjQ==$aYrHJ0+I/nislvV+njM8gM48SMZ7glfP232QIt7g8FQ="
   },
   "orologio147": {
-    "pin": "0957",
-    "password": "&f3Ge0lEv9W^pY"
+    "password": "&f3Ge0lEv9W^pY",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$bQbskMXhStpy2Fte85iPpg==$mRjIZ+XUiKR8Em8vOC1Y1WzEJTOFto9Jw37TOjv+dmc="
   },
   "orologio148": {
-    "pin": "5606",
-    "password": "5Y6yldeV]1&FfN"
+    "password": "5Y6yldeV]1&FfN",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$TOAzszhiVt5NUcZTTDUTjA==$IS0a8wOQX6cD4TkzipH/rswy0GEb0mwJANLAAzddM4I="
   },
   "orologio149": {
-    "pin": "7041",
-    "password": "U0CaD?A87w&suw"
+    "password": "U0CaD?A87w&suw",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$imLqfcHsUfgYH8ZcXpRSXw==$dI7rZnDxHNX+oaZ1Pv5TO1yWlB/D2jjm0ELAe1AUFK8="
   },
   "orologio150": {
-    "pin": "7665",
-    "password": "1gi8kHQlV;v6H!"
+    "password": "1gi8kHQlV;v6H!",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$uL1uGKgzQN1UkpulII7JYw==$7KFJTrn/c8y1F8VFyo1MdaRBOAp8ZsRL44x4ufd89S8="
   },
   "orologio151": {
-    "pin": "7170",
-    "password": "x3gB!XeLQ(sb41"
+    "password": "x3gB!XeLQ(sb41",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$FhFNbFRPgPdLnecponBFyA==$mGgGtHz5UYVeFPrcPxz7TmX8fFyxYZQ47uQyPJTHUkw="
   },
   "orologio152": {
-    "pin": "1218",
-    "password": "e5N*3Id&gbFDk9"
+    "password": "e5N*3Id&gbFDk9",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$Fr72D+m7kxrM5N1LU6lCgQ==$tWWKH1P+wy2ACOXd/YMs2SkYRMV+/L36+7RWWANm770="
   },
   "orologio153": {
-    "pin": "5104",
-    "password": "0zI7gk6jRCB_v="
+    "password": "0zI7gk6jRCB_v=",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$rD5NBGV+C2TGchOb6pBArA==$8SrnCJpkh5CRsnbgd/qkrqWoeHLhd/E44l9auUuXmxk="
   },
   "orologio154": {
-    "pin": "5631",
-    "password": "k47-Kq2kDh$gSB"
+    "password": "k47-Kq2kDh$gSB",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$iNVrL5FOTsOIou0Kf0Y/VA==$3LbKZwRZ+G0pXXele0rXCUW1A+kyGXbRrhlFgWuyJ+A="
   },
   "orologio155": {
-    "pin": "6968",
-    "password": "fYw9z1D}(tE3It"
+    "password": "fYw9z1D}(tE3It",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$Mkx4qy/KEKK4W6yCSdLEEQ==$g8NdZCfCTbtmzO5B1wBzpS+XcM6+r/u8wv/gnVt9AUw="
   },
   "orologio156": {
-    "pin": "9400",
-    "password": "Bc5djoDN9:E-k3"
+    "password": "Bc5djoDN9:E-k3",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$9+Zn90qC3UGw1H0L2NAlHw==$aVKbo8m5d+re03oXZf/bC9rnaFSSrcIx0J7XexnJ4RA="
   },
   "orologio157": {
-    "pin": "0104",
-    "password": "8iGC1cUaM+d3%l"
+    "password": "8iGC1cUaM+d3%l",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$W5LPvhQl/s1MfeED98X5+A==$0Q7nvjn7llyr0XTa+9OkNsyAAwWZ5ItWTKzMKi/CvF8="
   },
   "orologio158": {
-    "pin": "0635",
-    "password": "h9#07rIu=XXCgg"
+    "password": "h9#07rIu=XXCgg",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$6pLdtOLE1G6YmiwIRNftbw==$n1WDcwsQn22VuW1f551GoEZzdpMn5oFp7bhgMwpSBos="
   },
   "orologio159": {
-    "pin": "9346",
-    "password": "UvUO)qHv5o9@w4"
+    "password": "UvUO)qHv5o9@w4",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$jH27qQUWJD7jXY5M683s5g==$djYTQyKJmKc65P12+e8AqMq2lguPyd2GPPuBd2E9dmI="
   },
   "orologio160": {
-    "pin": "7427",
-    "password": "fb7}Vg2guS?DK6"
+    "password": "fb7}Vg2guS?DK6",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$ZxpBW9t4Pn7xQ6cMkX1FAA==$VLwpRo6qRdz1hh45Jpyhmh4lsp3OavdH652onmmdJvE="
   },
   "orologio161": {
-    "pin": "1789",
-    "password": "GosID#qK88-nv0"
+    "password": "GosID#qK88-nv0",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$WQrsj5BJ/ZeDteVYJ2y0og==$abZWCkDZiwMyC6nizp0rnGsG4r+MvuDKK2UvGX9s0wY="
   },
   "orologio162": {
-    "pin": "7308",
-    "password": "da8R2I-TmFku#5"
+    "password": "da8R2I-TmFku#5",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$JLa6PjPPyiijXXFMqebiRw==$7dc/vWUdPIagIDge0iiVJwG+AFU1Av1FoozxfWfB68c="
   },
   "orologio163": {
-    "pin": "0698",
-    "password": "18NU_Jx$8vxfxQ"
+    "password": "18NU_Jx$8vxfxQ",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$8ylioAVyVXKQW6gsJxgE/Q==$5eHB0p5pUv36TqC9mF75tN7XoL40IUiq9/t/vVaSuN0="
   },
   "orologio164": {
-    "pin": "1738",
-    "password": "V7q)dRlJuV(m46"
+    "password": "V7q)dRlJuV(m46",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$gW33K3uWFpm5sv5TCy7bVg==$XCuzdRE5/boTcp4mDCaeyJhz8PPaTFVfq60eDadLjpA="
   },
   "orologio165": {
-    "pin": "8351",
-    "password": "*%hEm5C5Nd4xeI"
+    "password": "*%hEm5C5Nd4xeI",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$DIts14M6P26bXCmrJCFPtQ==$gXFcR5orBVIUDN0Jw+evrZZUvYMHc0ouAl0ip5zTLy4="
   },
   "orologio166": {
-    "pin": "3857",
-    "password": "F0jt=5q6]XtOaI"
+    "password": "F0jt=5q6]XtOaI",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$H984yWT9x8GMnnkxzV+Y2A==$Ujo6rkfdYjJq4kP2c419m4BaRf6TtNSd/7IW5D9K2Vk="
   },
   "orologio167": {
-    "pin": "2111",
-    "password": "8Ed^2i@jXnL8sM"
+    "password": "8Ed^2i@jXnL8sM",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$UfEcG1MzE6oYJnBu+EYhcA==$DTx0VCHWNUC43Dh4UuIku3Un07R2tnSGK9WjCBeZ/1g="
   },
   "orologio168": {
-    "pin": "1958",
-    "password": "4S2dmPj$}drY0Y"
+    "password": "4S2dmPj$}drY0Y",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$IyxM8XSzOS/sZ/U8n6nlPw==$lqTX6kWq3zC4VVxYPYviH0ADRjaSmLmtCqO6Y2GA2aw="
   },
   "orologio169": {
-    "pin": "7511",
-    "password": "Fpi48Q5IeV{g+r"
+    "password": "Fpi48Q5IeV{g+r",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$i6ntaSItjoOAmyenZEnmCA==$rD5X0ZUEm84CtLhwn80yvJw1eSJv3FG+dKKf4EZWh50="
   },
   "orologio170": {
-    "pin": "6520",
-    "password": "BD^31e(yN5Douv"
+    "password": "BD^31e(yN5Douv",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$viPDf+HooioQEL4FGekK0g==$VzOyPzkV+8p34yShFt08HCQiZVM6/w/4D7EQwTHElfg="
   },
   "orologio171": {
-    "pin": "5971",
-    "password": "xq5ROUq&Ve#z80"
+    "password": "xq5ROUq&Ve#z80",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$Fi8AdIeH55bNROnk7fAsLg==$dQiSjRkL27dMfHNJQJ+CW+6JAMUnVa1RtNx2ty/LIqw="
   },
   "orologio172": {
-    "pin": "7174",
-    "password": "xu8v6JV@k-H1Co"
+    "password": "xu8v6JV@k-H1Co",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$m/47ESoi5deCp+Sf3EKQRw==$ysKnFWuE2pQbW5Gs+yfHquZ11uqZKbbzY9nBMtkBe0A="
   },
   "orologio173": {
-    "pin": "5655",
-    "password": ",h9s0rNfFYBr-8"
+    "password": ",h9s0rNfFYBr-8",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$MXkZFRnzV1Ox04ZyKMN8VQ==$jAPgegjFqxBdr6dFZ69h84eAU6Dh7TDcrh8sOl+NszY="
   },
   "orologio174": {
-    "pin": "1452",
-    "password": "#$2FD7Jvqx4qwI"
+    "password": "#$2FD7Jvqx4qwI",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$fQmRBvEhYNnDSyQ5c+wJtw==$VXQaDMrEuGSPh503cN8CaoSd4NNCAK8duQXn9BgJtkw="
   },
   "orologio175": {
-    "pin": "2948",
-    "password": "YASf9e84wnc,L."
+    "password": "YASf9e84wnc,L.",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$5NWg+DQI8OaIUAkFrKW2NA==$ugrGjmfJGykRx5qpHqxKudKfGJsjkgIXd9TEbwJgfcE="
   },
   "orologio176": {
-    "pin": "8176",
-    "password": "pQNkYuz=7)1a0K"
+    "password": "pQNkYuz=7)1a0K",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$YIsMtxDXynqJ/KjWITIImg==$7EbnME+I64+bCETTSSlipceFJ8vsVQR3E+I7ZT6Ikto="
   },
   "orologio177": {
-    "pin": "4655",
-    "password": "J3N;tUW58$kjah"
+    "password": "J3N;tUW58$kjah",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$Ezh/LGp55lw2Cv1PTsz5hw==$bUJa1g+RmmwQaID/aY221V1VoR9vanYyrmEWaiDcdBc="
   },
   "orologio178": {
-    "pin": "0420",
-    "password": "MgX6@v3pk@w7PF"
+    "password": "MgX6@v3pk@w7PF",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$c36+FeERPRkNVAYI0TaJsA==$c+0GDTOYTh5yiGi60G5oiF2YngUMM+JHBoTINXFDejo="
   },
   "orologio179": {
-    "pin": "6238",
-    "password": "Rl)nc8&iZ3Ux4J"
+    "password": "Rl)nc8&iZ3Ux4J",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$NilncQpfNjOFub0Nc8Rt+g==$R8NPyfLIpGA8Gfxtp4Sr4K4VkJagmHxMDTEKKtFYdK4="
   },
   "orologio180": {
-    "pin": "6354",
-    "password": "84P1wD,t&bCdNh"
+    "password": "84P1wD,t&bCdNh",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$thRhhrUqoXNdyPjpa7sK5Q==$e71ckXnpf1HL4d8PlgEVRR/rTLmCMdsoG0iKc2ZnFCk="
   },
   "orologio181": {
-    "pin": "6896",
-    "password": "9orPG(81G@olsM"
+    "password": "9orPG(81G@olsM",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$hLggCFOxxVUXw5vsCF3bXA==$sKlrTcyUvCJZ2g+xZnoFJCuGk29++6vuOb5+zB7meE4="
   },
   "orologio182": {
-    "pin": "4169",
-    "password": "t#j4k9Ly5XD}Fn"
+    "password": "t#j4k9Ly5XD}Fn",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$Vx8/PcKsqsj0AUdsNDbSYg==$ejtIaTVqsXeHmXd6BtKaSoe/WdJ9KPhUpzGQF1r2s1o="
   },
   "orologio183": {
-    "pin": "2929",
-    "password": ";gI1PV!xc27Jsz"
+    "password": ";gI1PV!xc27Jsz",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$9HL301yCRRba2IQdsq7Bgg==$ZyGpd9bAPguIP0Qijp5rI+XrspY/HENVnXVhtnIM7uo="
   },
   "orologio184": {
-    "pin": "4489",
-    "password": "g(195dpWJ=ZKet"
+    "password": "g(195dpWJ=ZKet",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$drJVLgu9hQF9BoBaWLjBVQ==$lWkJ0YqXgJReXMuIHo8GpKn1k1eqhCzj0mrNZzwSqSc="
   },
   "orologio185": {
-    "pin": "6299",
-    "password": "aYIcHX6rz0,9b*"
+    "password": "aYIcHX6rz0,9b*",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$HV+qncpFGyjGNmn8HF1kLQ==$aBh2q+OlSbA0fWuvgnt9tp+/fEvVyqMovIyObFDG+g0="
   },
   "orologio186": {
-    "pin": "4957",
-    "password": "R,Q0tPv5m{ar0K"
+    "password": "R,Q0tPv5m{ar0K",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$C+GZ69WAyQpYszhjiYbyrw==$+aZljSjFrLoatN7M+i8Rv3h7Zz8WoznFxsNd7WiGmtw="
   },
   "orologio187": {
-    "pin": "4906",
-    "password": "QU098%f!sVtYxv"
+    "password": "QU098%f!sVtYxv",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$QUfcbEhRfFz1wDomYBu6Mg==$z3EeQN5ptRK7pcuPzLyHUM34XN9Ts1e+OiNhxI7wlkI="
   },
   "orologio188": {
-    "pin": "5582",
-    "password": "cYp_6_H7hJnZq2"
+    "password": "cYp_6_H7hJnZq2",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$Kf0+QzQV4izMtOMnKbpttw==$bk6Vky3z4DommEWau92yxsUCxy+OUrPB+0tsTrJROdg="
   },
   "orologio189": {
-    "pin": "1819",
-    "password": "WkAQs@pr9E3@2v"
+    "password": "WkAQs@pr9E3@2v",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$iF5lXoeSXkTe4C5nPuMNNA==$88hrpM4qllcVFV7MhUbLfzDNETjJLeHm36Kl2khExsQ="
   },
   "orologio190": {
-    "pin": "8557",
-    "password": "UlDsA;#33Bv9bl"
+    "password": "UlDsA;#33Bv9bl",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$9VbttEss3RbwjQA0WMDxkQ==$y06tbwvEeJa3ghGO5/urKw/3FNEzJqp9E5Pti1LFsxU="
   },
   "orologio191": {
-    "pin": "2307",
-    "password": "a0OVc02t?XkY[o"
+    "password": "a0OVc02t?XkY[o",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$v5cJgzeWSjF0jegAanwZIA==$+WiN1uokQ0lT/WN3l1epd/IBD3kJ3i7o9tCV2X9yZ6s="
   },
   "orologio192": {
-    "pin": "5343",
-    "password": "Qxyj88Zz]I%I7a"
+    "password": "Qxyj88Zz]I%I7a",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$G+Je/0w0k7SddkCFdyqD+A==$g1g2ansxFgYXiCdI1xtaZWOzJDcY919f48Qo8oFc3kw="
   },
   "orologio193": {
-    "pin": "6128",
-    "password": "Sb1_mm7vsFSQ%8"
+    "password": "Sb1_mm7vsFSQ%8",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$uWjjRaZLBwosTBmKujz4rw==$JQtYm9Ky+Mimd81ThvlTdwtPdc/b3PkUc1ZvIKGwRYk="
   },
   "orologio194": {
-    "pin": "7698",
-    "password": "Hj-wsn4Q2P0+Mj"
+    "password": "Hj-wsn4Q2P0+Mj",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$yaTvf/r6w1ltzBvR0sm5lQ==$F000QPgsTWeUvFSmlLlAPThJ5R438CklW8fxfLcFD7o="
   },
   "orologio195": {
-    "pin": "7052",
-    "password": "3uusIW]]I65wAs"
+    "password": "3uusIW]]I65wAs",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$terVwn+7pZiM++OXVBWCcw==$wYVfHqmbkbgGq3bxvNK8mVmNAhmLTag+xop3R3CcKI4="
   },
   "orologio196": {
-    "pin": "7547",
-    "password": "b55Bw&qi6WQ=Sk"
+    "password": "b55Bw&qi6WQ=Sk",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$AAkHlrvVNWSWxFfjLw3csA==$T/ZVNq/kmRbVM/NTPJ1OEtFc0O4ath9rUL4kdzZp1bo="
   },
   "orologio197": {
-    "pin": "0644",
-    "password": "PU4(YDm2oj3(jw"
+    "password": "PU4(YDm2oj3(jw",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$RP18WOZr58LysJ1MF6pZHg==$S1ZDy50AHWh7NYN1m3VdBkfUb+xg6dQiXb/75v4ThUw="
   },
   "orologio198": {
-    "pin": "1547",
-    "password": "l9F5(TviY6@jrQ"
+    "password": "l9F5(TviY6@jrQ",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$6bJORtz2qKKcjmmzpYqOqA==$dyUfem+GObT6fMGfERxwl9/xN/zG87iGbJx0c4nOixE="
   },
   "orologio199": {
-    "pin": "1051",
-    "password": "dLnB7jy3p({R6K"
+    "password": "dLnB7jy3p({R6K",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$hrBGOEjc6dk6n0ZevsPZzA==$T+Fv5KVwV3Ravnckx38oDJl3wBsBcNoU8e+GVELu5TY="
   },
   "orologio200": {
-    "pin": "5564",
-    "password": "8hNYsj*b0KCy7@"
+    "password": "8hNYsj*b0KCy7@",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$Ey1u07cwC1zqDZnWXym4iw==$0GI4Cx1KgntwGIjRK3vVIxMaWu0Ut/KVRTyZzC82cGU="
   },
   "orologio201": {
-    "pin": "9327",
-    "password": "1Q*a2)oxkzXN1Q"
+    "password": "1Q*a2)oxkzXN1Q",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$XOA+/eKa5N+1rkCznB7Deg==$rcrZi+R18sHQKtZrTPuORKhUep9zkiHM0FZrM2VyB+Y="
   },
   "orologio202": {
-    "pin": "4149",
-    "password": "5F=0bkqAJGo3d:"
+    "password": "5F=0bkqAJGo3d:",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$sjg/5QQ5HxJ3MU3cEBu1Pg==$PZask0vt5rvP7/l2yTHTJuCFaBlt6l0cwHUuHT/mKUo="
   },
   "orologio203": {
-    "pin": "6449",
-    "password": "ff44cNhD*4d(ZW"
+    "password": "ff44cNhD*4d(ZW",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$ju8w7VOK1fP46D9YShamJQ==$lJp66K2zVSK3sCv9McqtZU4ilbgCch7E4FtdBR32zvo="
   },
   "orologio204": {
-    "pin": "2804",
-    "password": "@o27wboGW-I6Wv"
+    "password": "@o27wboGW-I6Wv",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$zTtCRTyNymQ8uMVBvs1hhg==$SCNcGnQslaBayuwa9+o2+AEhl2zdJygD4mZfUDvMGWk="
   },
   "orologio205": {
-    "pin": "7404",
-    "password": "u3ku:PYR9aW;5f"
+    "password": "u3ku:PYR9aW;5f",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$0oziYW3KF8p1ijGKIarr7Q==$a3J2F98apFyq6PcFmxu0QxHakRo37MwjLyrLMIlXkDA="
   },
   "orologio206": {
-    "pin": "4640",
-    "password": ",8FnLRu_u7hCy7"
+    "password": ",8FnLRu_u7hCy7",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$T1AzZ47bdPuIRcotiSAlVA==$wGOqJN4H1WLg/twzPcqDGOzfwAWGbXiVB25A8pYh+wI="
   },
   "orologio207": {
-    "pin": "5474",
-    "password": "3Xj(yL9*t5NkgP"
+    "password": "3Xj(yL9*t5NkgP",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$CA6mvER8gg6DEsCYGMa6Dw==$YsrkUT14sIGpfj8dEvUjR5TzBMthVQwKxxMdkCqf5eM="
   },
   "orologio208": {
-    "pin": "6046",
-    "password": "tR:xjXh7j8J5-E"
+    "password": "tR:xjXh7j8J5-E",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$PqJLDpZapqRh/x7CdvQlFw==$+/14MmqfBA36z1axuER6Sfzi93fs5/hoAv7RIxV+jjA="
   },
   "orologio209": {
-    "pin": "2114",
-    "password": "FMHp9[q2!K5mkr"
+    "password": "FMHp9[q2!K5mkr",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$l3rzyeQqABON1+Zi7pMonw==$YPXzbS71k2pCZY3iI6ihkA6jUwEDtwc5+GJ3QAP6UIo="
   },
   "orologio210": {
-    "pin": "4429",
-    "password": "P5NscUUhb2$t]9"
+    "password": "P5NscUUhb2$t]9",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$Sl0KdpnHcs90yzQWQRZMcg==$jgttZ3x3B2k973AQrArrkotx9A90mIHPneAFuAIU18c="
   },
   "orologio211": {
-    "pin": "9024",
-    "password": "s8DuavT69&Xn,V"
+    "password": "s8DuavT69&Xn,V",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$freIDLd/KcWc5d6kyqY4XQ==$IjsRusUxvT8SVchk09dwGkH3gVIKEuJwISkt2NS2tgA="
   },
   "orologio212": {
-    "pin": "8956",
-    "password": "I3gVaK)m2pM:1o"
+    "password": "I3gVaK)m2pM:1o",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$qV1wx0UvKAuc+JbfbyRBIg==$Xp5mFHjF5GMoFGb22pz1ztqhR8MGkmRLD4a/sy+xGqo="
   },
   "orologio213": {
-    "pin": "3125",
-    "password": "xoW_qw0(Qn5R1W"
+    "password": "xoW_qw0(Qn5R1W",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$dTJ8kXgE5J49cxyCeDrgbQ==$sH5W8MWx4/oj2hZEt6Zm1UqPaPbd158pCt8M/MC6Lms="
   },
   "orologio214": {
-    "pin": "6096",
-    "password": "&hOLO41ax6xxX*"
+    "password": "&hOLO41ax6xxX*",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$eRdsmb2ZhN5qvhwNlkyaIQ==$IEZLbsb8bl28TRO106Q/IKHREifQKnQu0YMCPFETBE4="
   },
   "orologio215": {
-    "pin": "6048",
-    "password": "+2fYJ5zF9Bdo%i"
+    "password": "+2fYJ5zF9Bdo%i",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$5WlCl0hzgzod3gFjKZhW1g==$S3ma53DlpLXuzlx4mVgzEkIuEqhoMAXhxNyCTcr8emA="
   },
   "orologio216": {
-    "pin": "0488",
-    "password": "Yt5}GDBxj09hd!"
+    "password": "Yt5}GDBxj09hd!",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$TK7jD5vPEDUCAj3E7V8SEg==$Jb8NIqEpqJygG0KTiaMIlakSUC1qAm7gvaYhKuJoRK0="
   },
   "orologio217": {
-    "pin": "9009",
-    "password": "!7pokBZCyMn@93"
+    "password": "!7pokBZCyMn@93",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$INcspe58N99nL9j0Gho/Ng==$hUcr/Q1BWfQTQ6UJwnrPW5LhnlqfxL2JSAGcUDlm+9k="
   },
   "orologio218": {
-    "pin": "7931",
-    "password": "lhoz-42yL0.MIZ"
+    "password": "lhoz-42yL0.MIZ",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$vAJUFbzLE+n2OUw+p2DYDw==$1xrMphBdRmnnD5EEk1QdYx2N3/wpzTHBqF81DNFnlyc="
   },
   "orologio219": {
-    "pin": "4614",
-    "password": "rfAvN5V9hA)=p6"
+    "password": "rfAvN5V9hA)=p6",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$YmhLSuw3bwjJV7x5x3kDXg==$Z7kaYnSt2FODMvaprGWtAEYVIXHI15+PnfvGz7hEq8A="
   },
   "orologio220": {
-    "pin": "8140",
-    "password": "y]q4uFDDa3L=0y"
+    "password": "y]q4uFDDa3L=0y",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$ucWjRbTn4tiea94onfKw6g==$hK3gZfiJBS5ru2iNKOV3aNiuQ9HlNDa1FDupkIyAKd8="
   },
   "orologio221": {
-    "pin": "8982",
-    "password": "dx05XApAccY]9!"
+    "password": "dx05XApAccY]9!",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$A2laXIfpFz8MdQ/rfr3tBw==$lF5IAKNbe8M2n4l1KcZPRZXDYM1FPqUdnDwF3myeUl0="
   },
   "orologio222": {
-    "pin": "6222",
-    "password": "_6egMCW4+zDh7e"
+    "password": "_6egMCW4+zDh7e",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$I3FHy7SBOLeWmBOD2jW6bQ==$0YBZsn0CEX1k/qen15RRDxlMKKsWnpYCZSZWqqld028="
   },
   "orologio223": {
-    "pin": "2220",
-    "password": "&JGV99pm?byR3y"
+    "password": "&JGV99pm?byR3y",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$xkr9d+DpZXioFmQb21KyLQ==$thBSNSQiIaf3r3sg3yvV63ym/uixFlKJsjEDBzSdK3Q="
   },
   "orologio224": {
-    "pin": "9947",
-    "password": "0+R.yrW07tRLxv"
+    "password": "0+R.yrW07tRLxv",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$7CVPf0IahLoUHjR9pEtxAw==$GhXfdiy56tFiBCEgHduiPEB4PkuiQWbTIzBzRuq85Fg="
   },
   "orologio225": {
-    "pin": "0825",
-    "password": "OBc.7mYQ-zcn85"
+    "password": "OBc.7mYQ-zcn85",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$f8rRPdl9jMPvOcOdVXobcA==$lWIC1sfQyStjq40c7xr03QAzBFzJcDyWtH8+quLYsPU="
   },
   "orologio226": {
-    "pin": "7706",
-    "password": "9O)7S#Blnk1nnM"
+    "password": "9O)7S#Blnk1nnM",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$dJMIHX1rHYaSWs73SNcqAQ==$D3jv2BaPmifFYWUPm7PH6ARDtf+EkYY5K4WrHwyTlKE="
   },
   "orologio227": {
-    "pin": "7304",
-    "password": "9w22J)Csf-eBzS"
+    "password": "9w22J)Csf-eBzS",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$yYiN4Rwl9JOe53Cus1Dq+g==$Nisn7VtCn0nXWxn/aiZnSFyLYbqHyc1dgafvc/ahyOo="
   },
   "orologio228": {
-    "pin": "0362",
-    "password": "5;rzDwAN00Fe*v"
+    "password": "5;rzDwAN00Fe*v",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$bt8z8Ahkmk4nMyvpYdaVPA==$S0fkAY4P+JiWkqiMrKYbZaPS0pqrdrynvC4piCHHGJ0="
   },
   "orologio229": {
-    "pin": "2659",
-    "password": "{mAkMfLbJ17k6+"
+    "password": "{mAkMfLbJ17k6+",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$JBbOID5LfSdCKGzJknczXQ==$i0Aq0b6tXbmQmP0/lthkg1x3kfPtlq0ibleuVavoRvM="
   },
   "orologio230": {
-    "pin": "6307",
-    "password": "{=8nc1GO8FgcHv"
+    "password": "{=8nc1GO8FgcHv",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$hVnoPBngae1sTg1V43QYmg==$VpMBdgi6TCyAah9lvDr5tKk4xy46iY1wtlqddDq8KKU="
   },
   "orologio231": {
-    "pin": "8817",
-    "password": "jjMvReoU771[E="
+    "password": "jjMvReoU771[E=",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$c37KrDEgAKde8zOyBJKlpw==$KyYOsA0pThA13yUsQZEyfWpza9s/VRber6Yz2RbdIHw="
   },
   "orologio232": {
-    "pin": "2439",
-    "password": "AVb^&f9mEaP9m9"
+    "password": "AVb^&f9mEaP9m9",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$pFr/0KLpGUFfR58r3RSczg==$o7CAu7YOIguCtNsEoDUI0Ie3ggqzTsCPWSScg75HD6M="
   },
   "orologio233": {
-    "pin": "1824",
-    "password": "jiZb)94YQ3p@cD"
+    "password": "jiZb)94YQ3p@cD",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$XyUOkoLnKXLdzFtfskAkow==$64KbLADSB0fCM4vfIBC/fllhZCko22zbwXD//K9o7nk="
   },
   "orologio234": {
-    "pin": "5118",
-    "password": "(7Dcy7Dj6ESn;e"
+    "password": "(7Dcy7Dj6ESn;e",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$PUq2tyVoLJop9+v+XzNbNA==$9OC8KRVtJiEebtgFuHzzi9zS2M/b7diaMuxGhAvjHx8="
   },
   "orologio235": {
-    "pin": "5594",
-    "password": "w)10j^9zxiOFIO"
+    "password": "w)10j^9zxiOFIO",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$HCa/1OrYY1kgsR0pDwSVpg==$dM+5NnVyl9U0WNObNJnwJ8LJZmsJi2kWqrEytzsOOv4="
   },
   "orologio236": {
-    "pin": "6107",
-    "password": "c[A#32dGf9blXV"
+    "password": "c[A#32dGf9blXV",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$WYBKkXhKJIChuXGXTtVv4Q==$UUo5soSR3SNqDw9NBkNSfx5ko+ah8Io3I8J4IJCNt0g="
   },
   "orologio237": {
-    "pin": "1975",
-    "password": "lVko+Cb9V0)0gV"
+    "password": "lVko+Cb9V0)0gV",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$63zLI2uYpFh9W5ijKCMtCQ==$QwABswtQbhwwQDSQJZPwhbVZUB4ngDjdsmMEUzX+6Lk="
   },
   "orologio238": {
-    "pin": "1173",
-    "password": "baWG1W3C-u8,nf"
+    "password": "baWG1W3C-u8,nf",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$5Cp7hUac15dP1VOj9CnzKQ==$gqJpYlDYahy7LeZc8zbrOjO9DFetZUUhN14Jw4W8rPc="
   },
   "orologio239": {
-    "pin": "6802",
-    "password": "Uj_Nf82SqbH[9o"
+    "password": "Uj_Nf82SqbH[9o",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$bTCEuaZ2QHPTdHIRcDdBfg==$sJMHLjmHCvuRfYuEqL3ntKPLdYIOfWWJjns7MftSz1Q="
   },
   "orologio240": {
-    "pin": "8428",
-    "password": "&koU23Rmd@E2vE"
+    "password": "&koU23Rmd@E2vE",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$c2CKyzHMuvBLeK/yXnr2pw==$wPg843O5BnmWdltaEMh0h5LOees29KA/Ly7SktvMYHU="
   },
   "orologio241": {
-    "pin": "5079",
-    "password": "G,a40B8iFk?qVx"
+    "password": "G,a40B8iFk?qVx",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$GrI9nq8CVyXzRor1wrMHDw==$p9ur//KnjYuzF/cN7EBfzVGeDKVbJSfd3h9fpq5o9p0="
   },
   "orologio242": {
-    "pin": "0517",
-    "password": "6$mq7Y$jKgY5On"
+    "password": "6$mq7Y$jKgY5On",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$mlNTQ4KIV+s/WRtYh8VX7A==$SDX1SWPMJOYk5lNp1wSJkgIjHA2hJyn27UkQnTozMb4="
   },
   "orologio243": {
-    "pin": "3110",
-    "password": "r{25ZTdOu$knK8"
+    "password": "r{25ZTdOu$knK8",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$KAuRk9Ajql4vVGtEthv6HA==$vEFohmRhCy0bmbuMh8N1UzEFJOsDd79/f//0RGfnT/c="
   },
   "orologio244": {
-    "pin": "0329",
-    "password": "8[fZKb-2EZczj3"
+    "password": "8[fZKb-2EZczj3",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$H9DdgC5WnpEGwooUPp8Qwg==$Db1WTP4cuI1Sl3Upxz4EjVI6y2QEH8fS7USH1oTpXcM="
   },
   "orologio245": {
-    "pin": "1060",
-    "password": "nTU=5:i6FSap1d"
+    "password": "nTU=5:i6FSap1d",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$VPx1fONmkaFJQq52mm1SvQ==$xAgOUk0U3oeiDloluLV+fXwwLxDCHJe7nBZugqsW4Jw="
   },
   "orologio246": {
-    "pin": "7200",
-    "password": "Kg?NB2jxdo;A70"
+    "password": "Kg?NB2jxdo;A70",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$AyCLNad1xQvzzm45R6Jnyg==$C/1xqiO/Ggc4HwYDRYMiNQgdd9hZpqHmAEKrEpDSabc="
   },
   "orologio247": {
-    "pin": "5451",
-    "password": "SZ&oI3;zpX2hj9"
+    "password": "SZ&oI3;zpX2hj9",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$Y6jF4499WhEHAmNk6NQC4Q==$uWH3pl4oa1BXp+eKV/ttMu212QHAj6lovbCJLQ7dMe0="
   },
   "orologio248": {
-    "pin": "4830",
-    "password": "}Uv,MyybC3gO59"
+    "password": "}Uv,MyybC3gO59",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$DHhidbbXpgOvzxAG1p2TuQ==$PLdXJgvKjkHSR5eoFN0iCnGiaal8Ma5Av2xziPiI/4c="
   },
   "orologio249": {
-    "pin": "6748",
-    "password": "k4R4KEK&av8h.v"
+    "password": "k4R4KEK&av8h.v",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$7z3GgBifFLBkVh4FvFJQHw==$eJjIs23g8muHHulnz6yuRmjYPe0Ni4C54P2tk688soc="
   },
   "orologio250": {
-    "pin": "6567",
-    "password": "S_QDwtv6!ns50P"
+    "password": "S_QDwtv6!ns50P",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$0H+F2ounZCaAfppQK/Eafw==$DukbpLjEyha9pbBustm8unVpQ5pLue1f3wn6wVRE7HY="
   },
   "orologio251": {
-    "pin": "2455",
-    "password": "9M%mfs_XZk0yA5"
+    "password": "9M%mfs_XZk0yA5",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$4jqxeVfVWS5nzob2HoeqhA==$SMMOTH/P1X966K00OiBspJQZ8aqaCAnn+LENfBTYvPo="
   },
   "orologio252": {
-    "pin": "9942",
-    "password": "84YcoU0@=eybAI"
+    "password": "84YcoU0@=eybAI",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$N5/z8mJa0R1mXR+NTXMNWg==$puID3rWZQP4nci06kG53m/RrOuTD4MlEPFZbUv4P7gg="
   },
   "orologio253": {
-    "pin": "1313",
-    "password": "l2K5-UuF^Zy4zr"
+    "password": "l2K5-UuF^Zy4zr",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$WEHJhswSrTMVcwNx0kFCWA==$N0T39knLVvZSWucKrKj3buHBVvCBzEU010fJLhg7Vbk="
   },
   "orologio254": {
-    "pin": "4182",
-    "password": "118(QFJtqqN(ku"
+    "password": "118(QFJtqqN(ku",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$XngpsmOreJD/lZrZVda2sA==$95n66PzCEW8K+irX73QLunaass6HlelX8kGOHqUYmWg="
   },
   "orologio255": {
-    "pin": "6393",
-    "password": "lwFM.e3qFFh{24"
+    "password": "lwFM.e3qFFh{24",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$0g4jGW0lOgvoMKP0dMWGGA==$YNnbqbpY3zLSG6PPpepFwBI/iOK2RnVHqSiqLIwJz+E="
   },
   "orologio256": {
-    "pin": "8611",
-    "password": "vg8UO-t0aYL9^s"
+    "password": "vg8UO-t0aYL9^s",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$bMNET2P83K1Bfpnbxa1ndA==$++EVLoxxvGgQeHTN7Y0/B5L0Scui+kF3iT4eFVYmaZU="
   },
   "orologio257": {
-    "pin": "7971",
-    "password": "2HwB0G4sx;u!Vg"
+    "password": "2HwB0G4sx;u!Vg",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$+XZAHa7BdlMrWI2N6uGTOg==$4OE+fPw5DPUSbPPLwXm4ZqAGB8xUYB8UgptrAWrOqKs="
   },
   "orologio258": {
-    "pin": "1675",
-    "password": "+6nXL{0Ln4Ysuw"
+    "password": "+6nXL{0Ln4Ysuw",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$S8797lUpje6F3kyz/k7LuA==$izCxzIVeyZuHwU3y4UlogwiccgOErABoSYAlWa7avTI="
   },
   "orologio259": {
-    "pin": "3155",
-    "password": "-0dGxUfD0*bu5B"
+    "password": "-0dGxUfD0*bu5B",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$R9FlIQuJXlEkQBJah/s4xA==$E2gjUA68s+6/wJJUTYTDVg5vJlWTrOKXmIH5UikA9lY="
   },
   "orologio260": {
-    "pin": "3396",
-    "password": "cciYDqT3=9b4&P"
+    "password": "cciYDqT3=9b4&P",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$T2BwrcZqAI19zkAq+tS4ww==$9mLLf0mBM2vEZDSDPx1R3oDZP9pL1kdv/ZaPgx6ZW6Y="
   },
   "orologio261": {
-    "pin": "3167",
-    "password": "1Ydarnl7J1D-M["
+    "password": "1Ydarnl7J1D-M[",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$B0A1J5DD9OtVxTCHl+HFkQ==$NfcKo6Plf69TUOZCzmJ9wDpkQzQHIGLobTJC0OROgCM="
   },
   "orologio262": {
-    "pin": "6339",
-    "password": "oi=o0fUYh{H11L"
+    "password": "oi=o0fUYh{H11L",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$YAnkwHazGFLfdJTCYFgntw==$TyfPi3qKf5FltFv28dLnLlpi8hXWqe4y0JKiC7H+jDo="
   },
   "orologio263": {
-    "pin": "8127",
-    "password": "m9TLkv8.3l^pBX"
+    "password": "m9TLkv8.3l^pBX",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$tI5ffdzuf6pemRIcppYgrA==$PoPSAVsCU4Yqfsnk39ZBg9BfHNlEdEKCHw8kEim7Gdc="
   },
   "orologio264": {
-    "pin": "0327",
-    "password": "yGU5b^eR6(g1iE"
+    "password": "yGU5b^eR6(g1iE",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$nrVGZS0jWwtsWeIZaDMsnQ==$9AlVtigQGDczWWXLUG7IR4jXzOO03ljRWfUa7QQSnQ4="
   },
   "orologio265": {
-    "pin": "8505",
-    "password": "gQ+TzT&3r3y6Me"
+    "password": "gQ+TzT&3r3y6Me",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$wAgmCxYJ9WxSHZo5rGXIsw==$Z5RZ8Gny+eLRdarqJbMffDKNgSS1WoGTsg4HUlRSUVU="
   },
   "orologio266": {
-    "pin": "6040",
-    "password": "aJq0O^+hM2yhK3"
+    "password": "aJq0O^+hM2yhK3",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$j09L0PUEba8Gm3+qxEAnig==$xvvJ36/YiE3VElwzXu+eMZETU22b3eqvPf8lF7hwN30="
   },
   "orologio267": {
-    "pin": "4088",
-    "password": "eL1S+bR!41ydoE"
+    "password": "eL1S+bR!41ydoE",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$z2y6d7fRYYtM6Pr8qjFRMg==$q+e/Ao0dGOSIEq4MgYKTAQFME7c04jGvDR9IBSg3PiQ="
   },
   "orologio268": {
-    "pin": "4680",
-    "password": "Os0m$LpmM3Ah;6"
+    "password": "Os0m$LpmM3Ah;6",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$uj0XyzSrYhQb9bZvQwlNFw==$INTA5k7PgGoignIQsAQOZEcTc1QvudEIrSDuGm0JaL4="
   },
   "orologio269": {
-    "pin": "4852",
-    "password": "osxT{5[y9V5xGX"
+    "password": "osxT{5[y9V5xGX",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$JCZVVS1W9V1cy7ws5G0BwQ==$coqXmvhTokluWC5Z3JYsVxDuQ6UqnkMUm6OeNR8DtWk="
   },
   "orologio270": {
-    "pin": "9159",
-    "password": "3vgmPkL[0)Xt0L"
+    "password": "3vgmPkL[0)Xt0L",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$CTnyY6bXjIUilOXVDJ4JVQ==$oFdWjf4JTXLEPxCox58jsbjE4Ju4vg/Wy+oBAqZcjhQ="
   },
   "orologio271": {
-    "pin": "7968",
-    "password": "SlFV}69eqL;4fu"
+    "password": "SlFV}69eqL;4fu",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$zAtE9P2gxSGTqi15JgZfQw==$XorOyPgBnHAyhDIe9o8kr/piAaPzS/O2E0utNYBXXgg="
   },
   "orologio272": {
-    "pin": "6699",
-    "password": "1xqTR#k3b0bVH("
+    "password": "1xqTR#k3b0bVH(",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$bJr1WFwRU4YUXRLSJexsgA==$agVEVvUvzJe2yaeRDaUuKk/gAphP69vX8G6HIcwD4GU="
   },
   "orologio273": {
-    "pin": "6988",
-    "password": "x6mxuPp^TG?X98"
+    "password": "x6mxuPp^TG?X98",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$jFUqJpF2N7ENh977neMlUg==$TZBCBumDqimlvsYUHcKpVwB3laczPbDBnrXfwSb2XxE="
   },
   "orologio274": {
-    "pin": "9337",
-    "password": "84JnG?pJuQl4f+"
+    "password": "84JnG?pJuQl4f+",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$5BoeUvcVTzho44TR+jJVBA==$z7u+SzvEDfRNiYNRH6qSc6SZIQIvE2R+gUdC+8ypQMU="
   },
   "orologio275": {
-    "pin": "4801",
-    "password": "wUmTN6g02B!#mu"
+    "password": "wUmTN6g02B!#mu",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$7kCElZMIJ5bAnJNVyAaI7w==$HyZMsCN332BwuuWT4tJWIWth6QxWGAUwnHm+CKCVTxQ="
   },
   "orologio276": {
-    "pin": "4291",
-    "password": "x7$21VF%EfUmvz"
+    "password": "x7$21VF%EfUmvz",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$isUCk/kG/WHZnds6dq/Ycg==$pSTIerIDZMDyVC/dixM7uwHMVFxCfFhardhqDiK4rRQ="
   },
   "orologio277": {
-    "pin": "3057",
-    "password": "e9HrxczM29;P=K"
+    "password": "e9HrxczM29;P=K",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$I8rVUelCes+JKcVYBJqfng==$WeI/O07dkiLmpIsL0qSkeeYBwvDC103npOPHZMaTIlI="
   },
   "orologio278": {
-    "pin": "0308",
-    "password": "2x-s!KEa09aCKg"
+    "password": "2x-s!KEa09aCKg",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$7N6zi8xtrFmgEuaZzNMG/w==$GuYrQeuuhLF6ltPSkSK+c7U29kYui8jiGx1vQBswY9E="
   },
   "orologio279": {
-    "pin": "9493",
-    "password": "hB{hSc=dh1M7P7"
+    "password": "hB{hSc=dh1M7P7",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$ySowjao6vH1zUrXK86WXDA==$qmWN/Oca4YIYRlW8Q2o+wxBb2xLnm1oTwbx+QmniTS0="
   },
   "orologio280": {
-    "pin": "5889",
-    "password": "nC7)anM74nG:sW"
+    "password": "nC7)anM74nG:sW",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$k6jGgO7oCFopaqnN5rNIAA==$tFzujpzKCa2vMeCZbWO+GcEHNrG1iaXsUwOrR+rzOdg="
   },
   "orologio281": {
-    "pin": "6999",
-    "password": "AdV7aI0R&@ixv7"
+    "password": "AdV7aI0R&@ixv7",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$ObfNpfJvcAutrN8bovKo2w==$fOrJlwOyvXTXMSqLSTB8W6bVWsV92vs7xT3uCnMwjQU="
   },
   "orologio282": {
-    "pin": "1528",
-    "password": "oD{qa0phN22&DM"
+    "password": "oD{qa0phN22&DM",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$9Tl0PsZtyXuWiS/xGodq9w==$KF2qwvviUQ7p78sFNDQj5UEPSIx7k3uXNM4DWnv7HBA="
   },
   "orologio283": {
-    "pin": "1227",
-    "password": "P63xtAo[n9oWW%"
+    "password": "P63xtAo[n9oWW%",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$6yl5umSv8JtufPC580VGVw==$HBkfuLG1HnSYb+6a/d3fUwLplBvkb5b1sp2IDz948zs="
   },
   "orologio284": {
-    "pin": "3910",
-    "password": "Tn8cnj7HA[lF5%"
+    "password": "Tn8cnj7HA[lF5%",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$iY6lJU8zzgfy6AhOA95u6g==$cRyEonK8h9s1OCfhUZTeM+xh7eP12qQsG/185RTLq2U="
   },
   "orologio285": {
-    "pin": "3256",
-    "password": "5]onM23M?nJpGk"
+    "password": "5]onM23M?nJpGk",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$YDUS7oaDFaw82DbcHAVNgw==$HTi8bOcsne+qAtAmPj4v639DeYYJQIfAal4CMCpVguw="
   },
   "orologio286": {
-    "pin": "9770",
-    "password": "$wFsSc84cE9wU$"
+    "password": "$wFsSc84cE9wU$",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$58pCJkA5rjdltm+fmQVItw==$/vsPJb+wFJY529Pv3hNYiAXWrubDnv4uIcL2S/zl6cU="
   },
   "orologio287": {
-    "pin": "3722",
-    "password": "KM0J)aL73cv(uy"
+    "password": "KM0J)aL73cv(uy",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$Jm2ah/KspElYhw+fqt5gGw==$qLZttGlseiXNJVEB/UPmrIe+Bas/x4oUDynYzXvKb6Q="
   },
   "orologio288": {
-    "pin": "3696",
-    "password": "LfeF8Y%q5k0Yg}"
+    "password": "LfeF8Y%q5k0Yg}",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$dKcVQbNAHNUeAkYAIuwfKw==$RmO7tkw0GwMF2tFVfwj4hiLt/T8lMLCaB0obEJacpkI="
   },
   "orologio289": {
-    "pin": "2242",
-    "password": "drkR8;GVJ6}zh9"
+    "password": "drkR8;GVJ6}zh9",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$1LESE4fxxjcfP/u3hRC6Xg==$gYtxCAOYURFXRkTMojrX1hy7fLzwr9Ck2YGv8Hl5QF0="
   },
   "orologio290": {
-    "pin": "4967",
-    "password": "#wqgM0NvR_8a8V"
+    "password": "#wqgM0NvR_8a8V",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$JLke1o5emXUlVfyBwkZyUw==$DOfBAfGJLQ9lHikhxKczE99c6FfJvjxo6hZzC3KPUWw="
   },
   "orologio291": {
-    "pin": "3203",
-    "password": "8?xq4;iLXvAn9U"
+    "password": "8?xq4;iLXvAn9U",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$Nxp08/faaLIW9EdNE1PvTQ==$fn7lY8qt54TwshNFBk5qUJW/yaXTvzZegg9QmPC3/D8="
   },
   "orologio292": {
-    "pin": "2643",
-    "password": "?$1X47uBjutlDH"
+    "password": "?$1X47uBjutlDH",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$nKcZF+WCly8qaatcYLAmPQ==$xtSRdscqH+EduloxHhs8OcP+32KLbFOz3LceXjV9GOc="
   },
   "orologio293": {
-    "pin": "9429",
-    "password": "1C+y#ti4eXE8Ik"
+    "password": "1C+y#ti4eXE8Ik",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$AmTdrEf8+787pcw4pLIZwg==$rRm/WelAg5XfmDyKO+LDI0cCjOasBuNwWm5htyBX2pU="
   },
   "orologio294": {
-    "pin": "2857",
-    "password": "r[xK41&5kiWZuE"
+    "password": "r[xK41&5kiWZuE",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$SssQbmjTUTtWt2IINemTIg==$KmYRAIAtpauNSG1h7SIOrr7TwWiyvzBZJMqSM0Dad84="
   },
   "orologio295": {
-    "pin": "3915",
-    "password": "H-h05jDTs0Imn:"
+    "password": "H-h05jDTs0Imn:",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$71T16/csuimN6BzJm4vO7Q==$QUP6LYOlOIyjU3sQyCCtxeKHNLB3L++An+tsoPRjYs8="
   },
   "orologio296": {
-    "pin": "4009",
-    "password": "zad.06+scCVS0B"
+    "password": "zad.06+scCVS0B",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$byDMJgpjhgTqo8M1h0mI1g==$Oxux4v39udvBGe4lBe8hisQE4ZDIosRaaVzhXjNRdx8="
   },
   "orologio297": {
-    "pin": "6012",
-    "password": "1lsRS-e$Mh97oN"
+    "password": "1lsRS-e$Mh97oN",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$UAwEij0MOSpttcfqZ9LmnA==$VlQ/N8JWCNS2c7Xyba6DrljqNwczanddyjLoGmPnCII="
   },
   "orologio298": {
-    "pin": "9931",
-    "password": "iqqT:03-bPbO7J"
+    "password": "iqqT:03-bPbO7J",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$0bQ07TkvMFVbKHx8h7OgAA==$lH8IMmDeLtMZil8AB3lqgi5IBY6WRADOz+IqAx+sMFw="
   },
   "orologio299": {
-    "pin": "4828",
-    "password": "6f_SiN0k?B3yRn"
+    "password": "6f_SiN0k?B3yRn",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$MYLsBnti+OUBxtOBn/uQQg==$L2PtZsit0VUsqjILokYZXDiOpwSyk6Q+42A/jSIywzU="
   },
   "orologio300": {
-    "pin": "8167",
-    "password": "6dSVD;b81yPp-o"
+    "password": "6dSVD;b81yPp-o",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$u+8q8DY+z/c36MaKjC+6Bw==$RAbY4KhLWZQnPx0rgM7xvu1+o5S9ZVUSlZJGbqTQ4do="
   },
   "orologio301": {
-    "pin": "6776",
-    "password": "G&ToZ0n;na84Ub"
+    "password": "G&ToZ0n;na84Ub",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$4Z/4PatNtgbSvM+h1NzrUw==$QRQLYObCA+Xw7mh1+qcHf4ZZNp5SIJOLjwYONGk2mUg="
   },
   "orologio302": {
-    "pin": "4482",
-    "password": "5o2F]FNvQlje0@"
+    "password": "5o2F]FNvQlje0@",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$n9iI7fYjqRI5HoVJBB6hjw==$U08d+K+zD7YRcF/NrkNirje5kK+KJcqG2W8ZQJowFfU="
   },
   "orologio303": {
-    "pin": "1509",
-    "password": "g^gx-M6Pd1Q9So"
+    "password": "g^gx-M6Pd1Q9So",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$uwFL9bJZlYwizJhhxK6iOw==$cisoAS69951oalIO6AbHLfwSLpJlZIogMGBB0bM3qgs="
   },
   "orologio304": {
-    "pin": "7515",
-    "password": "8wIS{caMmF7}d7"
+    "password": "8wIS{caMmF7}d7",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$dtNSzTlXy8kWlQfgCSe6tA==$A3Ky/jePaMgiov9x6E98t9ebTrwHQ0lHNdlXWHrMfuY="
   },
   "orologio305": {
-    "pin": "6246",
-    "password": "Q@w,C6B8mLpll4"
+    "password": "Q@w,C6B8mLpll4",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$IY7+anAsnEZ51nBGUevEIA==$bJ399OH9hrsw9hzjWMl1KpoU6XLq62TeslcZB5BpWvk="
   },
   "orologio306": {
-    "pin": "1263",
-    "password": "33uQ$2eLmgXP#c"
+    "password": "33uQ$2eLmgXP#c",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$b4yQNhIWmvY4jg4NEO5UhQ==$SJc2I0CHAj5jjn/58MdM5OZ3PFlKxVEqOqqBmU3kKc8="
   },
   "orologio307": {
-    "pin": "2828",
-    "password": "vlXXi;Sr3,62rK"
+    "password": "vlXXi;Sr3,62rK",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$fzfieWaS8DHYPtm+rayTwg==$mAeBzy3SrBwzNTChPUoDEbmMdnCWdvD2i7ek9IiExtg="
   },
   "orologio308": {
-    "pin": "5905",
-    "password": "@AG,Dmg5d5w9Km"
+    "password": "@AG,Dmg5d5w9Km",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$aqCpTv0Y7MYVlJNCqX4K1A==$9YwvjS/gotj1cJVOrhDFAELxHFxeXWwJPlI0sDs2KqM="
   },
   "orologio309": {
-    "pin": "5331",
-    "password": "h)3qn9m3zUD:YU"
+    "password": "h)3qn9m3zUD:YU",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$Ro7apKvOYs/XbFqI6+uUjQ==$bXKTV5HYJzaRDnnpzuINXvitt0OQOF9awCcBReqZSnU="
   },
   "orologio310": {
-    "pin": "7351",
-    "password": "q5T]9OGi=ug9Rm"
+    "password": "q5T]9OGi=ug9Rm",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$KiqTDMHESY1LYj4E0k60dQ==$PsjXPXF2Xtk9n8BKliw69nbmHjUwErZaSXc1ORHfLcg="
   },
   "orologio311": {
-    "pin": "2067",
-    "password": "9thL:@SW42Pnpr"
+    "password": "9thL:@SW42Pnpr",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$cjBMB5xQm+ZRgNAuLC1Agg==$QRbL+ySsit7bJSxQrq3zQV1PGjFeF1yXmAqtlWL02hc="
   },
   "orologio312": {
-    "pin": "6059",
-    "password": "}vA4w9gB$yVyE3"
+    "password": "}vA4w9gB$yVyE3",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$rb8FXmEmWHRw2cNEQRr14w==$Opbzd+4eK9uYepFFLd1/637kt/oCOR1EnG2M0dvJ1/U="
   },
   "orologio313": {
-    "pin": "4917",
-    "password": "i,0G)EQct90mSj"
+    "password": "i,0G)EQct90mSj",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$lXoxmcZiSGMmQSrwLBJDRg==$qSELPoVP0nVA4gHxUhc6yIDYGftknIr1KhTBlpzKWRw="
   },
   "orologio314": {
-    "pin": "9817",
-    "password": "Y+gv}nTP68aaM6"
+    "password": "Y+gv}nTP68aaM6",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$tEEubJSzzQIykUdqs4HoUw==$v8lyeZpvPDXQLTbyHT86yq39fnf1QSnY3Xpf7iPZ/xM="
   },
   "orologio315": {
-    "pin": "9253",
-    "password": "+s64QuTdN4?dqE"
+    "password": "+s64QuTdN4?dqE",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$XtXzf5icAc8E9JOK98ggtQ==$D16N3WYAcbXzrqReO+qhOZRoI/MPW5Go0BqmI+OIiVA="
   },
   "orologio316": {
-    "pin": "7434",
-    "password": "n$3ivp2R5TNw[H"
+    "password": "n$3ivp2R5TNw[H",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$2akBi6b8sQc9Ry5xSeCamg==$uqewamRb6XW49+yhMAx0TDEGkK8t8Gt5aokfURT49Zc="
   },
   "orologio317": {
-    "pin": "3522",
-    "password": "svE8f-ZO1B9fi["
+    "password": "svE8f-ZO1B9fi[",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$PdEz/areL7LxUspYGOVmgA==$R/5nANBjVFNGu6Fa2l4nw5ZUm3E5u98/cV1KQWbs0gI="
   },
   "orologio318": {
-    "pin": "3877",
-    "password": "1HszcDp4)M4(fQ"
+    "password": "1HszcDp4)M4(fQ",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$x0PR4SKJvuBkIqEhVfj79A==$MjD2+KQFM/ZTFBvjwK5bf//UYbmqWodPeUyZxelX12k="
   },
   "orologio319": {
-    "pin": "8161",
-    "password": "g+D6JE9$6vIhii"
+    "password": "g+D6JE9$6vIhii",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$cPXXGTIZrwTThh4mwm9q3g==$dGYbVIZ32GvQoqv5pXEmZPs7tdyk71Jf3R4D47z9rqM="
   },
   "orologio320": {
-    "pin": "7667",
-    "password": "@9d3A0JevoF!sG"
+    "password": "@9d3A0JevoF!sG",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$1AU7PDDfPKoDI68GeHsHEw==$nECsC4DGgwsCAv/ylAckZtDVdyShLY7BxMnZMilHp+w="
   },
   "orologio321": {
-    "pin": "9786",
-    "password": "-=zslU9n2S0SoC"
+    "password": "-=zslU9n2S0SoC",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$vTWjEvQaI+ydnZEZOHVSsw==$IrRNMBUfp6CsNeMAJXVg8caGMw3IINn3j8ydS92FgZE="
   },
   "orologio322": {
-    "pin": "4424",
-    "password": "ky2O98wYce?$HO"
+    "password": "ky2O98wYce?$HO",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$nbN8vbDSwFpUbRKp15MggQ==$Jd/qn+E2sp2oWqPJ8bAqECZ5BhM/dVgbb7BBzgKEAqk="
   },
   "orologio323": {
-    "pin": "5609",
-    "password": "6h)Bj#FRltKm95"
+    "password": "6h)Bj#FRltKm95",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$hiXqV4g7NxiOmNxJ9ZxOKA==$HjDJfYDkaPJ7wWK1S+Jh420zugNiWowxxZAl0o+WTX4="
   },
   "orologio324": {
-    "pin": "3423",
-    "password": "w*fH6dIl?4J1Cz"
+    "password": "w*fH6dIl?4J1Cz",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$vQGzHuAM+FBYI4dw0p9eeQ==$KSxFiZp682ytTVgK09XMI6/htcrEPKwBYBbx/9s5Dww="
   },
   "orologio325": {
-    "pin": "2458",
-    "password": "Cx5?RwtV5hzB0?"
+    "password": "Cx5?RwtV5hzB0?",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$cU/uzE1l4R9z1B3nMtBHEw==$33pj+KRoDLu/tj3ul5E/GmOXWU4KvryEFFSJj718zRI="
   },
   "orologio326": {
-    "pin": "6997",
-    "password": "^B^9XhlI7cn4qS"
+    "password": "^B^9XhlI7cn4qS",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$sVHDmoIPH8Yu1gWdZ991Jg==$afuDo3bkTepTftkuEpFISTiyQ2xYFw8tyKJvBdDWFyc="
   },
   "orologio327": {
-    "pin": "7400",
-    "password": "3E:7dgfkOPR?a6"
+    "password": "3E:7dgfkOPR?a6",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$GSUYB7oX622hulTloya/Rg==$gtV50KLSIGvzQRdh1WFYVVQtc1y+bt0qR6Ayx/MIoWE="
   },
   "orologio328": {
-    "pin": "1181",
-    "password": "4DDk5Ojs=f7oF."
+    "password": "4DDk5Ojs=f7oF.",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$OAcRBJL0tos8Fk15G7gM2w==$unGYXFhZ2boi0FcJDX9dIUSwJZ7FZsDqB3tAFJV5cj4="
   },
   "orologio329": {
-    "pin": "4369",
-    "password": "L(2]rWt86dSusO"
+    "password": "L(2]rWt86dSusO",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$Ycep7jbRIoCugnGvubBrFg==$rOar+931W6mSYeq5sgGFXGmT2WJ+ARhgpbflC1Zo1Ak="
   },
   "orologio330": {
-    "pin": "5301",
-    "password": "0t%E)4PyeRC6df"
+    "password": "0t%E)4PyeRC6df",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$e+vptjqYQWwnyB0ryZ8aRA==$Jd5sherG8HaSu85Du439cAqrLoQIf3Gm8HDFzU2dVF8="
   },
   "orologio331": {
-    "pin": "7185",
-    "password": "90e7!abScMhGJ;"
+    "password": "90e7!abScMhGJ;",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$T+PmuS1KrmWwpezVSdAOPg==$fBgwWJk2EYI42z/8TPtWY48hi0EXK6/Lvh0ke/EsOQ8="
   },
   "orologio332": {
-    "pin": "6032",
-    "password": "JL^SQ8nd7d)2pc"
+    "password": "JL^SQ8nd7d)2pc",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$y3xbII0tyxiKtAHTperlJA==$zR3suufzblvqfmTL0ept3Ox+klxeyft9WBvm5nO8LvY="
   },
   "orologio333": {
-    "pin": "7963",
-    "password": "4C5?z0yarqIBQ."
+    "password": "4C5?z0yarqIBQ.",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$boAErTq7wCgu6OuFEyeuzg==$hZbwJPpr1EoSr3y0NHFWjCJ3u5UwwzwG8wWAA0DcNb8="
   },
   "orologio334": {
-    "pin": "1742",
-    "password": "hd(V3Lv4Fi2_Lb"
+    "password": "hd(V3Lv4Fi2_Lb",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$NpHLZgI32Lv7yMapRlCj5g==$Q5iFbo4z62iDVZCzLnt6cawhAGUSgmB/7PJB5DjEYBQ="
   },
   "orologio335": {
-    "pin": "7240",
-    "password": "LYygeqP2+o9R3["
+    "password": "LYygeqP2+o9R3[",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$Zyn66ZaXqMA54t7ZutI8Hw==$nklMmvPSA2Fl5vgYGhYSKA0eIDD+hxeuJAxGI+I4/9E="
   },
   "orologio336": {
-    "pin": "3438",
-    "password": "s;4(7kYflXZiF0"
+    "password": "s;4(7kYflXZiF0",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$e1xR9IArD6d+BJVpMOSYHA==$fYhEkMeUM6WYC0VhosjXeOj5r9izrhjg0cJw7KM8B30="
   },
   "orologio337": {
-    "pin": "3564",
-    "password": "AD?}7gX5rt1aFy"
+    "password": "AD?}7gX5rt1aFy",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$MVDRDrthgKDWSvDgCRcsQw==$IO78l1ZiYMpJnKm8k3pOU/VuyKYg5YZruer6xOCDCJE="
   },
   "orologio338": {
-    "pin": "6233",
-    "password": ".I11;Arnp8DyqC"
+    "password": ".I11;Arnp8DyqC",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$OevzUu3n3+l/EnSHq3zPkg==$GNCtsCLiwwSsTm3fR8sRHdv2udP8fSqqIvsvqg2snTU="
   },
   "orologio339": {
-    "pin": "1143",
-    "password": "5-$0DWnIlaSq9o"
+    "password": "5-$0DWnIlaSq9o",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$IsoWNPsJuBkEwhKF2PqP3A==$hWmtjIkVxJirGWYiJFcsV3mqcGyxEOwVrYgGBX04cuk="
   },
   "orologio340": {
-    "pin": "1098",
-    "password": "iNE74Ed?0xO{fj"
+    "password": "iNE74Ed?0xO{fj",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$1ogKTyqJC/ThOO9G8l5bdw==$Ra5+NsL8Ps/B7l+WLa2kiTnTmfh+0PMxkveEmFrd/Fc="
   },
   "orologio341": {
-    "pin": "1574",
-    "password": "zyb{XvEJ6Q3a(4"
+    "password": "zyb{XvEJ6Q3a(4",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$dzzHR3Aws8CahdwFvuBlKA==$Z2DR9fMPzHd4SVNbQFMUO/cBMFuIuqVkgVdf+7McHm8="
   },
   "orologio342": {
-    "pin": "4443",
-    "password": "tjfA3!3F1z?hKQ"
+    "password": "tjfA3!3F1z?hKQ",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$vz0rsYXl2OpMlo9fbp7Zog==$lbEJt+zYa3v3D0hrqe7wa0+9ZJV1Ryn6GEMDnICoKbk="
   },
   "orologio343": {
-    "pin": "0767",
-    "password": "p5T5Xszx1w$VI{"
+    "password": "p5T5Xszx1w$VI{",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$B/Asdw3/OKcuRpvnz359+w==$ydzeFOKDZ85B1P/N8EvptVXtkSaV2YjPv9Go0eV+0xw="
   },
   "orologio344": {
-    "pin": "4931",
-    "password": "8iVs+iYr0T-e2Y"
+    "password": "8iVs+iYr0T-e2Y",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$MaxVvuBWwWX8EdFeF7SM0w==$A/MQR3PrX+qYnsupVCVcrrtbGjFEeACsuQJPrHybCOc="
   },
   "orologio345": {
-    "pin": "1860",
-    "password": "71gTdPx8++nTUx"
+    "password": "71gTdPx8++nTUx",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$vI/JS/Z/naPyC/oU/E58tQ==$b68k7pRlVDZ8Cqt0VNnD94yAtIW5BFV1d/XrEUcc1XA="
   },
   "orologio346": {
-    "pin": "5291",
-    "password": "0myB17Xbs)e@IN"
+    "password": "0myB17Xbs)e@IN",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$J0a1nxi7hpn4XY9AXn+Ahg==$QWvxSn7Cev0gdiYwT5KKmUT+UA3dMsZC2kby46bdELw="
   },
   "orologio347": {
-    "pin": "0250",
-    "password": "mj&YIjKm2X55=h"
+    "password": "mj&YIjKm2X55=h",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$+GCEMi2bzug1+no1FrS9zA==$9LeuIRFrOy8/IjWTKwR4gSfHu//5ChUIUA7dL1T8Kdc="
   },
   "orologio348": {
-    "pin": "7216",
-    "password": "].0rl1QGLV5msc"
+    "password": "].0rl1QGLV5msc",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$7PWYWCd/19CoNEB4k925CQ==$dorwU3xwVXa89bmjt1NVJKWph5CAWEM5BluwyPNwY4Y="
   },
   "orologio349": {
-    "pin": "5047",
-    "password": "q6dQ(4nL)2nPmS"
+    "password": "q6dQ(4nL)2nPmS",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$btVFyF5e+3NwbYDkHi0ZOA==$MJgCj2Y8Z1tKLHkBjrGimgPtdQfdmFvygZot6hMU0Lo="
   },
   "orologio350": {
-    "pin": "7065",
-    "password": "s7xiR8Gg0_+vKO"
+    "password": "s7xiR8Gg0_+vKO",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$Hccd957m5Yjb/+n66bCORw==$oMniWQJJHrDg5JhcsYRM9GqJ08jQ4pAhwhY7nNltPl0="
   },
   "orologio351": {
-    "pin": "7686",
-    "password": "t9C8!aKnYvNr1#"
+    "password": "t9C8!aKnYvNr1#",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$E0hkWSueLg30Z9LNicRePQ==$E2SXsliOUsqDryQJRZJ4HXVzmFL4Vh2ATfyjbTRoYhE="
   },
   "orologio352": {
-    "pin": "8503",
-    "password": "^1x8hovJSR!1Br"
+    "password": "^1x8hovJSR!1Br",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$ep1uFVLBBJrxunFVx1ZMzg==$j0dl/3tRuvy/Ne8qK+46zD2rPTPasZZ5xJ4TvrB6Ylg="
   },
   "orologio353": {
-    "pin": "6604",
-    "password": "vio8JN#O*6lLb0"
+    "password": "vio8JN#O*6lLb0",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$WAvvFLAizi0l7F0R6okRRw==$Fz7aV903vQpS6VDxTTSf5tOSfV+0cGUWf068hLhxUrM="
   },
   "orologio354": {
-    "pin": "4748",
-    "password": "BjcZ&*Gf0v8t9K"
+    "password": "BjcZ&*Gf0v8t9K",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$B+L1qEbj+kVRnmcI8fdCnw==$UuX7w0J91lbM9/HieissBxGIE116lF1u7tre/xFCwjw="
   },
   "orologio355": {
-    "pin": "5344",
-    "password": "7JqKi7fH1sg.Z_"
+    "password": "7JqKi7fH1sg.Z_",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$5L5zu8WNpyyEKDFxA+MOUQ==$uMa6hdDtAVckNMVuM+5BZPIK6+P7iFfM/aD8ITHojrU="
   },
   "orologio356": {
-    "pin": "2095",
-    "password": "K8f90T_yfeV+Oh"
+    "password": "K8f90T_yfeV+Oh",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$8PzepHVwYwI/5pgGInj5Jg==$QYzAnMr5Z9Um2nuiRR0fLF2eOLIc16OlJR9hzfgOpMM="
   },
   "orologio357": {
-    "pin": "2449",
-    "password": "vt&?O4rm6TC5lU"
+    "password": "vt&?O4rm6TC5lU",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$dxuyYK2DNQ7VTjtg0mXEfQ==$ojV8Hl39zOZvblZMo6/vzJ8fntqQrtlP25ZbhmzHvbQ="
   },
   "orologio358": {
-    "pin": "9994",
-    "password": "1;A16B%lVnxEya"
+    "password": "1;A16B%lVnxEya",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$ZTE2uQNzIvz28wOMYiSj1w==$BZUlOX4CNz7bTtIcgKYE2Dq2Ng5lf90aMd0dcIPBGpo="
   },
   "orologio359": {
-    "pin": "8935",
-    "password": "n2mplJO03G,Y-n"
+    "password": "n2mplJO03G,Y-n",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$1zRT+MsbvYx04226ZZJzPg==$lnRpVJsnTPcvouzWykUK41UIACUo8fJoUMz6/yv6CN8="
   },
   "orologio360": {
-    "pin": "8168",
-    "password": "tu9ksc-1H6Q*NL"
+    "password": "tu9ksc-1H6Q*NL",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$Iy4P6reOWP5R9fKskyeXMg==$+RP3sq94UE4Scunr+LjuSCFGuUpQ/eHlAmeCMBI+zWE="
   },
   "orologio361": {
-    "pin": "7198",
-    "password": "5sjnU$BVm4m%3Q"
+    "password": "5sjnU$BVm4m%3Q",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$Sq+G+Yd5Td//8ea+K/5dDw==$45fzDf6RdVlERwYOZzaXVPUwHzU2ogbFYE1uBV0nSak="
   },
   "orologio362": {
-    "pin": "7256",
-    "password": "tJt#Cly,63HKp9"
+    "password": "tJt#Cly,63HKp9",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$FNyFMwhtJiEZShPF8xLfIA==$z3ZmuKvfQcOfzj6GK2+ZpgLrHLDB3XO7Dz1dYYy3ECU="
   },
   "orologio363": {
-    "pin": "8233",
-    "password": "b[Z2Dt3wUK]x2j"
+    "password": "b[Z2Dt3wUK]x2j",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$fQnpTljlcHdTOgzvBNPVJA==$4vI5njRZRedVWG/77SIG+O60ofyek3YedY4ekte+SDE="
   },
   "orologio364": {
-    "pin": "8913",
-    "password": "kTdl1-^F4ufJ9A"
+    "password": "kTdl1-^F4ufJ9A",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$uQkWPo2qNQ4UWJyH43/aVQ==$1XKfWqRybQzYC65p0m2Bav/dyWh5t5vCJbS2UZqzTOw="
   },
   "orologio365": {
-    "pin": "5001",
-    "password": "nCw0ViE9Wg&8n&"
+    "password": "nCw0ViE9Wg&8n&",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$egY6+CFelKBHxih+yHCchQ==$nyjCZm8LptUwxpviJ130vIwRsbhyKVLvz6vUpNOq/1o="
   },
   "orologio366": {
-    "pin": "9761",
-    "password": "%SglhL4Pmn}I96"
+    "password": "%SglhL4Pmn}I96",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$nEQLhewb/sj5ySEri9c2YQ==$6f9y8e1knpjjnq8yV/mo4Ts+eNEazCNBcFnM4ipKJKM="
   },
   "orologio367": {
-    "pin": "8862",
-    "password": "V07q@7@BaFqnUs"
+    "password": "V07q@7@BaFqnUs",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$ewqbM/AfQQoi6R6Cf5MhRA==$XH6WHRQ9er7yzD95aov67/6ZBb+Ypc1pTSW6FpkRVyQ="
   },
   "orologio368": {
-    "pin": "2870",
-    "password": "USm8Fa99gIn;?e"
+    "password": "USm8Fa99gIn;?e",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$Kbo8/1lzU6qIGCeaDaYYZg==$8PxC2Uja2SGPV/HIMAIoLXLB/HsyqfgZOpEEhhq9b+E="
   },
   "orologio369": {
-    "pin": "8020",
-    "password": "4jHRlzM%(29tbC"
+    "password": "4jHRlzM%(29tbC",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$Ta6H2Zx5QNg7dRprl4fiMA==$GKo08ihicH89AOCqHGpdxJplXTW/kakkq1YTNFnl4d8="
   },
   "orologio370": {
-    "pin": "6868",
-    "password": "0Zju{4heW?yXK2"
+    "password": "0Zju{4heW?yXK2",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$gp7iy20/DnYmHCLGpuyU+A==$A8KQXXXT0xRQXbmA5noZP1PWjtn3ad5jv7K4hMXK3NA="
   },
   "orologio371": {
-    "pin": "5032",
-    "password": "p3E5I(h}d0xEuN"
+    "password": "p3E5I(h}d0xEuN",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$Ax3uQQdHNb+/N9DgMSYnlA==$s0fHHKULyvjuMM6lEaWxy+BlxWWKH8dhRTxnjqTlq0c="
   },
   "orologio372": {
-    "pin": "8609",
-    "password": "!p923.wEpDonBP"
+    "password": "!p923.wEpDonBP",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$I1xmyVyDAZVxpl3MMtYjgg==$SnrTI38Pm2PQQ1Fb71je4bzyeuuw5oUps0Wnd3oh5h8="
   },
   "orologio373": {
-    "pin": "6867",
-    "password": "c2j^yT?N9ao0SE"
+    "password": "c2j^yT?N9ao0SE",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$NUWWYuDWk0lNpuGwGYXk+Q==$teceGH1Mf6+3d9aRgJTyMPfj9GWsLj52WLwreK6AkOc="
   },
   "orologio374": {
-    "pin": "6414",
-    "password": "!mPsRi^K39T8vt"
+    "password": "!mPsRi^K39T8vt",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$HOE0ZBbV3Bq/4D4JYW8UOQ==$ExtzIfwxCqNdESaWuGMvjHKngK0Mx/eKFbeX3CwZovM="
   },
   "orologio375": {
-    "pin": "3107",
-    "password": ")tT@2rj0LQ0eoN"
+    "password": ")tT@2rj0LQ0eoN",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$JCv68QZTlSKaBds0lehy7w==$PKIYRJsxQlgWD145Vn9ToLN4hLarai8jOH2CBBZzjBM="
   },
   "orologio376": {
-    "pin": "6732",
-    "password": "k4*DJqs0RU(1ul"
+    "password": "k4*DJqs0RU(1ul",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$cw6bUcd0X9wSe5TPzEuWEw==$pGMBaSWcCMNyCiYoZWosKJLLWQgDlxAu2v6RpC5pUtE="
   },
   "orologio377": {
-    "pin": "3768",
-    "password": "4aDfzG8M0@uxE("
+    "password": "4aDfzG8M0@uxE(",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$4BB75AIuafr4AmV1svTbEw==$phsCAwj01/wm3mqGf1aCU0RdWDl2MNS5aMHSM4l4EKs="
   },
   "orologio378": {
-    "pin": "5030",
-    "password": "R:nP?an0s40WUa"
+    "password": "R:nP?an0s40WUa",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$DXVezaki8XfnLzR2OLDKNg==$F3GuHiJdPp6EvJRs1Pq8EmKjcz39MXOjNGbSrwmENhk="
   },
   "orologio379": {
-    "pin": "6581",
-    "password": "(rx5enB5EK=Yp2"
+    "password": "(rx5enB5EK=Yp2",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$QuvEsR3ZHOurNCHg/pANxg==$dS5egmxygkGHUC6tyn/YYOXwwwPX4wyuxbFBdcxiSeU="
   },
   "orologio380": {
-    "pin": "9622",
-    "password": "mZU1ih$M_21njH"
+    "password": "mZU1ih$M_21njH",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$M5v4Bja0El5v9L+4N5GRpg==$3kmPMy2vbm4vDGmPleiGyqRicpdH7rD1j+kiBDJlwTE="
   },
   "orologio381": {
-    "pin": "9387",
-    "password": "0XErA3z-s1zOt@"
+    "password": "0XErA3z-s1zOt@",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$GR4jmqyE0/j2571uZdaM2g==$0h0zXyt+/Y5D8mON1psVSw95SVBTEzQwRRoV5rcYKdI="
   },
   "orologio382": {
-    "pin": "7957",
-    "password": "(2gjWw8kHP}gM2"
+    "password": "(2gjWw8kHP}gM2",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$h+8k0kHZ0qMj8Xh2pYCd3w==$N+I3WypVLN40wFa+yuDq7agJGbx/CzlDtUQfz5bAnRA="
   },
   "orologio383": {
-    "pin": "5667",
-    "password": ";@auA8AmdDO32e"
+    "password": ";@auA8AmdDO32e",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$Nj1ym53xvq4VN/r6vkdLXQ==$rDWS4dPJr4v7LWX5kWdgdHlSeL50vRKLIz0JtojRksE="
   },
   "orologio384": {
-    "pin": "8766",
-    "password": "0nYGfiJ9rT?&f2"
+    "password": "0nYGfiJ9rT?&f2",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$S2VBis6h8kGL72Bj3qY03w==$AljcLLlz9Gnck4JqLbdmHKNM0+TZhEYVhBvYun9dIIk="
   },
   "orologio385": {
-    "pin": "3651",
-    "password": "N=&cCg01vmyDS6"
+    "password": "N=&cCg01vmyDS6",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$p1toXDvaCoUXLiuVdB7UJA==$hCEcWvyZdnIScYmVIwQCI2n/CuvKJ4sFZw8WwXcybGU="
   },
   "orologio386": {
-    "pin": "1839",
-    "password": "wgHyoC6n@Z5)3H"
+    "password": "wgHyoC6n@Z5)3H",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$Ava0atusMiBvaQ3DXhpQMA==$mOWLcNM5rDSxDC7J2P4m1WgCi7H4v1AJHfIemGUEol4="
   },
   "orologio387": {
-    "pin": "7580",
-    "password": "g6-pX,LagoE9K4"
+    "password": "g6-pX,LagoE9K4",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$MSVhN22tJN39o50mfmeh6Q==$WiDPmMpnRsr4lyIw22EVvPWHtZyHZjU86Uol3juITyw="
   },
   "orologio388": {
-    "pin": "3786",
-    "password": "]l6?rRs7Cf5ZJx"
+    "password": "]l6?rRs7Cf5ZJx",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$DOruxEV9FfvtfNx7PmnGfA==$bsrmJGcdHX55xOFR6JfoJJAbPuCBxowllpMmyYzFirg="
   },
   "orologio389": {
-    "pin": "6060",
-    "password": "C*42ZMSto_ws5e"
+    "password": "C*42ZMSto_ws5e",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$5/gRsltxhfcWKd9Kb3FoTg==$smsObVyYoXoSNCkN4ay1Kh+zMP426PZqMr78u+qoBmE="
   },
   "orologio390": {
-    "pin": "8147",
-    "password": "d_Q7.KVc1Av8zu"
+    "password": "d_Q7.KVc1Av8zu",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$QKGbffP671ppyT4QEQCzQQ==$rJOzFDq5oLiknTe0uhF+4JOQLPPTDbIUgbHj0rwaj/g="
   },
   "orologio391": {
-    "pin": "1639",
-    "password": "*tv;7Hrq5z8CFH"
+    "password": "*tv;7Hrq5z8CFH",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$qkQr/wZjPGfoghcX1cSjhA==$NpFBa6UJLZJyOWiTR7NcVKtcI+yDWouGHgXVaPTGheg="
   },
   "orologio392": {
-    "pin": "9499",
-    "password": "c2Ub^]CP1de0iZ"
+    "password": "c2Ub^]CP1de0iZ",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$zlZC30OCKuFRq1vLXuClww==$iit1CVYWtyVNQAIB3NB9mYbdQ4OzotTUbXa2pvNuxEk="
   },
   "orologio393": {
-    "pin": "8130",
-    "password": "-bfe19tI[TVGh0"
+    "password": "-bfe19tI[TVGh0",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$cVMfNFNjNRByzjh8eUNYbA==$m8NZN5GreUe3s51rga7Z/cDA9wEvjQV63LS+1kchDeI="
   },
   "orologio394": {
-    "pin": "8016",
-    "password": "oDL9-o6AH3;knc"
+    "password": "oDL9-o6AH3;knc",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$dDRmu4dTCK+ASKad6t3l7g==$Et0wAlOG+4TparbPqarBPZa74HM24U5eNjB5bnyMUi4="
   },
   "orologio395": {
-    "pin": "7613",
-    "password": "Qc2nL#]1qiGo2A"
+    "password": "Qc2nL#]1qiGo2A",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$SPwgUSkYWP6PfN8SHBAnXg==$dbMImX1qHA/aiMDvgYh6n/8hNUkFZ8shTGyB7HwSII4="
   },
   "orologio396": {
-    "pin": "8940",
-    "password": "#o9GADmz63{Nln"
+    "password": "#o9GADmz63{Nln",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$wPLuIZfKmMJtNCa9X7z0ag==$eXL29OGhIZ/VbeHzKE96FcJETPedKlir8sWik7kc4TA="
   },
   "orologio397": {
-    "pin": "0588",
-    "password": "3hGKLt]3ia?h3S"
+    "password": "3hGKLt]3ia?h3S",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$Pmg7R9lr0FmnjAACmzVPPQ==$uK2DMxuvC1xWLkd6gtFJ9PB8O6J4coQ0fs3sx7NzH88="
   },
   "orologio398": {
-    "pin": "0928",
-    "password": "*0*tXpkUywA58V"
+    "password": "*0*tXpkUywA58V",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$Qd5jVXUroYfRObqtCE+xLA==$v/BYMKBHsE9JM93E0jmbbb6hECJ35Z6GdBILi+2w5vE="
   },
   "orologio399": {
-    "pin": "6290",
-    "password": "g?3}Q3pcT1xElR"
+    "password": "g?3}Q3pcT1xElR",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$hSa9DO47XBru36bFxoAtaA==$1DEfR6mF9ded9sIvx/X2QP5cl3LUaZhjn7qSjhd78fE="
   },
   "orologio400": {
-    "pin": "7484",
-    "password": "w8c#9PfU[DY6ri"
+    "password": "w8c#9PfU[DY6ri",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$jBIYhhXsk1Ui9f3f0BnkQQ==$uQChBLH2IY2n9dKdzJjNwzVR9sbuJaizplQ5NKtibMU="
   },
   "orologio401": {
-    "pin": "1030",
-    "password": "c,C1U{ZuW1iwx8"
+    "password": "c,C1U{ZuW1iwx8",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$0qxsxEtIWd8EMSVKrg4psw==$YcUxacnjysKiJoHvXDFq19OBAnwWuPjQ6H/4+wGrihs="
   },
   "orologio402": {
-    "pin": "4703",
-    "password": "VuWuPl0m9t!C?6"
+    "password": "VuWuPl0m9t!C?6",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$SyrHNMMl2+ZnVG8IN8VTvA==$ryyrBFmBtza0IaDre88Wz2xLfaUClRgu1ZOYt1aOo54="
   },
   "orologio403": {
-    "pin": "8144",
-    "password": "Ssq24;g7fJDf(X"
+    "password": "Ssq24;g7fJDf(X",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$+9ewMvgijj5BrMAzJyoPGQ==$qxDAkZEDmTjnpLFEHbgKZPfyt0BRFODSc6ZEVONyG+g="
   },
   "orologio404": {
-    "pin": "1307",
-    "password": "]F*4volkjOF1H0"
+    "password": "]F*4volkjOF1H0",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$x0GDXqxMjoaCrwsKbRGQAA==$hoPuBRKlaQ3/06QvUetFoDop5MLZQ1chfs5bYSdoJbg="
   },
   "orologio405": {
-    "pin": "9861",
-    "password": "hrhmClZE$454=Y"
+    "password": "hrhmClZE$454=Y",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$IAvqE/rOqAzbJAs84ZLl9Q==$mLbzmO9N2jvcIsd/Viy8RTHeLmgo5e2KqLy1gbi+YSs="
   },
   "orologio406": {
-    "pin": "4441",
-    "password": "&09vmUNZmzNg9]"
+    "password": "&09vmUNZmzNg9]",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$zDMyRfY+o8v0xLlG9XzNRw==$kHXCDC52EDYkdsIgn6RaJ2wHJ/eakM7/tP4tZYoRh8s="
   },
   "orologio407": {
-    "pin": "2791",
-    "password": "LFy$dEdx1.J40y"
+    "password": "LFy$dEdx1.J40y",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$uwlRzGI3AmI1XRATm/vs3Q==$dLlSd45OKOm1bcvjLZzb/10Hza94EuiXM/0/W/9geBk="
   },
   "orologio408": {
-    "pin": "8026",
-    "password": "7o3t4_@DbtVhKB"
+    "password": "7o3t4_@DbtVhKB",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$OmOKFF4335eViH1uBOavNQ==$0tGu6gXlBZTNa11LbvusPox84XE/IEEm3DtRBwfwuxM="
   },
   "orologio409": {
-    "pin": "0469",
-    "password": "LU3hfut9M,C9-p"
+    "password": "LU3hfut9M,C9-p",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$bYA8MYjX2vKYcwHp/7/k9w==$11VN/fKNQfFEvkl1ZNbGjUCy16M1ZlyocHGfXh46myM="
   },
   "orologio410": {
-    "pin": "4855",
-    "password": "Jn15wP?iJ1{zpW"
+    "password": "Jn15wP?iJ1{zpW",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$N6PAFtyn9tUjHiJxWdvoHQ==$Qqx/1TGCV48gMqUqF20D4uSax0ArvSR1ucIOimr2tgc="
   },
   "orologio411": {
-    "pin": "8733",
-    "password": "8qcP$V.onDh2J7"
+    "password": "8qcP$V.onDh2J7",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$H94tdDffNKM7ktRWb5NyJg==$/Asx7sROkpGYRfdetL/ICBrzKW+VYKfoq2SU0a/6j3Y="
   },
   "orologio412": {
-    "pin": "4661",
-    "password": "wk1=5P?MYiV8xq"
+    "password": "wk1=5P?MYiV8xq",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$/r2JX4PAcPAR1WRlCLDhVw==$kAJ6s/P2UhAsIfBCv5fH2/kQZLoqW0+3tZ7bixgqR0A="
   },
   "orologio413": {
-    "pin": "2297",
-    "password": "u7#gXc0?Q7zKhC"
+    "password": "u7#gXc0?Q7zKhC",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$TZ4k7Fvp3xKDP+NpMs1XNQ==$3trgVEu7oMuG+qfZPOualsOayjv/AqrxcshSmaHKEZE="
   },
   "orologio414": {
-    "pin": "5811",
-    "password": ".Hymre22#KXF4x"
+    "password": ".Hymre22#KXF4x",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$yrv/PBJ7Pl9RM3NyKnVHuA==$aMIKWDjTsn9Hpqj0oJ+gHNqPZomeV+hRVibrj3Qw2bo="
   },
   "orologio415": {
-    "pin": "6503",
-    "password": "=UXZ73hx9zfO[j"
+    "password": "=UXZ73hx9zfO[j",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$apVvDqmw59Mw/ZYCIN7X6g==$V0ujnjE5yv0rytd6WMGnsK56H814KXOOzgOtJEUQ6+E="
   },
   "orologio416": {
-    "pin": "0369",
-    "password": "*2MU9nj_gXJc9z"
+    "password": "*2MU9nj_gXJc9z",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$iMrY6Go8aPJzIfM1ILFi6g==$8kwXPRL2nqLyORwd5swKnQen6OVRF8z6bAmie4677xE="
   },
   "orologio417": {
-    "pin": "0228",
-    "password": "D*NzOjq7Y(s92e"
+    "password": "D*NzOjq7Y(s92e",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$OvmRv2pPrZMspqXsvUUnxQ==$qwkP9VlE+ctKOMlN4ehf5B/rvaYoNOt2jvLyCdrBb94="
   },
   "orologio418": {
-    "pin": "3830",
-    "password": "WE4IQ1asnrk{8?"
+    "password": "WE4IQ1asnrk{8?",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$gbEXrcEcM91XtYAnBYxe9w==$hidKfXr6JqhOG02P1DZeIXPCQv8DRLJ9hfVnkuf7M90="
   },
   "orologio419": {
-    "pin": "7830",
-    "password": "wP6QN68iUwo+)q"
+    "password": "wP6QN68iUwo+)q",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$WByv+CVLY+k5qcS4gl4CrA==$xcwjT/IiiE1AZfkM43PEoHwhJQUCeBlVgaM0dryc+ic="
   },
   "orologio420": {
-    "pin": "3025",
-    "password": "m.TkW77^AzgKw4"
+    "password": "m.TkW77^AzgKw4",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$nMtkECB7uaqHe5P4Tzi+6A==$fIXvx8COY1ozkEPauca5zMvXtXWDs5fJbg7Fjiy1qGY="
   },
   "orologio421": {
-    "pin": "7470",
-    "password": "m2AvsO_q9kE)W0"
+    "password": "m2AvsO_q9kE)W0",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$TA0do/spMgPJt0rrZklZRA==$h2JoShPfg9AB5yZ8dLADW1FmG3/rOgpf2OLclDXhiKw="
   },
   "orologio422": {
-    "pin": "8749",
-    "password": ")iD5{T2bUm8aZl"
+    "password": ")iD5{T2bUm8aZl",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$5EsHlhwKlhauvQjETKJegw==$WLsdLVTL+XcRIdLFKwxj0rC5dXEVvOfBdAzpH1aRZmc="
   },
   "orologio423": {
-    "pin": "0159",
-    "password": "sAZ4xKOm;$4t2a"
+    "password": "sAZ4xKOm;$4t2a",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$pTmHLi5751qbcfuWXr+tYw==$EW7qGsMxh3XDyM26yQL1n4k2WNBmcdskgxtsGPcjVpg="
   },
   "orologio424": {
-    "pin": "3373",
-    "password": "aVUv8Awf(t87,D"
+    "password": "aVUv8Awf(t87,D",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$3y7kDjgucOGDS7wrkFSBzA==$YjwJ6HJ064TU/7lNEaGAyig8vSDJ4UwOatP3jPmzd5s="
   },
   "orologio425": {
-    "pin": "1146",
-    "password": "8ocUBCH2ms,c;0"
+    "password": "8ocUBCH2ms,c;0",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$YeBN6yqftMwCd+dT3e8SHA==$Jh0cqAVM/MlvWf+UDhl3nwOaA0jAwA9fVCrKVV/+1+s="
   },
   "orologio426": {
-    "pin": "5815",
-    "password": "PkVg3?4MmF)wc6"
+    "password": "PkVg3?4MmF)wc6",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$646XheSCOKAAmMJNUBUnyw==$nKEGYzCVF2tnjkSz1Tz99sl0fLva2aRMAARV1U5U7Fk="
   },
   "orologio427": {
-    "pin": "0196",
-    "password": "CmfGlue%1@33ZV"
+    "password": "CmfGlue%1@33ZV",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$Syznd6syHQdSq3EJZQEuVQ==$5woRRmuT/mrz/FqXmtgl9FwVhDrkmcMGWqRLKM0ManY="
   },
   "orologio428": {
-    "pin": "3298",
-    "password": "ySjQaZ]4?i01Cb"
+    "password": "ySjQaZ]4?i01Cb",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$oF5wsoTETXFTHHtxM6xyKQ==$kH1mZ7M3PInRJ5TkF9BLVhxf/aaxTVcTi49d9msNdZA="
   },
   "orologio429": {
-    "pin": "9706",
-    "password": "3l:O;ig7O5hdRT"
+    "password": "3l:O;ig7O5hdRT",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$KezUphfs7lzKjynkwIamvQ==$oTADRvcRoh42yRAqsSgjxbzh07jEdO+uWZ3fBLj3Xxw="
   },
   "orologio430": {
-    "pin": "4297",
-    "password": "6O4odb1[[OIgyJ"
+    "password": "6O4odb1[[OIgyJ",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$lD0JRaCEJhyj9AgjQYGjTQ==$czgsty88j51TgS6DRVkju4fJCqLTylNkik2PpGyHM5U="
   },
   "orologio431": {
-    "pin": "9273",
-    "password": "ZbW]xCq2R}91yz"
+    "password": "ZbW]xCq2R}91yz",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$0Ag+6cC+/EQzGJwCJnDA3A==$BvjLHNju7++VCSTNORQrYM0kBNDy4kvpLy2DFS1cLa4="
   },
   "orologio432": {
-    "pin": "9438",
-    "password": "+3{bxAD6X4tmnU"
+    "password": "+3{bxAD6X4tmnU",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$+SqdHJz95COEMPhB/ixfhg==$RhszusLZByOfM26Gkeh3LfacgscTprx7O/mVIhAHhMw="
   },
   "orologio433": {
-    "pin": "1877",
-    "password": "nO^Gz+lU929syI"
+    "password": "nO^Gz+lU929syI",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$iVegYiPpn1pZMdnRaTfVVQ==$YikMsksRc+S3LSbuO5rC5zf6EqNQXljZSJ4MMPLdJsM="
   },
   "orologio434": {
-    "pin": "2103",
-    "password": "ugKhn7#I{YP8m0"
+    "password": "ugKhn7#I{YP8m0",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$zi/m2IonDlE1moBre8HI2A==$1o250c2xqkfRkFjs1pK+pEKnUxBhkqUCbC9+dcRvCRQ="
   },
   "orologio435": {
-    "pin": "6605",
-    "password": "I8b2c*CP#hqS7h"
+    "password": "I8b2c*CP#hqS7h",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$btVJ7by1Qw+TyT0WPHjNfQ==$wteTqD8zSdEFj2UGQ53KU2qpgfgTZFXcoTSkZD1L3fk="
   },
   "orologio436": {
-    "pin": "3460",
-    "password": "f;sd2H-pHZLq79"
+    "password": "f;sd2H-pHZLq79",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$//FMJ3WLXXqivpjclIbTAA==$juRFRJIVcmdPeZFWNvRLz0rIsnw6AdNNTaUEMOLrkZ4="
   },
   "orologio437": {
-    "pin": "9917",
-    "password": "0IQ6Ya9jYtc?c}"
+    "password": "0IQ6Ya9jYtc?c}",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$HMv1Qsjc269EbGHFCERHDA==$vcOdSt7xi2IP94v/BTPmHiN25ACnDGKeu0Fl7TFfCm8="
   },
   "orologio438": {
-    "pin": "0020",
-    "password": "V8,uerPs0X:tM1"
+    "password": "V8,uerPs0X:tM1",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$MhmZ8GAvP26qYbCoPLDuIw==$jmTOhPe3NY9CjdpKc8ZI6LdZA16arDB56KhEWUJbbH8="
   },
   "orologio439": {
-    "pin": "7662",
-    "password": "t35x7cOGd]rTY?"
+    "password": "t35x7cOGd]rTY?",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$dciSqjZkvjsazukhTEknEw==$qYh/nOmyHrA3vQgKUvcjSjYwccaKeqgddbSHVQi+FFo="
   },
   "orologio440": {
-    "pin": "9395",
-    "password": "wt0yO#agL=FB69"
+    "password": "wt0yO#agL=FB69",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$/8rPG8iQuKr8hNXhP3xJag==$/HlI01S2rC1I/kzshVKFg6VIorjwVJVoCYeDafY70MM="
   },
   "orologio441": {
-    "pin": "6262",
-    "password": "s41.fiK*PaO4Bs"
+    "password": "s41.fiK*PaO4Bs",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$xRoSmhsydwEoK4CdgvpHyA==$n8F1BZow5hU2SD7KBOnW/BaGLFNBpCi8+m+kbvocQ2Y="
   },
   "orologio442": {
-    "pin": "0125",
-    "password": "7lV!a1NdCy}o9E"
+    "password": "7lV!a1NdCy}o9E",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$axfsTAyxFwPWJmHjl9IeCw==$zmKAVL8NciD8cCztDzfV2rqfob0mKYQoeFdRh+pjJLs="
   },
   "orologio443": {
-    "pin": "4131",
-    "password": "bKhd;t8.3GzNJ7"
+    "password": "bKhd;t8.3GzNJ7",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$F6OpjN0jztuZ9d1lC5+7JQ==$5TlEo1PC9HmoQcd/zdpHsDEQt7+QSmnKJM6a0SSZKAY="
   },
   "orologio444": {
-    "pin": "5555",
-    "password": "p=FQ3ao)r1BvM6"
+    "password": "p=FQ3ao)r1BvM6",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$RbRNOIv+Bkm98qH+ah6sCA==$rRRTzd1414tRQ6pXgy/VXvkv4yWZm3RLFUn5RwARR6E="
   },
   "orologio445": {
-    "pin": "5050",
-    "password": "NiY,L8Wh59)mvh"
+    "password": "NiY,L8Wh59)mvh",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$n9QIIrm3ucR3FPfw5h1YLQ==$dfbhl0woTJfu7OJE1jbBqrR0SRwT6iDDtyEtGIpZj2M="
   },
   "orologio446": {
-    "pin": "5206",
-    "password": "LN6JjJ?3jbn!e4"
+    "password": "LN6JjJ?3jbn!e4",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$+bzSH6uR5FetYd+1fzx1ig==$2ySsNicLgIC+GV92yZbSIhvfWQzcHdSxsXAEuHmtZfs="
   },
   "orologio447": {
-    "pin": "1495",
-    "password": "o=r3ZU9jGf0+Nh"
+    "password": "o=r3ZU9jGf0+Nh",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$9LcpR3THLswKdA3MzEg1HQ==$v83LeVpEYWDWUMGzMcviRmGwSFA7FLLmRzPLBPyEznQ="
   },
   "orologio448": {
-    "pin": "5907",
-    "password": "vjzwWW[61%Yi1U"
+    "password": "vjzwWW[61%Yi1U",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$U8Qye0HmGXA/smUE45vlAA==$XvhotQlnED+Z44xxY1BGkTPhTSlkipZbRekpTkgt0Ko="
   },
   "orologio449": {
-    "pin": "4211",
-    "password": "ue4WD0)$nKx2Ne"
+    "password": "ue4WD0)$nKx2Ne",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$3GeIcmY8nsD50Em/IUnw/A==$6Xgi2YjaU35rHPh/JUdx39bkdsN403YyxrmoJ4VWEHs="
   },
   "orologio450": {
-    "pin": "6735",
-    "password": "el3Z2elEl=)2XK"
+    "password": "el3Z2elEl=)2XK",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$NC3cm8uvOqho0upiK5Ygvg==$yxAh6e+jyrqnkV+iP12cKa/lbEEgMlaxrxU7pKkv2j8="
   },
   "orologio451": {
-    "pin": "7925",
-    "password": "8o64os!rIPAb,Q"
+    "password": "8o64os!rIPAb,Q",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$yLFnpgBdosl5CBiG53G9cw==$D7yQlGJyCAgVMW33mQ+A7pStBgNApuDELz5p0NJF/yw="
   },
   "orologio452": {
-    "pin": "8588",
-    "password": "i,7lsGh6RYaN1^"
+    "password": "i,7lsGh6RYaN1^",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$241hTHLQEycdinF1J8KScA==$de2ISXAyWtdLqwrIeaYEG0mKU27r/Cv8N39mYDwDlx0="
   },
   "orologio453": {
-    "pin": "2129",
-    "password": "UIS$05lXp3wu}s"
+    "password": "UIS$05lXp3wu}s",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$lc5CHtPEAx6CDtDSeY5gtw==$y1omXMAd6SJGGZ51cgVMd1EwE+LIxPCH/YXwpIYawls="
   },
   "orologio454": {
-    "pin": "0737",
-    "password": "zZ17X-7Dpnh:uC"
+    "password": "zZ17X-7Dpnh:uC",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$AA18fw5vEWJ1h8DpqPo82Q==$H1j7wclpPynTxwnDc+eEs+UynQ2nlUwyZvi7O4Leqd4="
   },
   "orologio455": {
-    "pin": "8519",
-    "password": "sCNsn&9z6PM?a3"
+    "password": "sCNsn&9z6PM?a3",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$7aq7zAhKTBeYv1DfxCgGTg==$iuMenYxULbLyGSJXa7bM6JcZBJ88wGszMiV41dGjKX0="
   },
   "orologio456": {
-    "pin": "6817",
-    "password": "50cYIT;$9bXorx"
+    "password": "50cYIT;$9bXorx",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$6MOB2eYQ4tTt1vbyn/pHcg==$W51V4905SGI27wbIh7fK8KrAQNRKN/+i6m/e1miJetI="
   },
   "orologio457": {
-    "pin": "5222",
-    "password": "x0THCo$&q76xiA"
+    "password": "x0THCo$&q76xiA",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$6oqZAnUpG759SfhMgBcNcw==$WDTyLNcdct+8avIvVDA8lvvAg/FAvggPqIySUUVgwQ4="
   },
   "orologio458": {
-    "pin": "3134",
-    "password": "%?rxBympDWJ387"
+    "password": "%?rxBympDWJ387",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$HbJ0APBtjxOhDsAyINCQwQ==$VAbviGyRwyKej9fp5c20wbkeRtWtausDJQAzDAoyZMw="
   },
   "orologio459": {
-    "pin": "7371",
-    "password": "a7_7+GNf7kEwNl"
+    "password": "a7_7+GNf7kEwNl",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$T5M5+JxfI+HcWm6KoBJ4bg==$L7n2HoHBXQnRmE9KFib1lCWIH5AtoGg+seaj75fGHY0="
   },
   "orologio460": {
-    "pin": "4412",
-    "password": "s?RWpf6vJG99e]"
+    "password": "s?RWpf6vJG99e]",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$L+vTCEUFfX3IHcH7xEKtOA==$APzIc9iZFACISdGF66UdDHd5UPHnIfEMHlz/JkGrGaI="
   },
   "orologio461": {
-    "pin": "7188",
-    "password": "kdGi#Nl)90Is3D"
+    "password": "kdGi#Nl)90Is3D",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$PjB0epgmkYRiCSRpPI1vUg==$g99mL7mhUIEVxb8yd+oG7Shgu5L+MpxE/KmU+ekoM6Q="
   },
   "orologio462": {
-    "pin": "3538",
-    "password": "6brtS3].8ndOHL"
+    "password": "6brtS3].8ndOHL",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$qst5xBpXzBfwTJy5EkB92w==$PSTsZvgIyrkojaFVwWmYbjdBS/txsjPWb6AUaDFMg0k="
   },
   "orologio463": {
-    "pin": "2545",
-    "password": "m(12kY{NuDtTu1"
+    "password": "m(12kY{NuDtTu1",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$Eq0iwDm1Sm/C+1+wSzgm8A==$aJsG6JnULApHtrLubgODAgc9Ee/SUt0XxwVAltL0P/Y="
   },
   "orologio464": {
-    "pin": "7320",
-    "password": "0o8A{PqPu9cY^c"
+    "password": "0o8A{PqPu9cY^c",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$jXEAh9oMv3xyjb6LLh0Kow==$4ktY8yP8lpDLwVedp7bDxMO6Y0cCqlLuGezniL/ng6E="
   },
   "orologio465": {
-    "pin": "4758",
-    "password": "4uuIDl,of$7WP6"
+    "password": "4uuIDl,of$7WP6",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$hpBFio/zkJ9dYuNAK56K/g==$AWkYM/ZFoc2aNt28TH64EhEsl0i6vcyZOl5eG4Fi2w0="
   },
   "orologio466": {
-    "pin": "4584",
-    "password": "kZ22XudP*r+6Ka"
+    "password": "kZ22XudP*r+6Ka",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$EpL7/+Lim75eUNIta5S5tQ==$DazuahZ7qdfSWPl+vpwr+tUJpr+rDGk4VFbgJ/UwWV4="
   },
   "orologio467": {
-    "pin": "6814",
-    "password": "fm03Um#k9TRL]j"
+    "password": "fm03Um#k9TRL]j",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$f8XWduZzdTRP/C7loEXotA==$lENaH2kTsymjnuq6IVnmF6bgVul804X2IRGvl3csepQ="
   },
   "orologio468": {
-    "pin": "6706",
-    "password": "CcN7vy+Yt0x)Z4"
+    "password": "CcN7vy+Yt0x)Z4",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$3L2v+uwP7YUlqzVXPsObfA==$A9TuU6WJo23//ylp39/C1Lz/qEmSaZsQ6Znq65PWwGM="
   },
   "orologio469": {
-    "pin": "6568",
-    "password": "gs*PZB9d0[eF8k"
+    "password": "gs*PZB9d0[eF8k",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$ySzSNER5/VPrMt9FwIVw0Q==$eV0HGO9bdyACayEyXovceluwMDV13a/JD5dMb6F+FKQ="
   },
   "orologio470": {
-    "pin": "5361",
-    "password": "f(Jw948jBbIs@S"
+    "password": "f(Jw948jBbIs@S",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$PGjUTBb9BAqpW1IK0Azv6Q==$f11yBHVykdYbGvfo8hIztv8XsjFc9mcesJosNqFrT5Y="
   },
   "orologio471": {
-    "pin": "9708",
-    "password": "0gkig_8eNC6-LQ"
+    "password": "0gkig_8eNC6-LQ",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$Q1txFz/I1xzwpZEQqwmEUA==$nmYzaZud/5hFlSnuCDE62s14UAHfn0vVsviamlUwN+A="
   },
   "orologio472": {
-    "pin": "0252",
-    "password": "gn2TE25E-yj{sR"
+    "password": "gn2TE25E-yj{sR",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$HTi4ihXFbyZkuWdv7hWFYw==$3CG075KqZEPdICE0hNyzWq1hk9cnz4ExdLgeI2D3f0Q="
   },
   "orologio473": {
-    "pin": "0799",
-    "password": "j9q5?FvDI-fH2b"
+    "password": "j9q5?FvDI-fH2b",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$toZ65YxFcFqxwxkKGKAqBw==$DXaRVFbyD2qyfvYV5JudwLm7Wk7F0Zt8ZhOVqGWCwkk="
   },
   "orologio474": {
-    "pin": "7525",
-    "password": "05dTAx,C1Arqv}"
+    "password": "05dTAx,C1Arqv}",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$VtRqcW4ZBiuPjlRUN4Z+bw==$faAvx6kBLay7Fx2emxAfl+KMzgxgd5mmF8jaQndQAK8="
   },
   "orologio475": {
-    "pin": "9488",
-    "password": "$Mx8F8iwR1qpD_"
+    "password": "$Mx8F8iwR1qpD_",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$xTZ/eiFO5SvdZIofaM3GqQ==$8ocb+mbrJsLY7mk6BDEuskzVxaA3dQGQmdNxojlsWqA="
   },
   "orologio476": {
-    "pin": "6763",
-    "password": "EtgDl]Q5Tt3d5}"
+    "password": "EtgDl]Q5Tt3d5}",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$iG2CsCJWIAIxIWFZIYSswA==$6XZzqhqhrrSOcwuWSYbuZpseOxar7EmMrtF+O9QXwuY="
   },
   "orologio477": {
-    "pin": "6664",
-    "password": "Ov;v3SD5Ctx4k]"
+    "password": "Ov;v3SD5Ctx4k]",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$4lpgrAH9jOGct73SmsoVqA==$y5koJr53hDFmvXMyLSU4I8+vV2ciL5huRrySu7QMoPE="
   },
   "orologio478": {
-    "pin": "0984",
-    "password": "h:dAqR95ar5Y,F"
+    "password": "h:dAqR95ar5Y,F",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$6IaLLd4gbxbywEFL4J+0Lg==$Ty2vxLH0ij7Tv43IMoD1+moPv5dRKzDnGMmniJEJtdk="
   },
   "orologio479": {
-    "pin": "4050",
-    "password": "ZqhCi2w3*M;bW1"
+    "password": "ZqhCi2w3*M;bW1",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$0/FwK/kKSLoDf7ohWCjkuw==$cFB4NE26pCpCrkVXUkLCrlQ7Ko/k96vPWHFRD5aYeu8="
   },
   "orologio480": {
-    "pin": "8131",
-    "password": "oOzVRsqM.147:b"
+    "password": "oOzVRsqM.147:b",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$oJnIEqry4sEbB4o3O97QqQ==$ze41rD9fZm+RNPwEvK/SeuEvoyqeucu4jzruP3X1h/U="
   },
   "orologio481": {
-    "pin": "6731",
-    "password": "e^3s.7RVs9CdLj"
+    "password": "e^3s.7RVs9CdLj",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$7McmoT7jeKb4XmQ6jEEGsw==$Ju5iZebOc1cva5O0TtCaJr1fYu3G2cOxXXdQFaBogog="
   },
   "orologio482": {
-    "pin": "3724",
-    "password": "#kN1swYsw5N_6N"
+    "password": "#kN1swYsw5N_6N",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$SnS8jtP3RAqxU9b9THHDXQ==$LXda0qLimWXntfUXVWHypztdUVcxj0a4WrXzrWf1vqo="
   },
   "orologio483": {
-    "pin": "0833",
-    "password": "9Q7diry0SOCx[("
+    "password": "9Q7diry0SOCx[(",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$/6pW0mGoddC32xagRPyVgg==$59Y3ySxfsThLlkq/4+kZnzRt6fI0xqfcBeHtbn8imfQ="
   },
   "orologio484": {
-    "pin": "0602",
-    "password": "Z5v=6SAccNd#i2"
+    "password": "Z5v=6SAccNd#i2",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$zKQrzZUPq4y7a2uYVXjxJQ==$a+MFM+3oNPwyJU/ZwovETv4xb/IE6jndE7LoP2Vd98Q="
   },
   "orologio485": {
-    "pin": "9263",
-    "password": "y5!rtN0u0:TAwR"
+    "password": "y5!rtN0u0:TAwR",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$7gTUk3h7akHD4PoZJtWHXA==$zj3HdkNR9RHtsXnMwXc80MLiNu+nV2K+3UiF8GxGMlI="
   },
   "orologio486": {
-    "pin": "8506",
-    "password": "NnVO^3et1*v7Hu"
+    "password": "NnVO^3et1*v7Hu",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$/vqJGJnXt38DzfLI3bM/ig==$sm1cJV2kJPvb89RA/isFzBNQdN6aS8lLeM2SGKTHfWQ="
   },
   "orologio487": {
-    "pin": "4242",
-    "password": "o^P6jUeqAs3M-4"
+    "password": "o^P6jUeqAs3M-4",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$bAQ7PslyHL0vz4MmtlHV/A==$InLrm2DUTrn3kGW6TbNMGqIwNaRRl3gi4BMF3y51JIg="
   },
   "orologio488": {
-    "pin": "7817",
-    "password": "5hTtO[m2Wr3M@h"
+    "password": "5hTtO[m2Wr3M@h",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$PmYhHSrIAzQ07dtXR/0RLQ==$9hkfKWvhFKzhuCcI+ljTyCQu+kSxu4ETx0jL3vfyWtE="
   },
   "orologio489": {
-    "pin": "9756",
-    "password": "eB^e2r4TI8lLn!"
+    "password": "eB^e2r4TI8lLn!",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$ja09zqm5gOkV+iIHYazRLA==$NhlhpTUi2Ioto23acdR7riVvErBKHMXzbOxE7FBSHyo="
   },
   "orologio490": {
-    "pin": "3803",
-    "password": "8oMOaD1m4_e%Fv"
+    "password": "8oMOaD1m4_e%Fv",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$YbmxIk4P3LPHP+ZyUXZ3dw==$Efy11Lt7Go3NB9GxiJXBM2iLnbwkCfKs8A4/yLLfYFw="
   },
   "orologio491": {
-    "pin": "9108",
-    "password": "!FcF1y1t@ncGS8"
+    "password": "!FcF1y1t@ncGS8",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$W7I7g8g2RChACvvhlirEvQ==$ThMiFYvhB8o9JwW4UQdqztBnVisEWwVKPgUAkJastNs="
   },
   "orologio492": {
-    "pin": "7464",
-    "password": "3la&Pa2*S7kZoU"
+    "password": "3la&Pa2*S7kZoU",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$9zGHXh6qyQi/cIqkTyAybg==$taNjd63j4z6b9pDYfuPTLgfiV/0IniXpmD6E67LiDWI="
   },
   "orologio493": {
-    "pin": "8912",
-    "password": "LenjD6e;,OV3j5"
+    "password": "LenjD6e;,OV3j5",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$qGke7PHQst1iDWe+oyMpOg==$lcisSS6K/pUh8+8YQymIRzNaDd+C9pFSmcRg7LshWXg="
   },
   "orologio494": {
-    "pin": "2976",
-    "password": "nzjI2}JIPq09n-"
+    "password": "nzjI2}JIPq09n-",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$VKBs78x/nv9qZMgvW3e+oA==$BmzoGTnMOKpiN+/ysSn04Cp08HelSzTzJSNlBm/dNBs="
   },
   "orologio495": {
-    "pin": "7374",
-    "password": "XQoihz_9JV,r68"
+    "password": "XQoihz_9JV,r68",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$AflkQN3IxzOadXeVs7i2LQ==$wj2Rlo7f6iosrWfUQAp7ntjaO3W7TjKdyphOSG4ay38="
   },
   "orologio496": {
-    "pin": "5005",
-    "password": "D:^cyD3vU33Wjo"
+    "password": "D:^cyD3vU33Wjo",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$r34HQnRcZYD3j5o0uu96Bg==$mZT5yZii0zL0XdxklvJiB4SJTduKPa7QLnLyRHqMjEA="
   },
   "orologio497": {
-    "pin": "3458",
-    "password": "aGL29vw3ZyR-k:"
+    "password": "aGL29vw3ZyR-k:",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$H23LZ2jHbOewJ2RZGc6M7w==$bxehgvqb+sTreZFn3kyPQKdxIcrMZSq8bHz5r/iu7F4="
   },
   "orologio498": {
-    "pin": "0959",
-    "password": ";IVs(1vYjD5jj3"
+    "password": ";IVs(1vYjD5jj3",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$vf7obd96yJne1N6TIBoESQ==$p8k9n1tpat/lz6RAEbnmSlg/O6p0rOtjJ5qVBp3mf0E="
   },
   "orologio499": {
-    "pin": "5883",
-    "password": "2gwxt#11P,WARa"
+    "password": "2gwxt#11P,WARa",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$iKPG31K8c9mvZMSdnEvRQw==$CLT9JX0pT93Bx+69XDZxpIaEhK2n1A7OK50Eak1iXRE="
   },
   "orologio500": {
-    "pin": "6382",
-    "password": "w}rLLJd$nA18v5"
+    "password": "w}rLLJd$nA18v5",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$mvFrHz9gb4zhbFZqDn8bTw==$quQcZ3gaVQXJb9bB1B2u7hlugM59fEb4XjbsdJpQftk="
   },
   "orologio501": {
-    "pin": "6683",
-    "password": "D2[TYqX38knw;y"
+    "password": "D2[TYqX38knw;y",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$r66QE4uCPjERRJgJWJcDBA==$NbEwM43c2V8sGTdDFMVE1RqcbZAtzJkGPZPzHBvMRno="
   },
   "orologio502": {
-    "pin": "2131",
-    "password": "?1yu&JKkQp1t4H"
+    "password": "?1yu&JKkQp1t4H",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$uh6cw9HI0XevKiwH0EFO9A==$O2w0COa3r6/HMFE1mPq00SlEJqnyVDmplvRYriuHSk0="
   },
   "orologio503": {
-    "pin": "9145",
-    "password": "yrt,#N0rpQOG07"
+    "password": "yrt,#N0rpQOG07",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$OLiwBcSyG/0c/J3uHAPdxA==$M6QMttHRSShYxOpSwXUV4FJ6dZa0s9gloxK9MRiNk88="
   },
   "orologio504": {
-    "pin": "7605",
-    "password": "kUA9mIAj1[w2&c"
+    "password": "kUA9mIAj1[w2&c",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$oQJ/O7cspKO+xgPD+PNeww==$h1x3vcOfs7AbVK0jJHOnW20bD5OLa8VMp6CdYPzb2ls="
   },
   "orologio505": {
-    "pin": "1770",
-    "password": "npI1[eID#qf3N5"
+    "password": "npI1[eID#qf3N5",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$dyXEjhxZ/5gSHzW00Ceiqg==$i6wD0+hYJxrFdUDwHZA4bjidz8ApIUO1UgCPH2oymiw="
   },
   "orologio506": {
-    "pin": "9513",
-    "password": "Zk@e2ft6LMf3*J"
+    "password": "Zk@e2ft6LMf3*J",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$1T1mqR/9vemwLam62+9rlA==$UHfUgiGIenjGs23f10mqIGfFHXgILJM1IBWrXFLfYgI="
   },
   "orologio507": {
-    "pin": "0222",
-    "password": "tC;T3io5UC]gx7"
+    "password": "tC;T3io5UC]gx7",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$hk6FIrR6GCwMhVarTuTldg==$G4xmlcciVeATnxDz/yuVl/6OHmUjnrMVucRK78XrGSQ="
   },
   "orologio508": {
-    "pin": "1110",
-    "password": "0gOr9wOQqC],7f"
+    "password": "0gOr9wOQqC],7f",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$CTlDCKUyBbjJvqp8efWqCA==$4vR83KcgwhBmDfymxiGSCM7qiaC2p2e7R8nREbjq2eU="
   },
   "orologio509": {
-    "pin": "8755",
-    "password": "42tyNb%qVVRm,0"
+    "password": "42tyNb%qVVRm,0",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$lo5AKZH8ifbj2G4C41y+Bw==$WIJIX4LGr4LZSiKB9JT4UCL9blaFbSFLU1M+FOhRp5Y="
   },
   "orologio510": {
-    "pin": "4115",
-    "password": "FR9sf;Y,3jpA9o"
+    "password": "FR9sf;Y,3jpA9o",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$WXYXvzzgR09IhRo0X6A6tQ==$VzE0aV362dOyTiD5WtLYEukSYEvN4SX55N+ecgWpP+o="
   },
   "orologio511": {
-    "pin": "9516",
-    "password": "0mm8M]nuz;DDH6"
+    "password": "0mm8M]nuz;DDH6",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$2rK08KsmYccyK5HsS75UEQ==$sLrzsyh1M0EdtMm4UVXzoppAQw47QJu9ypIvSgX+N88="
   },
   "orologio512": {
-    "pin": "3921",
-    "password": "3mgKT1vzc@M5*F"
+    "password": "3mgKT1vzc@M5*F",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$FZJo1EXmxpttAGhfUyxwkA==$VcEuwKGLtHw5poCrOlnkSv+GPvhzRcw5JM0sjl8vrhQ="
   },
   "orologio513": {
-    "pin": "5565",
-    "password": "Y02vw6$V!rFXsx"
+    "password": "Y02vw6$V!rFXsx",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$Vm+MwrdnDs+yxCp/o8nlGg==$in1AxCPpschkKHfQSJL3+TB/lwX6GjO1SLlGZO0Grfo="
   },
   "orologio514": {
-    "pin": "7376",
-    "password": "QUl3i?(xL1wi0G"
+    "password": "QUl3i?(xL1wi0G",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$kz+I4B9goDnZNEvuMAPVqQ==$pCKN33IrHC/rA31k+VH6dtU2NFrSpf0XuhxCL7l4wZI="
   },
   "orologio515": {
-    "pin": "7262",
-    "password": "kQr60M0G#Oob)p"
+    "password": "kQr60M0G#Oob)p",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$MdCnlH2xa2Rx0M2eI/F+Ow==$pifJQOYA+roa8TctG/HtzYosMy65KvZNT776IO3s2lM="
   },
   "orologio516": {
-    "pin": "2564",
-    "password": "26xN-)XlYgFsr4"
+    "password": "26xN-)XlYgFsr4",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$Jly4BfpWkb2f9+6fCcp6XQ==$I6AiMQE+UF0iOd66KTtcMIySIe/TAukUi/q9unD68AI="
   },
   "orologio517": {
-    "pin": "4817",
-    "password": "+2moR0&k6MSqWj"
+    "password": "+2moR0&k6MSqWj",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$UEqER65T2GnxBjHNx2tUEQ==$n+I8FC8FbJHivonCbKMAXL3L2VoHDjVrAY7QTG8aMSQ="
   },
   "orologio518": {
-    "pin": "7440",
-    "password": "Rk@23gWc8SboF?"
+    "password": "Rk@23gWc8SboF?",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$jL4rYkkxQWHuC6JjVM7DOA==$vcEBrH6EqZlMUmqY42OEZnlri6fw8VYz7lZtDUcXEWc="
   },
   "orologio519": {
-    "pin": "8392",
-    "password": "]%51DZhI5lheDr"
+    "password": "]%51DZhI5lheDr",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$5otgPqRCLAxo2EJ3BcifkQ==$LtQlyzEdHubgeaO3BL55y86MGYwWiCaSZyfcrWGma3Q="
   },
   "orologio520": {
-    "pin": "9382",
-    "password": "wp.q48nS)MP4iT"
+    "password": "wp.q48nS)MP4iT",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$n/hpeM0J91ge0TSIMVjYQg==$en9tW+7BQHuMhl/dRaH3J4lr3M/FADjDril0eIr1WTI="
   },
   "orologio521": {
-    "pin": "2208",
-    "password": "nj7dS_ELE75)pw"
+    "password": "nj7dS_ELE75)pw",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$IdM2dI345tH31oY+yvHDpw==$Q01LyDsifBGqeGyi27xykF7m3ev37dWl+AftdhsHYv0="
   },
   "orologio522": {
-    "pin": "5107",
-    "password": "V5c!Gu0cwA6sM:"
+    "password": "V5c!Gu0cwA6sM:",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$ZNzshDXGDB2Nsk381gBdvw==$if3o4USRFN2sczpdf5OpJFVDeCM2b+hGqKSDnhRvTmI="
   },
   "orologio523": {
-    "pin": "6600",
-    "password": "8Px[m43Oqd(lJP"
+    "password": "8Px[m43Oqd(lJP",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$jcAYQ1R9PFImy2GjcjVx2A==$bxMBKKuSMwdRJiFZa7iTeurtBMcIRZZaxXXQoz1ppOw="
   },
   "orologio524": {
-    "pin": "7726",
-    "password": "Jqip6(t4J(Jj1I"
+    "password": "Jqip6(t4J(Jj1I",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$lsg0yME30uflKhhyEKk+Fw==$rG503jwtI1gwH8csCK70osiYCziRpBIwrIe60y1D7dI="
   },
   "orologio525": {
-    "pin": "8834",
-    "password": "Dt2Ic%}Gcrz05E"
+    "password": "Dt2Ic%}Gcrz05E",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$WiT7KUDKBDnA8n5KZLk0BA==$W1vZWaUpPIqpOLJaIJb6d+OiX8o8s74659L4OSCAeZk="
   },
   "orologio526": {
-    "pin": "3266",
-    "password": "hI^p#2Ey35TNuz"
+    "password": "hI^p#2Ey35TNuz",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$f4Mb9ytE2qLPsCY87n9Q6Q==$7HuvLa2uhGkeeQGjbBXg7TbhwdCSRHBE/QpOWR1tkn4="
   },
   "orologio527": {
-    "pin": "8134",
-    "password": "MW@ks24Z,mIwz1"
+    "password": "MW@ks24Z,mIwz1",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$z1Y1WjTfbmMdQu0SsuJcQg==$p+DXwnx1gTpkVER76C77a76r/p/ZDh+ZOTTGtjY/X9A="
   },
   "orologio528": {
-    "pin": "5793",
-    "password": "o1zB82hLGrT_.p"
+    "password": "o1zB82hLGrT_.p",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$BkTmEdwNcxf5q0fGvGUh0A==$VjHfrmxrgDq1qdu5XMMAiO5JO0zEPp8epBbS7fdqza4="
   },
   "orologio529": {
-    "pin": "1954",
-    "password": "H)l^G7iwj5Kg5K"
+    "password": "H)l^G7iwj5Kg5K",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$Ij+yjfR/0IDFppbvHDxX1w==$60mGavB/YtaT5qb4wyvhxkI2O+lqgp+rWFA1sQiIZ5U="
   },
   "orologio530": {
-    "pin": "1973",
-    "password": "+d9r05EFfdL-eM"
+    "password": "+d9r05EFfdL-eM",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$ScP9f4TE28idLs+5IVwsiQ==$qCoYIzmEm5lCFiMKqVcOAbCyhCzVop6Q6vp63QKEuwQ="
   },
   "orologio531": {
-    "pin": "9234",
-    "password": "PDJuQ?7enw92a$"
+    "password": "PDJuQ?7enw92a$",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$P5/xQZk7VyK2Hp7fDBTjyw==$KYpiSDWxUJIm8INfF+5oEUnHhdfTES10VLjvNs4tKZo="
   },
   "orologio532": {
-    "pin": "7792",
-    "password": "3#cR4?cIdJ8pNh"
+    "password": "3#cR4?cIdJ8pNh",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$gishplJmjMU9FiyJDRlH+w==$zeeWUE0wpq6fSt8C6bc+Ezaa48yOeuHD1iJTfg1xuDk="
   },
   "orologio533": {
-    "pin": "9366",
-    "password": "c8gfGJjV*x06E%"
+    "password": "c8gfGJjV*x06E%",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$mcx6uGVy/S8dbm0lvs8lDA==$xOnqnHhQUuo/Fua6s15ywETcdytL4ImelQoVPApU8AU="
   },
   "orologio534": {
-    "pin": "5654",
-    "password": "q6a%5SxEpSo&K9"
+    "password": "q6a%5SxEpSo&K9",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$VJPzhsb3VSe2aCdRaEJ8Bg==$+wIZaAoSY14Z5AjNo3D7tyrpEcwUUgxGNS0rAdOARvc="
   },
   "orologio535": {
-    "pin": "6909",
-    "password": "3Xwp!bPQx$2tS8"
+    "password": "3Xwp!bPQx$2tS8",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$tB3dhwczFGHc7Bf/Y1oWEA==$Vq8efLv7HVgEclE+S0ISU11PAqv/MC8Ay/kGzx5FWGg="
   },
   "orologio536": {
-    "pin": "2990",
-    "password": "+iOd9VsQ9?xA8r"
+    "password": "+iOd9VsQ9?xA8r",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$oontFhw8qXFA2elrnw4FHg==$SYS62HmqbyJDeNJFLwraNb6fTHIogDnQimjopBkIfxM="
   },
   "orologio537": {
-    "pin": "2928",
-    "password": "3Ntg*JCP1bj4o^"
+    "password": "3Ntg*JCP1bj4o^",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$+AyCE/1m7AcUZOeGHhADYA==$Vqy0Zp1y3ZbTG/o8UWDzoaHJl1TJGNRjaDgp49DWcRA="
   },
   "orologio538": {
-    "pin": "7487",
-    "password": "3_phYwTKKcd[05"
+    "password": "3_phYwTKKcd[05",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$FmB2ZJKepLtWD9p68JB6Gw==$VL2kV7TLN5Z0DVEy6MamhmMdikv+AQFY5XAclY9rRZs="
   },
   "orologio539": {
-    "pin": "1948",
-    "password": "3xazHg6JX4v,F="
+    "password": "3xazHg6JX4v,F=",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$VS3itz82U1doBG0s7YF9wA==$Zyjz514OzF4l4GBEeiBc/5Nh8hzcULjcm/bYsAJHoLk="
   },
   "orologio540": {
-    "pin": "9354",
-    "password": "yLb49il.T9j#OL"
+    "password": "yLb49il.T9j#OL",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$KtrMNTiPDQWuNOJD/p8xyA==$4x3rhYhyV2lNXwg1jPGF0EzBrnHm9N4xJczhubat3tE="
   },
   "orologio541": {
-    "pin": "1957",
-    "password": "}}kMP4BLk0d8kz"
+    "password": "}}kMP4BLk0d8kz",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$LS+/RiABYBl5A2OU7IcShg==$tMGgVBF+8XwBAxWZc8JoT826AHy7JMNua0Cf3vRjNcg="
   },
   "orologio542": {
-    "pin": "0039",
-    "password": "Qa4drV{#4h7gFT"
+    "password": "Qa4drV{#4h7gFT",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$P4bO2vpv5ZKfkulfDKFNJQ==$SC2eeTk8d7wAaxrcYLNWEzEly7jfb4r7f5akPVjzC1M="
   },
   "orologio543": {
-    "pin": "8384",
-    "password": "ZweP(U:t7x7qY7"
+    "password": "ZweP(U:t7x7qY7",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$B5nBgesn/6iHK8EUvY4fug==$znV5i/bktu4KiE4CK6m0ZFDwIdruATbd4olWqDp30QQ="
   },
   "orologio544": {
-    "pin": "2194",
-    "password": "r3z0j5AiXmK[T;"
+    "password": "r3z0j5AiXmK[T;",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$0u0t5t+VqApPgL/Edi/A1Q==$iGBWFOpSSOjPfZa5okT/LxmlE7jf76WnHY3OAocIy3w="
   },
   "orologio545": {
-    "pin": "8997",
-    "password": "to7KOQ8,@vki1M"
+    "password": "to7KOQ8,@vki1M",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$S/KRt/AwzzU/K1LSPc4xIQ==$YuqdlElRKvufmA9hq47X0acfBSpVpF6GmHLBlKnmZjY="
   },
   "orologio546": {
-    "pin": "6769",
-    "password": "-g6V6wkJA^5Ehy"
+    "password": "-g6V6wkJA^5Ehy",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$+hwrI6HXW9/UfV3NrBORlA==$wme7FfQOknh0D5i/lt73gEBwwLKpQdeaSNpMbonVNFU="
   },
   "orologio547": {
-    "pin": "4028",
-    "password": "dj3UoPV6n^b+6B"
+    "password": "dj3UoPV6n^b+6B",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$iOgdtExumAR1P0tqJ8+o9Q==$uGxiv47eSB3oFN7a0WYyQCqrFKmsH51iJQSDeKRTGfE="
   },
   "orologio548": {
-    "pin": "3721",
-    "password": "4U}Dkh2n0gKuP{"
+    "password": "4U}Dkh2n0gKuP{",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$oaU/1PmcNzHAcD7wdRlKiA==$6xvHCECvGjCringMK6g1iX2VwxbwSzyPYDDhREOQqWk="
   },
   "orologio549": {
-    "pin": "1073",
-    "password": "7RJ*[6zCduA8sr"
+    "password": "7RJ*[6zCduA8sr",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$fkL43s2flAWQ9DtaaMM9NA==$iGyP30n4DYiCa3we+wuVeeFdBmWvNbxjreWMiuu79bk="
   },
   "orologio550": {
-    "pin": "0294",
-    "password": "EgMp68v!K7j_Or"
+    "password": "EgMp68v!K7j_Or",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$5MSp1YgHbqTl9ad4jR4lDQ==$3UdH+F74k5EFuQ0SIWvXKUj+x5LMe1BLzBYf8KvJui4="
   },
   "orologio551": {
-    "pin": "3501",
-    "password": "8(gcEW4jk+0tZR"
+    "password": "8(gcEW4jk+0tZR",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$wYqDnXRwFITsHU4Mv7Yszw==$hYxGQvb7g2fOBhyil+qmnYClc+iFxtN5ofK9nBzq4II="
   },
   "orologio552": {
-    "pin": "5791",
-    "password": "Vvxl$4Iu5}3kKE"
+    "password": "Vvxl$4Iu5}3kKE",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$f60O9ts9dyVAjhzo4lC4ZQ==$1oSslUd7sBVJHhtiZzvwn+ygf3y4ln0gZ04oAaUl+KM="
   },
   "orologio553": {
-    "pin": "9854",
-    "password": "xh.1fC30dmV!OL"
+    "password": "xh.1fC30dmV!OL",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$CMeEffSk6X3SJZJ7oZFVBw==$zKitM3rXH8CrfaOfjGEcuvBi4snWTZ7HyVnvxfdkfMs="
   },
   "orologio554": {
-    "pin": "4349",
-    "password": "amLdD:[s1kY05D"
+    "password": "amLdD:[s1kY05D",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$7HDC/ISuiuzyqa21Az1m7A==$uYyAEn+erB7DT8KiSuREbgnBmPWsTNRoY7sCNasVQPA="
   },
   "orologio555": {
-    "pin": "8015",
-    "password": "l3sj3(HlxGM=9V"
+    "password": "l3sj3(HlxGM=9V",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$vkAAYczHB/afeZnShQ3cfA==$rydV8+oEKZd5dWIQacn72GzdAYGNLVLnETTHyEvQ5os="
   },
   "orologio556": {
-    "pin": "0495",
-    "password": "ekH}05gG!8SLfy"
+    "password": "ekH}05gG!8SLfy",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$Pndfba1hQil1r5LO491OcQ==$W4rD6a0dS1nxvuWiakuDvGlZPjvfbaZ8Yfh3YJOHa+Q="
   },
   "orologio557": {
-    "pin": "9937",
-    "password": "52XYz{LRqmc8]a"
+    "password": "52XYz{LRqmc8]a",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$ILSrRVBBJ4MAYN1ndmT42A==$XFh/mFZaCDEkTMxeEv3bfPStSgCqLOZtL4FTxkZMQyM="
   },
   "orologio558": {
-    "pin": "1111",
-    "password": "80X0G_jCq]Dlzl"
+    "password": "80X0G_jCq]Dlzl",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$hdkOspp4YN1QyXx3Q0rbXA==$hhrGpbpPNRX309mTkb3H1OeeFKdPxf3ck6JeZ119EaE="
   },
   "orologio559": {
-    "pin": "6788",
-    "password": "pLr1j4.M9P*Lot"
+    "password": "pLr1j4.M9P*Lot",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$X9NyccP2vAnpVWqtOntNOg==$7ImFH10UEb1bGJTlq8NiaFlfRfanhP8xKj01Kq7bRZk="
   },
   "orologio560": {
-    "pin": "0804",
-    "password": "?9X?5FkuoZ4uKe"
+    "password": "?9X?5FkuoZ4uKe",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$Swv4nw/OCyjNTTzbeeOHgw==$qrv/KZGMmK0MG4Iw1oBoHZs6ADyGfMaE0eyS6+FLbw8="
   },
   "orologio561": {
-    "pin": "4610",
-    "password": "P)iLE$tifIf209"
+    "password": "P)iLE$tifIf209",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$3qQ8jxumDudoOaNAxqbeNg==$Ah4hbq/5Qhprpd3ES7ZOknFcAipRAOs+G+3/orv/jtk="
   },
   "orologio562": {
-    "pin": "0837",
-    "password": "^v1Qfb4J%8OiPv"
+    "password": "^v1Qfb4J%8OiPv",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$WYS1odxo4+5iijUhJEJOvg==$VxURovtKcuYKl5wtJYrDYFfHSvDf7b0cN1rDHSKC7Hg="
   },
   "orologio563": {
-    "pin": "1145",
-    "password": "Vmb+26h7kFXFs]"
+    "password": "Vmb+26h7kFXFs]",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$w6y3qPHz7GZcFz+7j1qBxA==$kkUMc+E/ziV0KV1bgEBGZL1Fs5/EWQPpuR/5UqmIVLU="
   },
   "orologio564": {
-    "pin": "7526",
-    "password": "=TwxsKQq:3l4W1"
+    "password": "=TwxsKQq:3l4W1",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$BvBxBKVJVgklUdP8N2YIdA==$FJyV333M9cq1dtWCD9dsDQpADWAcN84bmugGlhlPWG4="
   },
   "orologio565": {
-    "pin": "9025",
-    "password": "bt.XO1y20Ld_Ij"
+    "password": "bt.XO1y20Ld_Ij",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$/7INhwPW+5ZX3qCy40a2jQ==$WDEuTwOpT76zrq1X6OLlw2+Gpc+NndILGSjqB9ujins="
   },
   "orologio566": {
-    "pin": "2536",
-    "password": "QO.{nZiV8q03hv"
+    "password": "QO.{nZiV8q03hv",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$DIwp8dG6hAGU6e77M82nPA==$rDolxwsf+fl+IudhA/KuspMHdBzx49LAJ5RvzBLUhow="
   },
   "orologio567": {
-    "pin": "7558",
-    "password": "{1u(DyAT8Y9mfm"
+    "password": "{1u(DyAT8Y9mfm",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$+3QJEKwsEvdbK/tvJCCpdA==$7TyM3M6kxsI9c73pj907CLlUM2GlqbkABNXJSZglFNI="
   },
   "orologio568": {
-    "pin": "9990",
-    "password": "MgY7p,{SiyPu36"
+    "password": "MgY7p,{SiyPu36",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$250gFIi/Sfl+83N3kfwnoQ==$tyabcYQamEVCcRhZaXD9lqH3qGD1zjveUbXBRzXzkyY="
   },
   "orologio569": {
-    "pin": "2673",
-    "password": "r7G+KhrRJv44z!"
+    "password": "r7G+KhrRJv44z!",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$QGYv+MS7YsIOCodr8iLcsg==$beZVndkDFSuQVKEg0RssDiLJzmR5HCtpNdp5VJ9nHN4="
   },
   "orologio570": {
-    "pin": "3393",
-    "password": "9T9Tm]TozlVd3]"
+    "password": "9T9Tm]TozlVd3]",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$ZcfivzJSE1/b5iBbNfcF2Q==$UVGrNapqZ6+qZSeu3m2DufNcMrrIs6qXHmUIxMQD6mM="
   },
   "orologio571": {
-    "pin": "2133",
-    "password": "mKo{Hd[c3TE65k"
+    "password": "mKo{Hd[c3TE65k",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$c1mqDuKoOajjyLT1d+oY3g==$XZdssGQVBGKTkNjPrllXFyUy04cRmzQH2vUDJZgDV6A="
   },
   "orologio572": {
-    "pin": "3284",
-    "password": ".0+TenDBZ1bxl1"
+    "password": ".0+TenDBZ1bxl1",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$1iHdurb/L/yAfCAP6MCCjQ==$zwTW3q8HgET7cSxeR+3KmTdmTJdO4xoy7Ko72mwLcCA="
   },
   "orologio573": {
-    "pin": "7812",
-    "password": "Mj^52rp2IP_zTk"
+    "password": "Mj^52rp2IP_zTk",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$ORewDR2J07vDL6HjtL8lVg==$+4Oa9fJShmSUFUWRraB5oDABKSlxeSbQAUzMPWXMO24="
   },
   "orologio574": {
-    "pin": "8664",
-    "password": "x{C,8Xuof7E7Zl"
+    "password": "x{C,8Xuof7E7Zl",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$WxpPQA0bNRjdZJF9ggOq8w==$je8UWEFqCRz+KwXpQNhig3IZ9juopHnYs7P8AzbU2rc="
   },
   "orologio575": {
-    "pin": "0289",
-    "password": "CB7Rlm!0D:hce1"
+    "password": "CB7Rlm!0D:hce1",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$g5qrxlKD66EySP5WrD7ZIw==$kxh1rrF+ihKKf6i7ngt+zvgXuSGmZCk7gj2Vtp8VF2o="
   },
   "orologio576": {
-    "pin": "3355",
-    "password": "3ZbOz,6:jtD5Rs"
+    "password": "3ZbOz,6:jtD5Rs",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$zmCCogDpdh7663jQ3kIHrA==$zRubhbXNHP0tiVH68zLo1E3E7KLA226CKNLVcqqVIjg="
   },
   "orologio577": {
-    "pin": "1232",
-    "password": "06Wqe^]Quj5zGR"
+    "password": "06Wqe^]Quj5zGR",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$bkBBXWyRXcGNPr9BAbltMw==$llUh3o6jM6DnuEdIOmyvqpAU4CRXN40tG2KCD8psV4o="
   },
   "orologio578": {
-    "pin": "8124",
-    "password": "3P1beBkSo0@Ce,"
+    "password": "3P1beBkSo0@Ce,",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$W51Y2y1PQ37UQKT9lJ67Dw==$0WO2qBec+Ad06ai6zpLwrFb2oywtsTXyQ6e13ooKMx8="
   },
   "orologio579": {
-    "pin": "9468",
-    "password": "rl:soC2S15+uGA"
+    "password": "rl:soC2S15+uGA",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$Ssg6lUcbPvoHer7LkYz2xQ==$OmLwFhxREtjivQ6NHeqCTfxxrjInNTLTXh1l/wDCtu4="
   },
   "orologio580": {
-    "pin": "1889",
-    "password": "3EdPN]y0v5_Rcr"
+    "password": "3EdPN]y0v5_Rcr",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$DYBcEfVgFOLOuuRU++bEQg==$UziePafrrBTr1NQxrMk28Ss3laFMbLvGtSJqYMrLc/8="
   },
   "orologio581": {
-    "pin": "7530",
-    "password": "J+EIrdewm1.W62"
+    "password": "J+EIrdewm1.W62",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$yYweqp1YWYVXz9pz9IuwSw==$yvCvorjVY2AUtsJWqLMRQQf5qKsug03cYtc98IA5zXA="
   },
   "orologio582": {
-    "pin": "2429",
-    "password": "nH]f51rY7TuT]k"
+    "password": "nH]f51rY7TuT]k",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$4jkuJVAw/9saPtNIv0J/3g==$uv+WW7Y5gLiS/lQT4tYtALyFtdgQmBOF0UrzhCAGEPc="
   },
   "orologio583": {
-    "pin": "4395",
-    "password": "B83b3xTiQ!sBr,"
+    "password": "B83b3xTiQ!sBr,",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$SPlDFjIJWdbjkbuRGp3QUw==$W4QhxmJ8o5v3IP8dgKXg+cHpm+7NyC4XLLTrH+vwexo="
   },
   "orologio584": {
-    "pin": "2906",
-    "password": "1jla+I7lTsO_6H"
+    "password": "1jla+I7lTsO_6H",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$T0DoAMa//0527cgOAnYEsQ==$OAEZNOYSLEESTgwEmIHnVEIb69/AnA8YnX2qakWtBgA="
   },
   "orologio585": {
-    "pin": "5219",
-    "password": "WZJ=i922unZm}n"
+    "password": "WZJ=i922unZm}n",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$q9/QL3GnJNcd3gj9L7l0vg==$9pFBVKG/YUBFShbCAvW6HwTVC9hxWe6edCdR2uVKS4I="
   },
   "orologio586": {
-    "pin": "6184",
-    "password": "FMyHtr1vz&7$6N"
+    "password": "FMyHtr1vz&7$6N",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$eazmAwhT6SjMu9SHw0+ZUg==$x3CbThhJtHyXhbn2PYiSRKjl/ArX53bhqmyLhNVOZuk="
   },
   "orologio587": {
-    "pin": "3189",
-    "password": "sYyhqS25&y#6QC"
+    "password": "sYyhqS25&y#6QC",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$gF+O6cw7v6DIfgt+wsGB4Q==$88qg/uo5s5sud1cMwCkzkojrK0UtlwI8/yJtsA+9fU8="
   },
   "orologio588": {
-    "pin": "7059",
-    "password": "Z4us1j#hsSG{H9"
+    "password": "Z4us1j#hsSG{H9",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$QA73SU7KGrCueJJ6Tr7R7A==$LfRz+g+fWZ2A0tSfmpfA0CcM9KhYRCfmPtyJgiY03AA="
   },
   "orologio589": {
-    "pin": "0205",
-    "password": "88pv2Cgc(lHJ[N"
+    "password": "88pv2Cgc(lHJ[N",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$g/zX1R67kFUgTPXF8Ym0ew==$TRdcJb925bNG99udUeNGyEyO9Cv3jXFF1stp7b03bRc="
   },
   "orologio590": {
-    "pin": "5292",
-    "password": "MRksX#)g345Asw"
+    "password": "MRksX#)g345Asw",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$+cODIQENCHHD1+RALBYwMw==$572Fa1lvEoqcD/JVkz/DTIgAUdU+fd0GwLkyGds7+Bc="
   },
   "orologio591": {
-    "pin": "7645",
-    "password": "!5Lkinw8sS5OT."
+    "password": "!5Lkinw8sS5OT.",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$LoTd+cIbu9JSmbFT11gqeg==$LX5xOSM3PHL4d5qebvSDT0zki8+DFVYmxIJ4WlIKLHk="
   },
   "orologio592": {
-    "pin": "6812",
-    "password": "NMnBJf$5wu3.y2"
+    "password": "NMnBJf$5wu3.y2",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$Vgajjdy5WeqGHrbztKhazw==$EYHbLbPoF3JDBFuRPmBYbsQwEt5Gdq1S7PdgrbCR/8s="
   },
   "orologio593": {
-    "pin": "3603",
-    "password": "nSS.49No0bZj#m"
+    "password": "nSS.49No0bZj#m",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$z58C0I2xjto4FeEvWDw1cA==$09tc2Coth9Mxz7rNIajBlviknWbN3BzWW0h5lcYq9H4="
   },
   "orologio594": {
-    "pin": "6336",
-    "password": "sV5Un46Tkjj%+J"
+    "password": "sV5Un46Tkjj%+J",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$xmVBQdtN4WPFKM6AML7cmQ==$7SRS6IbLh1PJzEQxEwWelAa5OvK6yzXsNhfgfKdirO8="
   },
   "orologio595": {
-    "pin": "7898",
-    "password": "sGj*0zxvZA5B,3"
+    "password": "sGj*0zxvZA5B,3",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$cbyyzIh6/g1a4I8zni2niQ==$o9RkSIcvakHyweRfm8TyceZFegIzC4VQlS7SV3JaUU0="
   },
   "orologio596": {
-    "pin": "9132",
-    "password": "b.6OE4KWq2d)cs"
+    "password": "b.6OE4KWq2d)cs",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$R8AD9vDFoQ7wNhWGAEL67A==$tGNsM7U04p4pVjTNbAq8FcCX50x5FPVZn3TOjxUnUYc="
   },
   "orologio597": {
-    "pin": "6398",
-    "password": "1n?)Bi9JXt4Nrp"
+    "password": "1n?)Bi9JXt4Nrp",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$REl4iPvTIgET+MUoa4SLWA==$k5ROl388guUBMm2qdfG+98iPBFqS8U2pXaYWM44pmig="
   },
   "orologio598": {
-    "pin": "8082",
-    "password": "7zaRm&Ts,8L1bM"
+    "password": "7zaRm&Ts,8L1bM",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$Qjf4aYbWuP/BOQUTrN3FAA==$xloN9jRySxHJE3U05vCyjAc1Fkosa9oCv7Cyi+AEUU0="
   },
   "orologio599": {
-    "pin": "4868",
-    "password": "9N;y1Z5qld+zXX"
+    "password": "9N;y1Z5qld+zXX",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$FGxHkhzn0XpH4CUU6PLscA==$Tcqs82YyR0uhKNjrQof+2ZVkEKy8caCWsktEdzD8m9I="
   },
   "orologio600": {
-    "pin": "7193",
-    "password": "nn43H.oCZ6jVa)"
+    "password": "nn43H.oCZ6jVa)",
+    "pin_hash": "scrypt$N=16384,r=8,p=1$5m1vZWgFuu3y71ZGu4d0RA==$5xeJtpcnKX3X7nTdpY2l85J78yW/KtRap4CnMcbMotU="
   }
 }
