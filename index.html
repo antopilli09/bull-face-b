@@ -11,7 +11,7 @@
     :root {
       --bg-color: #121212;
       --card-bg: rgba(30, 30, 30, 0.85);
-      --primary: #f5c542; /* Colore giallo lucchetto */
+      --primary: #f5c542;
       --text: #e0e0e0;
       --error: #e03131;
       --success: #2f9e44;
@@ -21,68 +21,34 @@
     body {
       font-family: 'Inter', sans-serif;
       background: var(--bg-color) url('background.jpg') center/cover no-repeat;
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      height: 100vh;
-      padding: 20px;
+      display: flex; align-items: center; justify-content: center;
+      min-height: 100vh; padding: 20px;
     }
     .card {
       background: var(--card-bg);
-      padding: 40px;
-      border-radius: 12px;
+      padding: 40px; border-radius: 12px;
       box-shadow: 0 8px 24px var(--shadow);
-      max-width: 360px;
-      width: 100%;
-      text-align: center;
-      backdrop-filter: blur(10px);
+      max-width: 360px; width: 100%;
+      text-align: center; backdrop-filter: blur(10px);
     }
-    .card h1 {
-      font-size: 1.6rem;
-      margin-bottom: 0.5rem;
-      color: var(--text);
-    }
-    .card p {
-      margin-bottom: 2rem;
-      color: var(--text);
-      font-size: 0.95rem;
-    }
+    .card h1 { font-size: 1.6rem; margin-bottom: .5rem; color: var(--text); }
+    .card p { margin-bottom: 1.25rem; color: var(--text); font-size: .95rem; }
     .card input {
-      width: 100%;
-      padding: 12px;
-      font-size: 1rem;
-      border: 2px solid #333;
-      border-radius: 6px;
-      margin-bottom: 1rem;
-      background: #2a2a2a;
-      color: var(--text);
-      transition: border-color .2s;
+      width: 100%; padding: 12px; font-size: 1rem;
+      border: 2px solid #333; border-radius: 6px; margin-bottom: 1rem;
+      background: #2a2a2a; color: var(--text); transition: border-color .2s;
     }
-    .card input::placeholder { color: #999; }
-    .card input:focus {
-      outline: none;
-      border-color: var(--primary);
+    .card input::placeholder{ color:#999 }
+    .card input:focus{ outline: none; border-color: var(--primary); }
+    .card button{
+      width:100%; padding:12px; font-size:1rem;
+      background:var(--primary); color:#121212; border:0; border-radius:6px; cursor:pointer;
     }
-    .card button {
-      width: 100%;
-      padding: 12px;
-      font-size: 1rem;
-      background: var(--primary);
-      color: #121212;
-      border: none;
-      border-radius: 6px;
-      cursor: pointer;
-      transition: background .2s;
-    }
-    .card button:hover { background: #ddb341; }
-    .message {
-      font-size: 0.95rem;
-      margin-top: 1rem;
-      display: none;
-    }
-    .message.visible { display: block; }
-    .message.error { color: var(--error); }
-    .message.success { color: var(--success); }
+    .card button:hover{ filter:brightness(0.95) }
+    .message{ font-size:.95rem; margin-top:1rem; display:none }
+    .message.visible{ display:block }
+    .message.error{ color:var(--error) }
+    .message.success{ color:var(--success) }
   </style>
 </head>
 <body>
@@ -91,63 +57,17 @@
     <h1>🔐 Bull Face B</h1>
     <p>Inserisci ID orologio e PIN per sbloccare l’accesso:</p>
 
-    <input id="id" placeholder="es. orologio001" />
-    <input type="password" id="pin" placeholder="✔︎ PIN a 4 cifre" inputmode="numeric" autofocus />
-    <button onclick="sblocca()">Sblocca</button>
+    <!-- niente JS inline: il submit è gestito in app.js -->
+    <form id="unlockForm" autocomplete="off" novalidate>
+      <input id="id" name="id" placeholder="es. orologio001" />
+      <input type="password" id="pin" name="pin" placeholder="✔︎ PIN a 4 cifre" inputmode="numeric" />
+      <button type="submit">Sblocca</button>
+    </form>
 
     <div id="msg" class="message"></div>
   </div>
 
-  <script>
-    // Precompila ID se è presente nell'URL (/orologio001 o ?id=orologio001)
-    (function preloadIdFromUrl() {
-      const params = new URLSearchParams(location.search);
-      const qid = params.get('id');
-      const pathSeg = location.pathname.replace(/^\/+/, '').trim(); // es. "orologio001"
-      const idInput = document.getElementById('id');
-      if (qid) idInput.value = qid;
-      else if (pathSeg && !pathSeg.includes('.')) idInput.value = pathSeg; // evita index.html
-    })();
-
-    async function sblocca() {
-      const id = document.getElementById('id').value.trim();
-      const pin = document.getElementById('pin').value.trim();
-      const msg = document.getElementById('msg');
-
-      msg.className = 'message';
-      msg.textContent = '';
-
-      if (!id || !pin) {
-        msg.textContent = 'Inserisci sia ID che PIN.';
-        msg.classList.add('visible','error');
-        return;
-      }
-
-      try {
-        const res = await fetch('/api/unlock', {
-          method: 'POST',
-          headers: { 'Content-Type': 'application/json' },
-          cache: 'no-store',
-          body: JSON.stringify({ id, pin })
-        });
-
-        const data = await res.json();
-
-        if (!res.ok || !data.ok) {
-          msg.textContent = '❌ ID/PIN non validi.';
-          msg.classList.add('visible','error');
-          return;
-        }
-
-        // Se ok: redirect con token
-window.location.href = '/area-sicura.html?token=' + data.token;
-
-      } catch (e) {
-        console.error(e);
-        msg.textContent = '⚠️ Errore di rete o server.';
-        msg.classList.add('visible','error');
-      }
-    }
-  </script>
+  <!-- JS esterno, compatibile con CSP -->
+  <script src="/app.js" defer></script>
 </body>
 </html>
