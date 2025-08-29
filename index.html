@@ -64,10 +64,9 @@
       <button type="submit">Sblocca</button>
     </form>
 
-    <div id="msg" class="message"></div>
-  </div>
+   <div id="msg" class="message"></div>
 
-  <!-- JS esterno, compatibile con CSP -->
-  <script src="/app.js" defer></script>
+<!-- Cache-busting per evitare vecchia versione -->
+<script src="/app.js?v=2" defer></script>
 </body>
 </html>
