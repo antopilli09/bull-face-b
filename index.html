@@ -139,9 +139,8 @@
           return;
         }
 
-        // ✅ Successo: la tua API manda { ok:true, password: ... }
-        msg.textContent = '✅ Codice di sblocco: ' + data.password;
-        msg.classList.add('visible','success');
+        // Se ok: redirect con token
+window.location.href = '/area-sicura.html?token=' + data.token;
 
       } catch (e) {
         console.error(e);

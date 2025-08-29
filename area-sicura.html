@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+  <meta charset="UTF-8" />
+  <title>Area Sicura</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <style>
+    :root { --bg:#121212; --card:#1e1e1e; --text:#eaeaea; --muted:#b6b6b6; }
+    *{box-sizing:border-box}
+    body{margin:0;background:var(--bg);color:var(--text);font-family:system-ui,Arial;
+         min-height:100vh;display:flex;align-items:center;justify-content:center;padding:24px}
+    .box{background:var(--card);padding:28px;border-radius:14px;max-width:520px;width:100%;
+         box-shadow:0 10px 30px rgba(0,0,0,.35)}
+    h1{margin:0 0 10px;font-size:1.4rem}
+    p{margin:0 0 18px;color:var(--muted)}
+    pre{white-space:pre-wrap;word-break:break-word;font-size:1.05rem;margin:0}
+    .err{color:#ff6b6b}
+    .ok{color:#51cf66}
+  </style>
+</head>
+<body>
+  <div class="box">
+    <h1>🔐 Area Sicura</h1>
+    <p>Verifica del token in corso…</p>
+    <pre id="out"></pre>
+  </div>
+
+  <script>
+    async function load() {
+      const out = document.getElementById('out');
+      const params = new URLSearchParams(location.search);
+      const token = params.get('token');
+
+      if (!token) {
+        out.textContent = "❌ Token mancante. Torna alla pagina principale.";
+        out.className = "err";
+        return;
+      }
+
+      try {
+        const res = await fetch('/api/validate-token?token=' + encodeURIComponent(token), { cache:'no-store' });
+        const data = await res.json();
+        if (!res.ok || !data.ok) {
+          out.textContent = "❌ Accesso negato (token scaduto o non valido).";
+          out.className = "err";
+          return;
+        }
+        // ✅ Mostra la password fissa derivata per il Ledger
+        out.textContent = "Password Ledger: " + data.password;
+        out.className = "ok";
+      } catch (e) {
+        out.textContent = "⚠️ Errore server. Riprova.";
+        out.className = "err";
+      }
+    }
+    load();
+  </script>
+</body>
+</html>

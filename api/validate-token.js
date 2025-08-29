@@ -9,7 +9,9 @@ module.exports = (req, res) => {
 
   const { token } = req.query;
   const rec = token && tokens[token];
-  if (!rec) return res.status(401).json({ ok:false, error:'Token non valido' });
+  if (!rec) {
+    return res.status(401).json({ ok:false, error:'Token non valido' });
+  }
 
   if (Date.now() > rec.exp) {
     delete tokens[token];
