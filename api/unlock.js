@@ -3,73 +3,55 @@ const fs = require('fs');
 const path = require('path');
 const crypto = require('crypto');
 
-function verifyScrypt(pin, stored) {
-  // formato: scrypt$N=...,r=...,p=...$<saltB64>$<hashB64>
-  const [alg, params, saltB64, hashB64] = String(stored).split('$');
-  if (alg !== 'scrypt') return false;
+const MASTER_SECRET = process.env.MASTER_SECRET || 'DEV-CHANGE-ME';
 
-  const cfg = Object.fromEntries(params.split(',').map(x => x.split('=')));
-  const N = parseInt(cfg.N, 10), r = parseInt(cfg.r, 10), p = parseInt(cfg.p, 10);
-  const salt = Buffer.from(saltB64, 'base64');
-  const expected = Buffer.from(hashB64, 'base64');
-
-  const derived = crypto.scryptSync(String(pin), salt, expected.length, { N, r, p });
-  return crypto.timingSafeEqual(derived, expected);
-}
-
-// Deriva una password FISSA per l'ID usando un segreto master
+// derivazione password deterministica da ID + MASTER_SECRET
 function derivePassword(id) {
-  const master = process.env.MASTER_SECRET;
-  if (!master) throw new Error('MASTER_SECRET non definita');
-
-  // HMAC-SHA256(master, id) → codifica base32 (20 char)
-  const hmac = crypto.createHmac('sha256', master).update(String(id)).digest();
-  const alphabet = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ234567';
-  let bits = '', out = '';
-  for (const b of hmac) bits += b.toString(2).padStart(8, '0');
-  for (let i = 0; i + 5 <= bits.length && out.length < 20; i += 5) {
-    out += alphabet[parseInt(bits.slice(i, i + 5), 2)];
-  }
-  return out; // sempre uguale per stesso id + master
+  return crypto
+    .createHash('sha256')
+    .update(`${id}:${MASTER_SECRET}`)
+    .digest('base64')
+    .slice(0, 16);
 }
 
-// Archivio token temporanei (RAM; si svuota ai cold start)
-const tokens = {};
+// token HMAC "payload.sig", payload = base64url({ id, exp })
+function signToken(payloadObj) {
+  const payload = Buffer.from(JSON.stringify(payloadObj)).toString('base64url');
+  const sig = crypto.createHmac('sha256', MASTER_SECRET).update(payload).digest('base64url');
+  return `${payload}.${sig}`;
+}
 
-module.exports = async (req, res) => {
+module.exports = (req, res) => {
   if (req.method !== 'POST') {
     res.setHeader('Allow', 'POST');
-    return res.status(405).json({ ok:false, error:'Method not allowed' });
+    return res.status(405).json({ ok: false, error: 'Method not allowed' });
   }
 
   try {
     const { id, pin } = req.body || {};
-    if (!id || !pin) return res.status(400).json({ ok:false, error:'Parametri mancanti' });
+    if (!id || !pin) return res.status(400).json({ ok: false, error: 'Missing id or pin' });
 
-    // Legge il DB (solo PIN hashati)
-    const jsonPath = path.join(process.cwd(), 'api', '_data', 'dati.json');
-    const db = JSON.parse(fs.readFileSync(jsonPath, 'utf-8'));
+    // leggi solo dalla cartella privata
+    const jsonPath = path.join(__dirname, '_data', 'dati.json');
+    const data = JSON.parse(fs.readFileSync(jsonPath, 'utf8'));
 
-    const rec = db[id];
-    if (!rec || !rec.pin_hash) {
-      return res.status(401).json({ ok:false, error:'Credenziali non valide' });
+    const rec = data[id];
+    if (!rec) return res.status(404).json({ ok: false, error: 'ID not found' });
+
+    if (String(pin) !== String(rec.pin)) {
+      return res.status(401).json({ ok: false, error: 'Invalid PIN' });
     }
 
-    if (!verifyScrypt(pin, rec.pin_hash)) {
-      return res.status(401).json({ ok:false, error:'Credenziali non valide' });
-    }
+    // crea token che scade tra 2 minuti
+    const exp = Date.now() + 2 * 60 * 1000;
+    const token = signToken({ id, exp });
 
-    // ✅ Genera token monouso (valido 60s)
-    const token = crypto.randomBytes(16).toString('hex');
-    tokens[token] = { id, exp: Date.now() + 60_000 };
-
-    return res.status(200).json({ ok:true, token });
+    return res.status(200).json({ ok: true, token });
   } catch (e) {
-    console.error('unlock error:', e);
-    return res.status(500).json({ ok:false, error:'Errore interno' });
+    console.error(e);
+    return res.status(500).json({ ok: false, error: 'Server error' });
   }
 };
 
-// Esporta per l'altra API
-module.exports.tokens = tokens;
+// esporto per riuso da validate-token.js
 module.exports.derivePassword = derivePassword;
